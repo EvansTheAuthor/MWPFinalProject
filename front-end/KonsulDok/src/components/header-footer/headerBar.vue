@@ -7,10 +7,18 @@
 </template>
 
 <style>
+.menu-links{
+    width: 100%;
+    height: 60px;
+    background-color: #800000;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+}
+
 .menu-links a{
-    display: inline-block;
     text-decoration: none;
-    color: #555;
+    color: #fff;
     margin-right: 30px;
 }
 </style>

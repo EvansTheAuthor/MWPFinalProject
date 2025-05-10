@@ -38,12 +38,17 @@ function loggedIn() {
 }
 
 .username-input, .email-input, .password-input{
+  width: 500px;
+  height: 50px;
   border: 1px black solid;
   border-radius: 20px;
   text-align: center;
 }
 
 .signup-signup{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
   background: #800000;
   color: white;
 }

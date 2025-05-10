@@ -24,6 +24,9 @@ function goToLogin() {
 }
 
 .landing-login{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
   background: #800000;
   color: white;
 }
