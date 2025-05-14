@@ -1,6 +1,6 @@
 <script setup>
 import headerBar from './components/header-footer/headerBar.vue';
-import HelloWorld from './components/HelloWorld.vue'
+import footerBar from './components/header-footer/footerBar.vue';
 import router from './routers';
 </script>
 
@@ -10,6 +10,7 @@ import router from './routers';
     <main class="page-content">
       <router-view/>
     </main>
+    <footerBar/>
   </div>
 </template>
 

@@ -2,6 +2,10 @@ import Landing from './components/Landing.vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Login from './components/Login.vue'
 import SignUp from './components/SignUp.vue'
+import Main from './components/Main.vue'
+import Profile from './components/Profile.vue'
+import DoctorList from './components/DoctorList.vue'
+import PrivacyPolicy from './components/PrivacyPolicy.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
@@ -24,6 +28,26 @@ const routes = [
         name: 'SignUp',
         component: SignUp,
         path: '/SignUp'
+    },
+    {
+        name:'Main',
+        component: Main,
+        path: '/Main'
+    },
+    {
+        name: 'Profile',
+        component: Profile,
+        path: '/Profile'
+    },
+    {
+        name: 'DoctorList',
+        component: DoctorList,
+        path: '/DoctorList'
+    },
+    {
+        name: 'PrivacyPolicy',
+        component: PrivacyPolicy,
+        path: '/PrivacyPolicy'
     }
 ]
 

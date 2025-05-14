@@ -26,7 +26,7 @@ import { useRouter } from 'vue-router';
 const router = useRouter()
 
 function loggedIn() {
-  router.push('/HelloWorld')
+  router.push('/Main')
 }
 </script>
 
