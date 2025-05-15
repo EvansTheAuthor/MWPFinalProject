@@ -3,13 +3,15 @@
     <h1 class="welcome-main mb-25">Selamat datang kembali, user!</h1>
     <div class="button-main flex justify-center">
         <button class="profile-main m-5 h-40 w-40" @click="toProfile">Profil Akun</button>
-        <button class="order-main m-5 h-40 w-40">Pesan Layanan</button>
+        <button class="order-main m-5 h-40 w-40" @click="toDocList">Pesan Layanan</button>
+        <button class="logout-main m-5 h-40 w-40" @click="toLogin">Keluar</button>
     </div>
+    <a href="/PrivacyPolicy">Kebijakan Layanan</a>
   </form>
 </template>
 
-<script>
-import { useRouter } from 'vue-router';
+<script setup>
+import { useRouter } from 'vue-router'
 
 const router = useRouter()
 
@@ -17,8 +19,13 @@ function toProfile() {
     router.push('/Profile')
 }
 
-function toOrder() {
-    router.push()
+function toDocList() {
+    router.push('/DocList')
+    
+}
+
+function toLogin() {
+    router.push('/Login')
 }
 </script>
 
@@ -27,7 +34,7 @@ function toOrder() {
     color: #800000;
 }
 
-.profile-main{
+.profile-main, .logout-main{
     border: 3px #800000 solid;
     color: #800000;
 }

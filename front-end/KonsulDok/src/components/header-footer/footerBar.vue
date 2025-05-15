@@ -3,9 +3,9 @@
     <div class="footer-section basis-1/4">
             <h3>Quick Links</h3>
             <ul>
-                <li><a href="../Main.vue">Beranda</a></li>
-                <li><a href="../Login.vue">Masuk</a></li>
-                <li><a href="../PrivacyPolicy.vue">Kebijakan Privasi</a></li>
+                <li><a href="/Main">Beranda</a></li>
+                <li><a href="/Login">Masuk</a></li>
+                <li><a href="/PrivacyPolicy">Kebijakan Privasi</a></li>
             </ul>
         </div>
 
