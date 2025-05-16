@@ -6,6 +6,7 @@ import Main from './components/Main.vue'
 import Profile from './components/Profile.vue'
 import DoctorList from './components/DoctorList.vue'
 import PrivacyPolicy from './components/PrivacyPolicy.vue'
+import EditProfile from './components/EditProfile.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
@@ -48,6 +49,11 @@ const routes = [
         name: 'PrivacyPolicy',
         component: PrivacyPolicy,
         path: '/PrivacyPolicy'
+    },
+    {
+        name: 'EditProfile',
+        component: EditProfile,
+        path: '/EditProfile'
     }
 ]
 

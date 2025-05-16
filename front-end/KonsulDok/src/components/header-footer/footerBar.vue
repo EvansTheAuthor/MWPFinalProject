@@ -1,6 +1,6 @@
 <template>
   <main class="footer flex justify-between flex-wrap gap-4 p-6 bg-gray-800 text-white">
-    <div class="footer-section basis-1/4">
+        <div class="footer-section basis-1/4">
             <h3>Quick Links</h3>
             <ul>
                 <li><a href="/Main">Beranda</a></li>
@@ -24,7 +24,7 @@
             </div>
         </div>
 
-        <div class="footer-section basis-1/4">
+        <div class="footer-section basis-1/4 text-center">
             <p>©KonsulDok 2025. All rights reserved.</p>
         </div>
   </main>
