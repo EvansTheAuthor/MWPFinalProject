@@ -5,6 +5,7 @@ import SignUp from './components/SignUp.vue'
 import Main from './components/Main.vue'
 import Profile from './components/Profile.vue'
 import DoctorList from './components/DoctorList.vue'
+import DocCategory from './components/DocCategory.vue'
 import PrivacyPolicy from './components/PrivacyPolicy.vue'
 import EditProfile from './components/EditProfile.vue'
 import { createRouter, createWebHistory } from 'vue-router'
@@ -39,6 +40,10 @@ const routes = [
         name: 'Profile',
         component: Profile,
         path: '/Profile'
+    },{
+        name: 'DocCategory',
+        component: DocCategory,
+        path: '/DocCategory'
     },
     {
         name: 'DoctorList',
