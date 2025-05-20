@@ -1,15 +1,15 @@
 <template>
-  <main class="doc-list-container">
+  <main class="doc-list-container p-8">
     <h1>Daftar Dokter</h1>
     <div>
-        <div class="doc-list">
+        <div class="doc-list flex gap-4 flex-wrap justify-center">
             <div class="doc-card" v-for="doctor in doctors" :key="doctor.id">
-            <img :src="doctor.image" alt="Doctor Image" />
-            <h2>{{ doctor.name }}</h2>
-            <p>{{ doctor.specialty }}</p>
-            <p>{{ doctor.experience }} years of experience</p>
-            <p>RS {{ doctor.hospital }}</p>
-            <button @click="bookAppointment(doctor.id)">Buat Janji</button>
+                <img :src="doctor.image" alt="Doctor Image" loading="lazy" @error="handleImageError"/>
+                <h2>{{ doctor.name }}</h2>
+                <p>{{ doctor.specialty }}</p>
+                <p>{{ doctor.experience }} tahun pengalaman</p>
+                <p>RS {{ doctor.hospital }}</p>
+                <button @click="bookAppointment(doctor.id)">Buat Janji</button>
             </div>
         </div>
     </div>
@@ -51,11 +51,14 @@ export default {
     methods: {
         bookAppointment(doctorId) {
             console.log(`Booking appointment for doctor with ID: ${doctorId}`);
+        },
+        handleImageError(event) {
+            event.target.src = 'default-image.jpg'; // Fallback image
         }
     }
   }
 </script>
 
-<style>
+<style scoped>
 
 </style>
