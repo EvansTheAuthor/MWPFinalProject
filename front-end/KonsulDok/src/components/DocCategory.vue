@@ -16,7 +16,7 @@
             <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Jiwa</button>
             <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Penyakit Dalam</button>
             <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Bedah Umum</button>
-            <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Bedah Saraf</button>
+            <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Mata</button>
             <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Bedah Ortopedi</button>
             <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Kardiovaskular</button>
             <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Anestesi</button>

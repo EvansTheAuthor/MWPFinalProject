@@ -1,0 +1,20 @@
+# I use WSL Debian Distro based so sorry for Ubuntu guys. I know nothing 'bout it :3
+
+# just copy paste it on your terminal. Make sure you install them on root directory.
+
+sudo apt update && sudo apt install -y \
+    python3 python3-pip python3-venv unzip wget curl \
+    libglib2.0-0 libnss3 libgconf-2-4 libxss1 libasound2 \
+    libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxi6 libxtst6
+
+# You need a chrome-driver that supported with chrome-browser to ensure your enviroment simulating the scraping session so make sure you install it too.
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install -y ./google-chrome-stable_current_amd64.deb
+
+CHROME_VERSION=$(google-chrome --version | grep -oP '[0-9]+' | head -1)
+CHROMEDRIVER_VERSION=$(wget -qO- https://chromedriver.storage.googleapis.com/LATEST_RELEASE_${CHROME_VERSION})
+wget https://chromedriver.storage.googleapis.com/${CHROMEDRIVER_VERSION}/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip
+sudo mv chromedriver /usr/local/bin/
+sudo chmod +x /usr/local/bin/chromedriver

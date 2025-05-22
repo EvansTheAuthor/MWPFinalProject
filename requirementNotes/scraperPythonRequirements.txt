@@ -1,0 +1,24 @@
+# if you don't have any python environment, even the python itself, then install it on your wsl terminal.
+# Make sure you install the python on root directory then the environment on your project folder.
+
+sudo apt install -y python3 python3-pip python3-venv
+
+# I'll make it clear again. Install it on your project folder. Move out with `cd ~/Your-Project-Folder`
+
+python3 -m venv .venv
+source .venv/bin/activate #it's to activating the environment.
+
+# Remember, if .venv appears on your root project, that means you're totally wrong.
+# If you got that case, consult your programmer friend or AI chatbot to know how to do it on the right way.
+# How to exit the environment? Just type `deactivate` on your terminal. That's it.
+
+
+# access it with command `pip install -r scraperPythonRequirements.txt`
+
+selenium
+beautifulsoup4
+lxml
+
+# Or, you can copy paste it on your terminal (of course, with activated environment)
+
+pip install requests beautifulsoup4 lxml selenium webdriver-manager fake-useragent pandas
