@@ -1,0 +1,991 @@
+name,speciality,hospital,city,timestamp
+dr. Abdul Gaffar Hamzah Sp.PD,Sp. Penyakit Dalam,RS Citama,"Bojonggede, Kabupaten Bogor",2025-05-23 13:23:08
+"Prof. dr. Abdul Majid, Sp.PD-KKV",Sp. Penyakit Dalam,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 13:23:08
+dr. Abiran Nababan Sp.PD - KGEH,Sp. Penyakit Dalam,RSU Santa Elisabeth Medan,"Medan Maimun, Kota Medan",2025-05-23 13:23:08
+"dr. Abram Pratama, Sp.PD (Khusus Praktek Sore)",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:23:08
+"dr. Abram Pratama, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:23:08
+"dr. Adang Sabarudin , Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:23:08
+"dr. Ade Rahmawati, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pamulang,"Pamulang, Tangerang Selatan",2025-05-23 13:23:08
+"dr. Adhita Kartyanto, Sp.PD",Sp. Penyakit Dalam,RSU Syubbanul Wathon,"Pakis, Kabupaten Magelang",2025-05-23 13:23:08
+"dr. Adi Kurniawan , Sp.PD,K-Al,FINASIM","Sp. Penyakit Dalam, Sp. PD Geriatri",RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 13:23:08
+dr. Aditya Tjandra Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:23:08
+dr. Andi Pratama SpPD,Sp. Penyakit Dalam,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",2025-05-23 13:23:14
+Dr. Andi Pratama Dharma Sp.PD,Sp. Penyakit Dalam,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",2025-05-23 13:23:14
+dr. Andre Indrajaya Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:14
+"dr. Andre Indrajaya, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:14
+"dr. Andree Kurniawan, Sp.PD-FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Kelapa Dua,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:14
+"dr. Andree Kurniawan, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:14
+dr. Andri Affandi Sp.PD,Sp. Penyakit Dalam,RS Kenari Graha Medika,"Cileungsi, Kabupaten Bogor",2025-05-23 13:23:14
+"dr. Andri Budiman, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",2025-05-23 13:23:14
+"dr. Andrianus Gatot Sugiharto, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 13:23:14
+"dr. Andry Sultana, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 13:23:14
+"dr. Anggra Filani, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 13:23:16
+"dr. Anggun Mekar Kusuma, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:16
+"dr. Anjab Akmal Syaroni, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 13:23:16
+"dr. Anna Ariane, SpPD-KR",Sp. Penyakit Dalam,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",2025-05-23 13:23:16
+"dr. Anna Marianna Astrid Budiman, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 13:23:16
+"dr. Annisa Irawati, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 13:23:16
+"dr. Anugrah Riansari M.Kes, SpPD",Sp. Penyakit Dalam,Primaya Hospital Semarang,"Tembalang, Kota Semarang",2025-05-23 13:23:16
+"dr. Anugrahini Irawati, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:23:16
+"dr. Anwar Jalling, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Buton,"Wolio, Kota Bau-Bau",2025-05-23 13:23:16
+"dr. Arie Rozzaqi Nurrafiani , Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Cinere ( RS Khusus Jantung Diagram Depok),"Cinere, Depok",2025-05-23 13:23:16
+Dr. Arif Koswandi Sp. PD,Sp. Penyakit Dalam,RS Awal Bros Batam,"Lubuk Baja, Kota Batam",2025-05-23 13:23:18
+"dr. Arif Sejati, Sp.PD-KKV",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:18
+Arinditia Triasti Putri Sp.PD,Sp. Penyakit Dalam,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 13:23:18
+dr. Asdi Predi Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 13:23:18
+"dr. Audy Meutia Ariana, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:23:18
+dr Aulia Malik Ayub Sp. PD,Sp. Penyakit Dalam,RS Puri Cinere,"Cinere, Depok",2025-05-23 13:23:18
+"dr. B. Neni Mulyanti, Sp.PD",Sp. Penyakit Dalam,RS Telogorejo,"Semarang Tengah, Kota Semarang",2025-05-23 13:23:18
+"dr Bagus Anindito, Sp.PD",Sp. Penyakit Dalam,RSU Pindad,"Kiaracondong, Kota Bandung",2025-05-23 13:23:18
+"dr. Baringin de Samakto Sitompul, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:23:18
+"dr. Benjamin Sastro, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 13:23:18
+"DR. dr. Benyamin Lukito, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:21
+"dr. Boedi Tedjodihardjo, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 13:23:21
+"dr. Bona Adhista, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 13:23:21
+dr Bowo Pramono Sp. PD KEMD,Sp. Penyakit Dalam,JIH Jogja,"Kecamatan Depok, Kabupaten Sleman",2025-05-23 13:23:21
+"dr. Budi Widodo, Sp.PD., FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:21
+"dr. Candra Wibowo, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:23:21
+"dr. Candra Wiguna, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:21
+"dr. Chandra Irwanadi Mohani, Sp.PD-KGH",Sp. Penyakit Dalam,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 13:23:21
+dr. Chica Pratiwi Sp PD,Sp. Penyakit Dalam,RSIA Bina Medika,"Pondok Aren, Tangerang Selatan",2025-05-23 13:23:21
+"dr. Christian Syukur , Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 13:23:21
+"dr. Christian Theodorus Hendra Kawengian, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Manado,"Wenang, Kota Manado",2025-05-23 13:23:23
+"dr. Cindy, Sp.PD., M.Biomed",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:23
+"dr. Citra Inderawati, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:23:23
+"Dr. dr. Cosphiadi Irawan, Sp.PD-KHOM",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:23
+"dr. Cynthia G. A Sugeng, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Delta Mas,"Cikarang Pusat, Kabupaten Bekasi",2025-05-23 13:23:23
+DR RICO NOVYANTO SP PD,Sp. Penyakit Dalam,RS Harapan Keluarga Mataram,"Sandubaya, Kota Mataram",2025-05-23 13:23:23
+DR YIAW KIAN MUN,Sp. Penyakit Dalam,Sunway Medical Centre,"Mampang Prapatan, Jakarta Selatan",2025-05-23 13:23:23
+DR. ANJAR SP.PD,Sp. Penyakit Dalam,Rspad Gatot Subroto (Paviliun),"Senen, Jakarta Pusat",2025-05-23 13:23:23
+"DR. dr. Riri Andri Muzasti, M.Ked (PD), SpPD-KGH, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 13:23:23
+DR.dr.Irsan Hasan Sp.PD KGEH FINASIM,Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:23
+"dr. Dana Pramudya, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:25
+"dr. Daniel Gunawan, Sp.PD",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:25
+"dr. Dany Irawan, Sp.PD , FINASIM",Sp. Penyakit Dalam,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 13:23:25
+"dr. Daru Jaka Sulistya, Sp.PD., M.Sc",Sp. Penyakit Dalam,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 13:23:25
+"dr. David Kristanto Prajitno, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:23:25
+dr. David Kristanto Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:23:25
+"dr. Delia Anastasia Tirtadjaja, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 13:23:25
+dr. Dendi Andrean Sp. PD,Sp. Penyakit Dalam,RS Pradipa Medika,"Cilimus, Kabupaten Kuningan",2025-05-23 13:23:25
+dr. Dewanto Tedjoatmodjo Sp.PD,Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:23:25
+"dr. Dewi Astrid Lestari, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:23:25
+dr. Dhany Hanurdoyo Sp.PD,Sp. Penyakit Dalam,RS Lira Medika,"Karawang Timur, Kabupaten Karawang",2025-05-23 13:23:27
+dr. Diana Lilim Sp.PD,Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:23:27
+"dr. Diana Paramita, Sp.PD-KHOM",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:27
+"dr. Didin Retno Endah Palupi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Palangka Raya,"Pahandut, Kota Palangka Raya",2025-05-23 13:23:27
+"dr. Didit Novianto Sp.PD.,FINASIM",Sp. Penyakit Dalam,JIH Solo,"Laweyan, Kota Surakarta",2025-05-23 13:23:27
+"dr. Didit Raditiya, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 13:23:27
+"dr. Dinny Gustina Prihadi, Sp.PD-HD.,M. Kes.",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:23:27
+dr. Djaja Gosal Sp. PD,Sp. Penyakit Dalam,RS Gading Pluit,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:27
+"dr. Djunaidi Ruray, Sp.PD, FINASIM, MARS",Sp. Penyakit Dalam,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 13:23:27
+Dr Canggih Sp PD,Sp. Penyakit Dalam,RS Urip Sumoharjo,"Way Halim, Kota Bandar Lampung",2025-05-23 13:23:27
+Dr Musa Purnama Sp PD,Sp. Penyakit Dalam,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",2025-05-23 13:23:29
+Dr Robert Ding Pooi Huat,Sp. Penyakit Dalam,Island Hospital Penang,"Mampang Prapatan, Jakarta Selatan",2025-05-23 13:23:29
+Dr Ryandri yovanda Sp PD,Sp. Penyakit Dalam,RSIA Buah Hati Pamulang,"Pamulang, Tangerang Selatan",2025-05-23 13:23:29
+"Dr. Alex Namsito, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Ambon,"Sirimau, Kota Ambon",2025-05-23 13:23:29
+Dr. Daddy Sp.PD,Sp. Penyakit Dalam,RS Bethsaida,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:29
+"Dr. F. Merry Wintery, Sp.PD, FINASIM",Sp. Penyakit Dalam,RS Medistra,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:29
+"Dr. Wahyunugroho Loka, Sp.PD",Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:23:29
+"Dr. dr. Teguh Wijayadi, SpPD, FINASIM",Sp. Penyakit Dalam,RS Abdi Waluyo,"Menteng, Jakarta Pusat",2025-05-23 13:23:29
+Dr.Indra Wijaya,Sp. Penyakit Dalam,RS PIK,"Penjaringan, Jakarta Utara",2025-05-23 13:23:29
+dr. Dwi Bayu Wikarta Sp. PD,Sp. Penyakit Dalam,RS Lira Medika,"Karawang Timur, Kabupaten Karawang",2025-05-23 13:23:29
+dr. Dwiputra Marsetia Sp.PD,Sp. Penyakit Dalam,RS Abdi Waluyo,"Menteng, Jakarta Pusat",2025-05-23 13:23:31
+dr. Eddy Sp.PD-KGEH,Sp. Penyakit Dalam,Nirmala Jatinegara,"Jatinegara, Jakarta Timur",2025-05-23 13:23:31
+"dr. Eddy Setijoso Sp PD, KGEH",Sp. Penyakit Dalam,Biotest Kelapa gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:31
+"dr. Edi Setiawan, Sp.PD., FPCP",Sp. Penyakit Dalam,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 13:23:31
+"dr. Eduard Taliwongso, Sp.PD",Sp. Penyakit Dalam,RS Advent Bandung,"Coblong, Kota Bandung",2025-05-23 13:23:31
+dr. Edwin P. H. Simatupang Sp.PD-KGH,Sp. Penyakit Dalam,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 13:23:31
+"dr. Elizabeth Haryanti, Sp.PD., MH",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:31
+"Ellya Theresia Tjondro, Dr. Sp.PD",Sp. Penyakit Dalam,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 13:23:31
+dr. Elyanawati Sp.PD,Sp. Penyakit Dalam,Ciputra Hospital Citra Raya Tangerang,"Panongan, Kabupaten Tangerang",2025-05-23 13:23:31
+"dr. Eric Rahardi, Sp.PD,FINASIM",Sp. Penyakit Dalam,RS Panti Waluya Sawahan,"Klojen, Kota Malang",2025-05-23 13:23:31
+"dr. Ervita Ritonga, Sp.PD-KEMD, M.Kes",Sp. Penyakit Dalam,RS Advent Bandung,"Coblong, Kota Bandung",2025-05-23 13:23:33
+"dr. Erwin, Sp.PD, FINASIM",Sp. Penyakit Dalam,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 13:23:33
+"dr. Ester Karuniawati H., Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 13:23:33
+"dr. Esti Syafriati, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:23:33
+"dr. Esti Syafriati, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:23:33
+dr. Estie Puspitasari Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 13:23:33
+"dr. Etty Aminah, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 13:23:33
+dr. Eva Carolina Sitompul Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 13:23:33
+"dr. Eva Carolina, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 13:23:33
+"dr. Evi Sylvia Awwalia, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:33
+"dr. Evie Rosa Widyawanti Napitupulu, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 13:23:36
+Dr. F. Eliana Taufik Sp.PD,Sp. Penyakit Dalam,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 13:23:36
+"Dr. dr. F.Eliana Taufik , Sp.PD, KEMD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:23:36
+"dr. Faisal Parlindungan, Sp.PD-KR","Sp. Penyakit Dalam, Sp. PD Reumatologi",Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:36
+dr. Faradiesa Addiena Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals Cinere ( RS Khusus Jantung Diagram Depok),"Cinere, Depok",2025-05-23 13:23:36
+"dr. Felix Prabowo Salim, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:36
+"dr. Fenny Elvina Ridho, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:23:36
+"dr. Ferdinand Andy Kasim, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 13:23:36
+"dr. Ferica Valentine Kuhuwael, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:36
+"dr. Findy Prasetyawati, Sp.PD, KHOM",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:23:36
+"dr. Fitrinilla Alresna, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pamulang,"Pamulang, Tangerang Selatan",2025-05-23 13:23:38
+dr. Frans Liwang Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:38
+"dr. Frans Liwang, Sp. PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:38
+"dr. Fransisca Wibowo, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:38
+"dr. Franz Josef Vincentius Pangalila, Sp.PD-KIC",Sp. Penyakit Dalam,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:38
+"dr. Frederica Apriani, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Delta Mas,"Cikarang Pusat, Kabupaten Bekasi",2025-05-23 13:23:38
+"Dr. Friska Yulenta, Sp.PD, FPCP",Sp. Penyakit Dalam,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 13:23:38
+"dr. Galuh Chandra Kirana Sugianto, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",2025-05-23 13:23:38
+"dr. Gerald Toreh, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",2025-05-23 13:23:38
+dr. Gilang Bhaskara Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 13:23:38
+"dr. Gilang Bhaskara, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 13:23:40
+"dr. Gunawan Ari Wibowo , Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 13:23:40
+"dr. Gurmeet Singh, Sp.PD-KP",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:40
+dr. H. Octo Indradjaja Sp.PD,Sp. Penyakit Dalam,Klinik Jaya Abadi,"Lengkong, Kota Bandung",2025-05-23 13:23:40
+dr. H. Yustar Mulyadi Sp.PD.Sub-Sp.GEH.Finasim,Sp. Penyakit Dalam,RS Anugerah Bunda Khatulistiwa,"Pontianak Tenggara, Kota Pontianak",2025-05-23 13:23:40
+dr. H. Zain Dahlan Sp.PD,Sp. Penyakit Dalam,RS Tiara Sella,"Gading Cempaka, Kota Bengkulu",2025-05-23 13:23:40
+dr. Hadi Mulyadi Sp.PD,Sp. Penyakit Dalam,RSU Fikri Medika,"Klari, Kabupaten Karawang",2025-05-23 13:23:40
+"dr. Hadi Susatyo, Sp.PD, MARS, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:40
+"dr. Hadi Susatyo, Sp.PD, MARS, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:40
+"dr. Haerani Rasyid, Sp.PD-KGH, Sp. GK, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 13:23:40
+Dr. Halim SpPD,Sp. Penyakit Dalam,Klinik Utama Halim Medika,"Banjarbaru Utara, Kota Banjarbaru",2025-05-23 13:23:43
+dr. Handoko Sp.PD,Sp. Penyakit Dalam,RS Santo Borromeus,"Coblong, Kota Bandung",2025-05-23 13:23:43
+"dr. Handry Pangestu, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:23:43
+"dr. Hans Kusuma Muliadi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:23:43
+"dr. Hardianto Setiawan Ong, Sp.PD-KGEH, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:43
+Dr. Hariyono Sp. PD,Sp. Penyakit Dalam,RS Royal Progress,"Tanjung Priok, Jakarta Utara",2025-05-23 13:23:43
+"dr. Hartanto Widjaya, Sp.PD",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:23:43
+"dr. Haryanto Surya, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:43
+dr. Haryono SpOG-KFER,Sp. Penyakit Dalam,RS Imanuel Way Halim,"Sukarame, Kota Bandar Lampung",2025-05-23 13:23:43
+dr. Hendra A. Choandry Sp.PD,Sp. Penyakit Dalam,Murni Teguh Memorial Hospital,"Medan Timur, Kota Medan",2025-05-23 13:23:43
+dr. Hendra A. Choandry Sp.PD,Sp. Penyakit Dalam,Murni Teguh Memorial Hospital,"Medan Timur, Kota Medan",2025-05-23 13:23:45
+"dr. Hendro Gunawan, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 13:23:45
+dr. Heni Retnowulan M.Kes. Sp.PD-KP,Sp. Penyakit Dalam,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 13:23:45
+"dr. Heri Sutanto, SpPD-KPTI.FINASIM",Sp. Penyakit Dalam,Persada Hospital,"Blimbing, Kota Malang",2025-05-23 13:23:45
+"dr. Herlina Yani, SpPD",Sp. Penyakit Dalam,RS Royal Prima Medan,"Medan Petisah, Kota Medan",2025-05-23 13:23:45
+"dr. Heru Cahjono, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:45
+"dr. Heyder Tadjoedin, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:45
+"dr. Hyhot Mausar, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",2025-05-23 13:23:45
+"dr. I Gede Rai Kosa, Sp.PD, FINASIM",Sp. Penyakit Dalam,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 13:23:45
+"dr. I Gusti Ayu Agung Istri Anteja, M.Biomed, Sp.PD",Sp. Penyakit Dalam,BIMC Hospitals Kuta,"Kuta, Kabupaten Badung",2025-05-23 13:23:45
+"dr. I Gusti Ayu Mahariani Budiartha, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 13:23:47
+"dr. Ida Melani Santoso, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:23:47
+"dr. Ignatius Bima Prasetya, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:47
+"dr. Ika Mariani Ratna Devi, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:23:47
+dr. Ikrimah Nisa Utami Sp.PD,Sp. Penyakit Dalam,RS Syarif Hidayatullah,"Ciputat Timur, Tangerang Selatan",2025-05-23 13:23:47
+"dr. Imelda Adrianti Widjojo, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:23:47
+dr. Imron Sp.PD,Sp. Penyakit Dalam,RS Urip Sumoharjo,"Way Halim, Kota Bandar Lampung",2025-05-23 13:23:47
+"dr. Indah Gianawati, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 13:23:47
+dr. Indra Kurniawan SP.PD,Sp. Penyakit Dalam,RS Meilia,"Cimanggis, Depok",2025-05-23 13:23:47
+"dr. Indraji Dwi Mulyawan, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",2025-05-23 13:23:47
+"dr. Irene Purnamawati, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:23:50
+"dr. Irene Saveria, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 13:23:50
+"dr. Irene Stephanie Surjadibrata, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:50
+"dr. Irwin Tedja, Sp.PD-KAI",Sp. Penyakit Dalam,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",2025-05-23 13:23:50
+dr. Iskandar Sp.PD-FINASIM.,Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:50
+"dr. Iskandar, Sp.PD., FINASIM",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:23:50
+"dr. Iskandar, Sp.PD",Sp. Penyakit Dalam,RSUP Dr. Sitanala Tangerang,"Neglasari, Tangerang",2025-05-23 13:23:50
+dr. Ivan Andre Hartono Sp PD,Sp. Penyakit Dalam,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 13:23:50
+"dr. Iwan Judodihardjo, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 13:23:50
+"dr. Iwan Purnawan, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 13:23:50
+dr Iwandheni Sp. PD,Sp. Penyakit Dalam,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 13:23:52
+"dr. Iwandheny Sepmeitutu, M.Sc, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 13:23:52
+"dr. Janto Simkoputera, Sp. PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:52
+"dr. Jeremia Immanuel Siregar, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kelapa Dua,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:52
+"dr. Jimmy Tesiman, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:52
+"dr. Jimmy Tesiman, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:52
+"dr. Johan Hamik, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 13:23:52
+Dr. Joko Budiman Jong Sp. PD,Sp. Penyakit Dalam,RS Satya Negara,"Tanjung Priok, Jakarta Utara",2025-05-23 13:23:52
+"dr. Joko Wiyanto, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 13:23:52
+"Dr. dr. Jongky Hendro Prajitno Sp.PD-KEMD,FINA",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:23:52
+"dr. Joyo Santoso, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 13:23:54
+"dr. Juliyanti, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kelapa Dua,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:54
+"dr. Juvita Kurniawan, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 13:23:54
+"dr. Kaka Renaldi , Sp.PD-KGEH",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:23:54
+"Dr. Karina Anindita, M.Biomed., Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Mataram,"Mataram, Kota Mataram",2025-05-23 13:23:54
+dr. Kartika Handayani Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals Labuan Bajo,"Komodo, Kabupaten Manggarai Barat",2025-05-23 13:23:54
+dr. Kartika Juwita Sp.PD,Sp. Penyakit Dalam,RS Puri Cinere,"Cinere, Depok",2025-05-23 13:23:54
+"dr. Kasmanto, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 13:23:54
+"dr. Ketherine, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 13:23:54
+Dr. Kho Ching Siang Sp. PD,Sp. Penyakit Dalam,RS Pluit,"Penjaringan, Jakarta Utara",2025-05-23 13:23:54
+"dr. Koenardi Budhihardjo, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 13:23:56
+"dr. Kresna Adhiatma , Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 13:23:56
+"dr. Kunkun Achmad Muharam Suriadisastra, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 13:23:56
+"dr. Kurniyanto, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:23:56
+"dr. Laurentius Aswin Pramono, M.Epid., Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:56
+"Laurentius Johan Ardian, Dr Sp PD",Sp. Penyakit Dalam,RS Adi Husada Kapasari,"Simokerto, Kota Surabaya",2025-05-23 13:23:56
+"dr. Leny Puspitasari, Sp.PD-KEMD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:23:56
+"dr. Lidya Juniarti Silalahi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",2025-05-23 13:23:56
+Dr. Lim Kim Piow,Sp. Penyakit Dalam,Sunway Medical Centre,"Mampang Prapatan, Jakarta Selatan",2025-05-23 13:23:56
+"dr. Limdawati Kwee, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:23:56
+"dr. Lucas Welfried Pandjaitan, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",2025-05-23 13:23:58
+dr Lukas Widiono Sp.PD,Sp. Penyakit Dalam,RS dr. Oen Solo Baru,"Grogol, Kab Sukoharjo",2025-05-23 13:23:58
+"dr. Luki Agustina Damayanti, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:23:58
+dr. Lusiana Kurniawati Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:58
+"dr. Lusiana Kurniawati, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:58
+"dr. Lusiana Kurniawati, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:58
+"dr. Lusiana Kurniawati, Sp.PD",Sp. Penyakit Dalam,RSIA Metro Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:23:58
+"dr. Lydia Tantoso, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 13:23:58
+"M Bernardi Caropeboka, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pamulang,"Pamulang, Tangerang Selatan",2025-05-23 13:23:58
+"dr. M. Iskandar, Sp.PD., FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 13:23:58
+"dr. Maradewi Maksum, Sp.PD",Sp. Penyakit Dalam,RSIA Mutiara Bunda Cilegon,"Purwakarta, Kota Cilegon",2025-05-23 13:24:00
+"dr. Margaret Merlyn T, Sp.PD-FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Kelapa Dua,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:00
+"dr. Maria Irawati, Sp.PD-KGH",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:00
+"dr. Marita Resti Tiara, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:24:00
+"dr. Martino Sutrisno, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:24:00
+"dr. Masdianto Musai, Sp.PD-KAI",Sp. Penyakit Dalam,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 13:24:00
+"dr. Maude Renata, Sp.PD",Sp. Penyakit Dalam,RS Kartika Kasih,"Warudoyong, Kota Sukabumi",2025-05-23 13:24:00
+Dr. Maxyadi Maas SpPD,Sp. Penyakit Dalam,RS Puri Cinere,"Cinere, Depok",2025-05-23 13:24:00
+"dr. Maya Wuninggar Ingrum, Sp.PD",Sp. Penyakit Dalam,RSUP Dr. Sitanala Tangerang,"Neglasari, Tangerang",2025-05-23 13:24:00
+"dr. Meidy Cicilia Elim, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Sentosa Bekasi,"Bekasi Timur, Bekasi",2025-05-23 13:24:00
+"dr. Meita Ucche, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 13:24:02
+dr. Melisa Diah Puspitasari Sp.PD,Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:02
+dr. Melisa Diah Puspitasari Sp.PD,Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:02
+"dr. Moch. Arief Setiawan, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 13:24:02
+"dr. Mozes Leo Juniard Silaban, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:02
+"Prof. dr. Muhammad Miftahussurur, Sp.PD., M.Kes., Ph.D",Sp. Penyakit Dalam,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 13:24:02
+"dr. Muhammad Noor Diansyah, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 13:24:02
+"Muhammad Pranandi, dr. Sp. P.D",Sp. Penyakit Dalam,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 13:24:02
+"dr. Mulyani Anny Suryani Gultom, Sp.PD, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 13:24:02
+"dr. Myra Puspitasari, Sp.PD, M.Kes",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:02
+"dr. Nata Pratama Hardjo Lugito, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kelapa Dua,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:04
+"dr. Ni Ketut Rai Purnami, Sp.PD",Sp. Penyakit Dalam,BIMC Hospitals Nusa Dua,"Kuta Selatan, Kabupaten Badung",2025-05-23 13:24:04
+"dr. Ni Made Ari Kurnianingrum, Sp.PD",Sp. Penyakit Dalam,BIMC Hospitals Nusa Dua,"Kuta Selatan, Kabupaten Badung",2025-05-23 13:24:04
+"dr. Ni Nyoman Ati Subiantari, Sp.PD",Sp. Penyakit Dalam,RS Santo Borromeus,"Coblong, Kota Bandung",2025-05-23 13:24:04
+"dr. Ni Nyoman Trisna Yuliharti Tersinanda, Sp.PD",Sp. Penyakit Dalam,BIMC Hospitals Kuta,"Kuta, Kabupaten Badung",2025-05-23 13:24:04
+"dr. Nicholas Kristanta Sandjaja, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Bogor,"Bogor Tengah, Bogor",2025-05-23 13:24:04
+"dr. Novidasari, Sp.PD., M.Sc",Sp. Penyakit Dalam,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 13:24:04
+"dr. Noviyanti Fracin Tumewu, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Paal Dua Manado,"Paal Dua, Kota Manado",2025-05-23 13:24:04
+dr. Nurul Aisyiah Sp.PD,Sp. Penyakit Dalam,RS Permata Medika,"Ngaliyan, Kota Semarang",2025-05-23 13:24:04
+"Prof. Dr. dr. Nurul Akbar, Sp.PD-KGEH",Sp. Penyakit Dalam,RS MMC,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:04
+"dr. Nyoman Paramita Ayu, Sp.PD-KGH",Sp. Penyakit Dalam,BIMC Hospitals Nusa Dua,"Kuta Selatan, Kabupaten Badung",2025-05-23 13:24:06
+"dr. Ohmar Rene Setiawan, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:06
+dr. Okki Ramadian Sp.PD-KAI,Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:24:06
+"dr. Okki Ramadian, Sp.PD-KAI, FINASIM",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:24:06
+"dr. Okki Ramadian, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 13:24:06
+"dr. Otek Hermanto, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:24:06
+"dr. Paskalis Andrew Gunawan, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 13:24:06
+"dr. Paulus Simadibrata, Sp.PD",Sp. Penyakit Dalam,RS Abdi Waluyo,"Menteng, Jakarta Pusat",2025-05-23 13:24:06
+"dr. Perry Rachmat Permana Sp.PD., FINASIM",Sp. Penyakit Dalam,Santosa Hospital Bandung Central,"Andir, Kota Bandung",2025-05-23 13:24:06
+Dr. Prettysun Ang Mellow Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:24:06
+Dr. Prettysun Ang Mellow Sp.PD,Sp. Penyakit Dalam,Klinik Utama Biotest Kertajaya,"Mulyorejo, Kota Surabaya",2025-05-23 13:24:09
+"dr. Prettysun Ang Mellow, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:24:09
+dr. Priangdina Banoastia SpPD,Sp. Penyakit Dalam,RS Jakarta,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:09
+"dr. Prima Yuriandro, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 13:24:09
+"Primadina Banostira, dr. SpPD",Sp. Penyakit Dalam,RS Jakarta,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:09
+"dr. Probo Wuryantoro, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Palangka Raya,"Pahandut, Kota Palangka Raya",2025-05-23 13:24:09
+"Prof. DR. dr. IRIS RENGGANIS, SpPD K-AI",Sp. Penyakit Dalam,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 13:24:09
+Prof. Dr. S. Urgoseno Yudho Bintoro Sp PD,Sp. Penyakit Dalam,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 13:24:09
+Prof. Dr. Zubairi Djoerban Sp.PD,Sp. Penyakit Dalam,RS Kramat 128,"Senen, Jakarta Pusat",2025-05-23 13:24:09
+Prof. dr Dante Saksono Harbuwono Sp.PD-KEMD,Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:24:09
+"Prof. dr. Marcelus Simadibrata, PhD, Sp.PD, KGEH, FACG, FASGE, FINASIM",Sp. Penyakit Dalam,RS Abdi Waluyo,"Menteng, Jakarta Pusat",2025-05-23 13:24:11
+"dr. Purwoadi Sujatno, Sp.PD.",Sp. Penyakit Dalam,RS Bethesda Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 13:24:11
+"dr. RM. Tedjo Megantoro, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 13:24:11
+"dr. Raden Gina Dewiyani, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:24:11
+"Raden Iwantoro, dr., Sp.PD FINASIM",Sp. Penyakit Dalam,RS EMC Pekayon,"Bekasi Selatan, Bekasi",2025-05-23 13:24:11
+dr. Rama Fadila Sp.PD,Sp. Penyakit Dalam,RS Santa Maria Pekanbaru,"Seukajadi, Kota Pekanbaru",2025-05-23 13:24:11
+dr. Rani Afriyani Sp.PD,Sp. Penyakit Dalam,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 13:24:11
+"dr. Ratih Nursiana, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:24:11
+dr. Raymond Sebastian Purwanta Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 13:24:11
+"dr. Reinaldo Alexander, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Bekasi Sepanjang Jaya,"Rawalumbu, Bekasi",2025-05-23 13:24:11
+"dr. Restu Robaga Pasaribu, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 13:24:13
+"dr. Reza Yogaswara, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 13:24:13
+dr. Rezki Pratama Sadeli Sp.PD,Sp. Penyakit Dalam,RS Ananda Babelan,"Babelan, Kabupaten Bekasi",2025-05-23 13:24:13
+dr. Rezky Aulia Nurleli Sp.PD,Sp. Penyakit Dalam,RS Ananda Babelan,"Babelan, Kabupaten Bekasi",2025-05-23 13:24:13
+dr. Rido Prama Eled Sp. PD,Sp. Penyakit Dalam,RS Awal Bros Panam,"Tampan, Kota Pekanbaru",2025-05-23 13:24:13
+"dr. Rikky Lusman, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 13:24:13
+"dr. Rokihyati, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:24:13
+"dr. Rose Vita Sari, M.Biomed, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 13:24:13
+"dr. Rudy Kurniawan, Sp.PD, Dip.TH, MM,MARS",Sp. Penyakit Dalam,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",2025-05-23 13:24:13
+"dr. Ruth Vonky Rebecc , Sp.PD","Sp. Penyakit Dalam, Sp. PD Hematologi & Onkologi Medik",RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 13:24:13
+dr. Ruth Vonky Rebecca Sp.PD,Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:15
+"dr Ryan Tresna Putra, Sp. PD",Sp. Penyakit Dalam,RSU Fikri Medika,"Klari, Kabupaten Karawang",2025-05-23 13:24:15
+"dr. Ryki Mangara Tua Sihombing, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 13:24:15
+"dr. SRI WIJAYAN, Sp.PD KKV",Sp. Penyakit Dalam,RS Medistra,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:15
+"dr. Sabrina Munggarani Yusuf , Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 13:24:15
+dr. Salim Sidharta Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:24:15
+dr. Salim Sidharta Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:24:15
+"dr. Samsirun Halim, Sp.PD-KIC",Sp. Penyakit Dalam,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",2025-05-23 13:24:15
+dr. Sandra Utami Widiastuti SpPD,Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:24:15
+"dr. Sandra Utami Widiastuti, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:24:15
+dr. Santoso Chandra Sp. PD,Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:24:17
+"dr. Satrio Sukmoko, Sp.PD., FINASIM",Sp. Penyakit Dalam,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 13:24:17
+dr. Saut Horas Sp.PD,Sp. Penyakit Dalam,RS Pusat Pertamina,"Kebayoran Baru, Jakarta Selatan",2025-05-23 13:24:17
+"dr. Septian Nindita Adi Nugraha, Sp.PD",Sp. Penyakit Dalam,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 13:24:17
+dr. Shahnaz Fathia Sp.PD,Sp. Penyakit Dalam,RSU Aulia,"Jagakarsa, Jakarta Selatan",2025-05-23 13:24:17
+dr. Sheena Ria Zoya Dalimunthe Sp.PD,Sp. Penyakit Dalam,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",2025-05-23 13:24:17
+"dr. Sherrvy Eva Wijayaningrum, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Jember,"Kaliwates, Kabupaten Jember",2025-05-23 13:24:17
+"dr. Shiella Gunawan, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",2025-05-23 13:24:17
+dr. Silvester Nancy Sp PD,Sp. Penyakit Dalam,RS Cinta Kasih Tzu Chi,"Cengkareng, Jakarta Barat",2025-05-23 13:24:17
+"dr. Sinarta Natasamudra, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 13:24:17
+"dr. Siti Rohmi, Sp.PD",Sp. Penyakit Dalam,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 13:24:19
+"dr. Soegiarto Gani, Sp.PD., FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 13:24:19
+"dr. Sofie Syarifa Rodotul Jannah, Sp.PD",Sp. Penyakit Dalam,RS Al-Islam Bandung,"Rancasari, Kota Bandung",2025-05-23 13:24:19
+"dr. Sony Sujatno, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 13:24:19
+"dr. Sri Hardini, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:19
+dr. Stefanie Yuliana Usman SP PD,Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:24:19
+dr. Stefanie Yuliana Usman Sp PD,Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:24:19
+dr. Stefanus Budiman Bunde Sp PD,Sp. Penyakit Dalam,RS Grestelina,"Panakkukang, Kota Makassar",2025-05-23 13:24:19
+dr. Stefanus Budiman Bunde Sp.PD,Sp. Penyakit Dalam,RS Grestelina,"Panakkukang, Kota Makassar",2025-05-23 13:24:19
+Dr. Stefanus Gunawan Kandinata Sp PD,Sp. Penyakit Dalam,RS Gotong Royong,"Sukolilo, Kota Surabaya",2025-05-23 13:24:19
+"dr. Stefanus Gunawan Kandinata, Sp.PD",Sp. Penyakit Dalam,Klinik Mitra Medicare Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:24:21
+"dr. Steffie Simpiano Solin, M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Delta Mas,"Cikarang Pusat, Kabupaten Bekasi",2025-05-23 13:24:21
+dr. Stevanus Immanuel Silahooij Sp.PD,Sp. Penyakit Dalam,Siloam Clinic Surabaya,"Sukolilo, Kota Surabaya",2025-05-23 13:24:21
+"dr. Steven Sutanto Sihombing, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 13:24:21
+"Dr. dr. Stevent Sumantri, Sp.PD-KAI",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:21
+"dr. Sugijarto, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 13:24:21
+Dr. Suharko Soebardi Sp PD-Kemd,Sp. Penyakit Dalam,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 13:24:21
+dr. Suhendro Prof. Dr. dr. Sp. P.D.,Sp. Penyakit Dalam,RS Pondok Indah - Pondok Indah,"Kebayoran Lama, Jakarta Selatan",2025-05-23 13:24:21
+dr. Sulaiman M. Thaleb Sp.PD,Sp. Penyakit Dalam,RS Ananda Bekasi,"Medan Satria, Bekasi",2025-05-23 13:24:21
+"dr. Sunny Lim, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 13:24:21
+"dr. Supiansyah, Sp.PD",Sp. Penyakit Dalam,RS Gatoel,"Prajurit Kulon, Kota Mojokerto",2025-05-23 13:24:23
+"dr. Suryantini Singgih, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:24:23
+dr. Suryanto Sp.PD,Sp. Penyakit Dalam,RS Azra,"Bogor Utara, Bogor",2025-05-23 13:24:23
+"dr. Suryanto, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 13:24:23
+"dr. Susantina, Sp.PD",Sp. Penyakit Dalam,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 13:24:23
+"dr. Sylvia Riana Anggraeni, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 13:24:23
+"dr. Taswin Prawira, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:24:23
+"dr. Med. Tedi Eka Suhendi Hutomo, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:24:23
+"Dr. dr. Theo Audi Yanto, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 13:24:23
+"dr. Tirza Gwendoline Matulessy, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:23
+"dr. Tonny, Sp.PD., M.Biomed",Sp. Penyakit Dalam,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 13:24:25
+"dr. Tri Sutowo , Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:24:25
+dr. Trina Primalia Irawanti Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Slawi,"Slawi, Tegal",2025-05-23 13:24:25
+dr. Trina Primalia Irawanti Sp.PD,Sp. Penyakit Dalam,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 13:24:25
+"dr. Trio Adoratee Lieming Putra, Sp.PD",Sp. Penyakit Dalam,Murni Teguh Memorial Hospital,"Medan Timur, Kota Medan",2025-05-23 13:24:25
+"dr. Tulus Amudi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Cinere ( RS Khusus Jantung Diagram Depok),"Cinere, Depok",2025-05-23 13:24:25
+"dr. Tunggul Diapari Situmorang, Sp.PD-KGH",Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:25
+"dr. Utama Budisaputra, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 13:24:25
+"dr. Velma Herwanto, Sp.PD, Ph.D, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:24:25
+"dr. Vivi Putri Lesmana, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 13:24:25
+"dr. Viviana, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 13:24:27
+"dr. Winy Katarina, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 13:24:27
+dr Wirawan Hambali Sp PD,Sp. Penyakit Dalam,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 13:24:27
+dr Wirawan Hambali Sp PD,Sp. Penyakit Dalam,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 13:24:27
+"dr. Wirawan Hambali, Sp. P.D. FINASIM",Sp. Penyakit Dalam,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 13:24:27
+Dr. dr. Wiwiek Indriyani Maskoep Sp.PD-FINASIM,Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:24:27
+"dr. Yacob Alexander Hasudungan Marpaung, Sp.PD, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Cinere ( RS Khusus Jantung Diagram Depok),"Cinere, Depok",2025-05-23 13:24:27
+Yerome Kurube Sp.PD,Sp. Penyakit Dalam,RS Pertamina Sorong,"Sorong Manoi, Kota Sorong",2025-05-23 13:24:27
+"dr, Yoga Fitria Kusumah , Sp.PD",Sp. Penyakit Dalam,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 13:24:27
+dr. Yosef William Angliwarman Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals Labuan Bajo,"Komodo, Kabupaten Manggarai Barat",2025-05-23 13:24:27
+"dr. Yudianti Pangestu, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 13:24:29
+Yuhana Ftiria,Sp. Penyakit Dalam,RS MMC,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:29
+"dr. Yulita Cindra, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 13:24:29
+"dr. Yusalena Sophia Indreswari, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:24:29
+dr. Yusleana Sophia Indreswari Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 13:24:29
+dr. Yustar Mulyadi Sp.PD.Sub-Sp.GEH.Finasim,Sp. Penyakit Dalam,RS Anugerah Bunda Khatulistiwa,"Pontianak Tenggara, Kota Pontianak",2025-05-23 13:24:29
+"dr. Yusuf Julhijrianto, Sp.PD",Sp. Penyakit Dalam,RS Meilia,"Cimanggis, Depok",2025-05-23 13:24:29
+dr Yusuf Kristiyanto Sp. PD,Sp. Penyakit Dalam,Pati Medical Center Klinik Ultimate,"Pati, Kabupaten Pati",2025-05-23 13:24:29
+"dr. Yuswanto Setyawan, Sp.PD, KGH",Sp. Penyakit Dalam,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 13:24:29
+adi,Sp. Penyakit Dalam,RS Permata Jonggol,"Jonggol, Kabupaten Bogor",2025-05-23 13:24:29
+dr Damian Wong Nye Woh,Sp. Penyakit Dalam,Island Hospital Penang,"Mampang Prapatan, Jakarta Selatan",2025-05-23 13:24:32
+dr FERRY VALERIAN HARJITO Sp.PD,Sp. Penyakit Dalam,Pramita Laboratory Clinic Amir Mahmud,"Cimahi Tengah, Kota Cimahi",2025-05-23 13:24:32
+dr Fitri Primadiani Sp.PD,Sp. Penyakit Dalam,RS Al Huda,"Gambiran, Kabupaten Banyuwangi",2025-05-23 13:24:32
+dr Han Ye SpPD,Sp. Penyakit Dalam,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 13:24:32
+dr Hanif.Sp.PD,Sp. Penyakit Dalam,RS Permata Jonggol,"Jonggol, Kabupaten Bogor",2025-05-23 13:24:32
+"dr Hery Aprijadi, Sp.PD, Subsp. HOM",Sp. Penyakit Dalam,RS Pondok Indah - Bintaro Jaya,"Pondok Aren, Tangerang Selatan",2025-05-23 13:24:32
+dr Lita Sp.PD,Sp. Penyakit Dalam,RS Royal Taruma,"Grogol Petamburan, Jakarta Barat",2025-05-23 13:24:32
+dr Ummi Maimunna Sp PD,Sp. Penyakit Dalam,RS Darmo,"Tegalsari, Kota Surabaya",2025-05-23 13:24:32
+"dr Yohana Ceria, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",2025-05-23 13:24:32
+dr achmad baruna sp.pd,Sp. Penyakit Dalam,RS Cahya Kawaluyan,"Padalarang, Kabupaten Bandung Barat",2025-05-23 13:24:32
+dr agus somia Sp.PD,Sp. Penyakit Dalam,Kasih Ibu Hospital Denpasar,"Denpasar Barat, Kota Denpasar",2025-05-23 13:24:34
+dr ariantantri darmayani M.sc. Sp.pd,Sp. Penyakit Dalam,JIH Solo,"Laweyan, Kota Surakarta",2025-05-23 13:24:34
+"dr. Adi Kurniawan, SpPD",Sp. Penyakit Dalam,RS Permata Jonggol,"Jonggol, Kabupaten Bogor",2025-05-23 13:24:34
+"dr. Aditia Wardana, Sp. PD-KGH",Sp. Penyakit Dalam,RS Adi Husada Undaan Wetan,"Genteng, Kota Surabaya",2025-05-23 13:24:34
+"dr. Adrianus Tyasmono Adiprasetyo, Sp.PD",Sp. Penyakit Dalam,RSU Syubbanul Wathon,"Pakis, Kabupaten Magelang",2025-05-23 13:24:34
+"dr. Afdol, Sp.PD",Sp. Penyakit Dalam,RS UniMedika Setu Bekasi,"Setu, Kabupaten Bekasi",2025-05-23 13:24:34
+"dr. Agung Firmansyah Sumantri, Sp PD, FINASIM",Sp. Penyakit Dalam,RS Muhammadiyah Bandung,"Lengkong, Kota Bandung",2025-05-23 13:24:34
+"dr. Agus Yudho Santosa, SpPD, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Jember,"Kaliwates, Kabupaten Jember",2025-05-23 13:24:34
+"dr. Ahmad Akbar, Sp. PD",Sp. Penyakit Dalam,JIH Solo,"Laweyan, Kota Surakarta",2025-05-23 13:24:34
+"dr. Ahmad Faisyar, Sp.PD",Sp. Penyakit Dalam,RS Utama,"Tanjung Pandan,  Kabupaten Belitung",2025-05-23 13:24:34
+"dr. Alexander, Sp.PD",Sp. Penyakit Dalam,RSU Santo Vincentius Singkawang,"Singkawang Barat, Kota Singkawang",2025-05-23 13:24:36
+dr. Alfred Sp.PD,Sp. Penyakit Dalam,RSU Latersia,"Binjai Timur, Kota Binjai",2025-05-23 13:24:36
+"dr. Alya Putri Khairani, SpPD",Sp. Penyakit Dalam,RSU Bina Sehat Bandung,"Dayeuhkolot, Kabupaten Bandung",2025-05-23 13:24:36
+"dr. Amaranto Santoso O, Sp.PD",Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:24:36
+Dr. dr. Andhika Rahman pPD-KHOM,Sp. Penyakit Dalam,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:36
+"dr. Andi Irham, Sp.PD",Sp. Penyakit Dalam,RS Pertamina Tarakan,"Tarakan Barat, Kota Tarakan",2025-05-23 13:24:36
+"dr. Andre Dirjayanto, Sp. PD",Sp. Penyakit Dalam,Santosa Hospital Bandung Kopo,"Babakanciparay, Kota Bandung",2025-05-23 13:24:36
+"dr. Arles, Sp.PD-KGEH, FINASIM",Sp. Penyakit Dalam,RS Awal Bros Pekanbaru,"Bukit Raya, Kota Pekanbaru",2025-05-23 13:24:36
+"dr. Astari Anggara Dewi, Sp.PD",Sp. Penyakit Dalam,RS Pertamina Balongan,"Indramayu, Kabupaten Indramayu",2025-05-23 13:24:36
+dr. Audrey Sp.PD,Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:24:36
+"dr. Bagus Anindito, SpPD",Sp. Penyakit Dalam,RSIA Grha Bunda,"Kiaracondong, Kota Bandung",2025-05-23 13:24:38
+dr. Bambang S. Simon Sp.P,Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:24:38
+"dr. Bimantoko Hadi, Sp.PD",Sp. Penyakit Dalam,RS Citra Medika Depok,"Cilodong, Depok",2025-05-23 13:24:38
+"dr. Bobby Prima, Sp.PD",Sp. Penyakit Dalam,RS Harapan Keluarga Jababeka,"Cikarang Utara, Kabupaten Bekasi",2025-05-23 13:24:38
+"dr. Budi Riyanto, Msc, Sp.PD, KTI",Sp. Penyakit Dalam,RS Telogorejo,"Semarang Tengah, Kota Semarang",2025-05-23 13:24:38
+"dr. Budiman, Sp.PD",Sp. Penyakit Dalam,RS PMI Bogor,"Bogor Utara, Bogor",2025-05-23 13:24:38
+"dr. Catur Nugroho, Sp.PD",Sp. Penyakit Dalam,RS Pertamina Balikpapan,"Balikpapan Kota, Kota Balikpapan",2025-05-23 13:24:38
+"dr. Daniel Wijaya, M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 13:24:38
+"dr. Darmadi, MKed (PD), Sp.PD",Sp. Penyakit Dalam,RS Mitra Medika Premier,"Medan Petisah, Kota Medan",2025-05-23 13:24:38
+"dr. David Widjaja, Sp.PD, KGEH",Sp. Penyakit Dalam,RS Medistra,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:38
+"dr. Dendy P, Sp.PD",Sp. Penyakit Dalam,RS Umi Barokah,"Boyolali, Kabupaten Boyolali",2025-05-23 13:24:40
+"dr. Devani Bagus Aprinda, Sp.PD",Sp. Penyakit Dalam,RSU Kaliwates,"Kaliwates, Kabupaten Jember",2025-05-23 13:24:40
+"dr. Dian Azzahra, Sp.PD",Sp. Penyakit Dalam,RS Simulasi Halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:40
+"dr. Dian Qisthi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Ambon,"Sirimau, Kota Ambon",2025-05-23 13:24:40
+"dr. Dian Yudhatama, Sp.PD",Sp. Penyakit Dalam,RS Santo Borromeus,"Coblong, Kota Bandung",2025-05-23 13:24:40
+"dr. Diana Puspitasari Purba, Sp.PD,M. Ked(PD)",Sp. Penyakit Dalam,RSIA Stella Maris,"Medan Maimun, Kota Medan",2025-05-23 13:24:40
+"dr. Donny Pathiha Lubis, Mked(PD), SpPD",Sp. Penyakit Dalam,RS Mitra Medika Premier,"Medan Petisah, Kota Medan",2025-05-23 13:24:40
+"dr. Driyarkara, Sp.PD",Sp. Penyakit Dalam,RS Ridhoka Salma,"Cikarang Barat, Kabupaten Bekasi",2025-05-23 13:24:40
+"dr. E. Noerbaity, Sp. PD",Sp. Penyakit Dalam,RS Keluarga Sehat Pati,"Margorejo, Pati",2025-05-23 13:24:40
+"dr. Ema Dianata, Sp.PD",Sp. Penyakit Dalam,RSIA Gladiool Magelang,"Magelang Tengah, Kota Magelang",2025-05-23 13:24:40
+"dr. Faisal Parlindungan, MKed(PD), Sp.PD-KR",Sp. Penyakit Dalam,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:42
+"dr. Fatih Anfasa, Sp.PD, M.Sc., Ph.D.",Sp. Penyakit Dalam,RS MMC,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:42
+"dr. Florean Hartungi, Sp.PD",Sp. Penyakit Dalam,St. Antonius Pontianak,"Pontianak Kota, Kota Pontianak",2025-05-23 13:24:42
+"dr. Franciscus Ari, Sp. P.D",Sp. Penyakit Dalam,RS Pondok Indah - Bintaro Jaya,"Pondok Aren, Tangerang Selatan",2025-05-23 13:24:42
+"dr. Franciscus Broto Sukmowinintyas, Sp.PD",Sp. Penyakit Dalam,RSU Budi Rahayu Pekalongan,"Pekalongan Utara, Kota Pekalongan",2025-05-23 13:24:42
+"dr. Frederick Wilson, Sp.PD",Sp. Penyakit Dalam,RS Meloy Sangatta,"Sangatta Utara, Kabupaten Kutai Timur",2025-05-23 13:24:42
+"dr. Grendy, Sp.PD KGEH",Sp. Penyakit Dalam,RS Indriati Baru Sukoharjo,"Grogol, Kab Sukoharjo",2025-05-23 13:24:42
+"dr. Guntur Mertosno, Sp.PD",Sp. Penyakit Dalam,RS Helsa Ciputat,"Ciputat Timur, Tangerang Selatan",2025-05-23 13:24:42
+"dr. Hardi Indradi, SpPD",Sp. Penyakit Dalam,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 13:24:42
+dr. Haris Sp.PD,Sp. Penyakit Dalam,RS Medirossa I,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:24:42
+"dr. Hariyono, SpPD, FINASIM",Sp. Penyakit Dalam,RS Royal Progress,"Tanjung Priok, Jakarta Utara",2025-05-23 13:24:44
+dr. Harjanto Effendi Sp.OT,Sp. Penyakit Dalam,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 13:24:44
+"dr. Heidy Agustin, SpPD",Sp. Penyakit Dalam,RS MMC,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:44
+"dr. I Gusti Ngurah Adhiarta, Sp.PD-KEMD",Sp. Penyakit Dalam,RS EMC Pekayon,"Bekasi Selatan, Bekasi",2025-05-23 13:24:44
+"dr. Ihsan Panji Santiko, Sp.PD",Sp. Penyakit Dalam,RS Seto Hasbadi,"Bekasi Utara, Bekasi",2025-05-23 13:24:44
+"dr. Ika, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:44
+"dr. Irham, SpPD",Sp. Penyakit Dalam,RSPKT Prima Sangatta,"Sangatta Utara, Kabupaten Kutai Timur",2025-05-23 13:24:44
+"dr. Ivo Flora Panjaitan, Sp.PD",Sp. Penyakit Dalam,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 13:24:44
+"dr. Jimmy Gunardi Tanzil, Sp.PD",Sp. Penyakit Dalam,RS Stella Maris Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 13:24:44
+"dr. Jimmy Tesiman, Sp.PD",Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:44
+dr. Johannes V.Lusida Sp.PD,Sp. Penyakit Dalam,RS Delta Surya,"Sidoarjo, Kabupaten Sidoarjo",2025-05-23 13:24:46
+"dr. Joyce Bratanata, Sp.PD-KPTI",Sp. Penyakit Dalam,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 13:24:46
+dr. Julius Henry Sp.PD,Sp. Penyakit Dalam,RS Suaka Insan Banjarmasin,"Banjarmasin Barat, Kota Banjarmasin",2025-05-23 13:24:46
+"dr. Kadek Ari Suyandi, Sp.PD",Sp. Penyakit Dalam,Kasih Ibu Hospital Kedonganan,"Kuta, Kabupaten Badung",2025-05-23 13:24:46
+Dr. dr. Kaka Renaldi Sp.PD,Sp. Penyakit Dalam,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:46
+"dr. Laniyati Hamijoyo, Sp.PD (K)R",Sp. Penyakit Dalam,RS Santo Borromeus,"Coblong, Kota Bandung",2025-05-23 13:24:46
+"dr. Leonard, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 13:24:46
+dr. Luh Yuriawantini Sp.PD,Sp. Penyakit Dalam,RS Kharitas Bhakti Pontianak,"Pontianak Selatan, Kota Pontianak",2025-05-23 13:24:46
+"dr. Lutfi Syofiar, Sp.PD",Sp. Penyakit Dalam,Santosa Hospital Bandung Kopo,"Babakanciparay, Kota Bandung",2025-05-23 13:24:46
+"dr. Mario Steffanus, Sp.PD",Sp. Penyakit Dalam,RS PIK,"Penjaringan, Jakarta Utara",2025-05-23 13:24:46
+"dr. Martha Iskandar, SpPD",Sp. Penyakit Dalam,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 13:24:48
+"dr. Martin Kurniawan, Sp.PD",Sp. Penyakit Dalam,RSU San Medical Center,"Cikampek, Kabupaten Karawang",2025-05-23 13:24:48
+"dr. Merry, SpPD, KKV, FINASIM",Sp. Penyakit Dalam,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 13:24:48
+"dr. Meryl Pulcheria,SpPD",Sp. Penyakit Dalam,RS Tria Dipa,"Pancoran, Jakarta Selatan",2025-05-23 13:24:48
+"dr. Mira Delima Asikin, MMR. Sp.PD",Sp. Penyakit Dalam,RS Anugerah Bunda Khatulistiwa,"Pontianak Tenggara, Kota Pontianak",2025-05-23 13:24:48
+dr. Moch Khalimur Rouf Sp.PD,Sp. Penyakit Dalam,JIH Jogja,"Kecamatan Depok, Kabupaten Sleman",2025-05-23 13:24:48
+"dr. NIicholas Benedictus, SpPD",Sp. Penyakit Dalam,RS Baptis Kediri,"Pesantren, Kota Kediri",2025-05-23 13:24:48
+"dr. Ni Made Intan Dwijayanti, Sp.PD",Sp. Penyakit Dalam,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 13:24:48
+"dr. Ni Md Ari Kurnianigrum, Sp.PD",Sp. Penyakit Dalam,BIMC Hospitals Nusa Dua,"Kuta Selatan, Kabupaten Badung",2025-05-23 13:24:48
+dr. Nicholas Sp.PD,Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:48
+"dr. Nur Rusyda Kuddah, Sp.PD",Sp. Penyakit Dalam,Alia Hospital Jakarta Timur,"Duren Sawit, Jakarta Timur",2025-05-23 13:24:50
+"dr. Nyoman Ati S., Sp. PD",Sp. Penyakit Dalam,RS Cahya Kawaluyan,"Padalarang, Kabupaten Bandung Barat",2025-05-23 13:24:50
+"dr. Pangestu Adi, Sp.PD-KGEH",Sp. Penyakit Dalam,RS Simulasi Halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:50
+"dr. dr. Paskalis Andrew Gunawan , Sp.PD, K-Ger",Sp. Penyakit Dalam,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 13:24:50
+dr. Paskalis Andrew Gunawan Sp.PD-KGer,Sp. Penyakit Dalam,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 13:24:50
+"dr. Petrus Junianto Hasibuan, Sp.PD",Sp. Penyakit Dalam,St. Antonius Pontianak,"Pontianak Kota, Kota Pontianak",2025-05-23 13:24:50
+"dr. Prawiro Sukito, Sp.PD",Sp. Penyakit Dalam,RS Gading Pluit,"Kelapa Gading, Jakarta Utara",2025-05-23 13:24:50
+dr. Puguh Krisnadi S. Sp.PD,Sp. Penyakit Dalam,RS Budi Asih Serang Cibarusah,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:24:50
+"dr. Putri Dwi Bralianti, Sp.PD",Sp. Penyakit Dalam,RS Pertamina Balongan,"Indramayu, Kabupaten Indramayu",2025-05-23 13:24:50
+"dr. Raditya Rahma Fatih,Sp.PD",Sp. Penyakit Dalam,RS Muhammadiyah Lamongan,"Lamongan, Kabupaten Lamongan",2025-05-23 13:24:50
+"dr. Ray Rattu, Sp.PD",Sp. Penyakit Dalam,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 13:24:52
+dr. Ria Widya Marosa,Sp. Penyakit Dalam,RS Mitra Medika Premier,"Medan Petisah, Kota Medan",2025-05-23 13:24:52
+"dr. Ridho Berlianto, Sp.PD",Sp. Penyakit Dalam,RS Awal Bros Panam,"Tampan, Kota Pekanbaru",2025-05-23 13:24:52
+"dr. Ridwan Angkasa, MARS, SpPD",Sp. Penyakit Dalam,RS Mitra Medika Premier,"Medan Petisah, Kota Medan",2025-05-23 13:24:52
+Dr. dr. Rika Bur Sp.PD,Sp. Penyakit Dalam,RSAB Harapan Kita,"Palmerah, Jakarta Barat",2025-05-23 13:24:52
+"Dr. dr. Rika Bur, Sp.PD(K-PTI)",Sp. Penyakit Dalam,RSAB Harapan Kita,"Palmerah, Jakarta Barat",2025-05-23 13:24:52
+"dr. Rilwanu R.M, Sp.PD",Sp. Penyakit Dalam,RS Islam Assyifa,"Gunungpuyuh, Kota Sukabumi",2025-05-23 13:24:52
+"dr. Roi Panusunan Sibarani, Sp.PD-KEMD., FES",Sp. Penyakit Dalam,RS EMC Sentul,"Babakan Madang, Kabupaten Bogor",2025-05-23 13:24:52
+"dr. Rustan Efendy, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 13:24:52
+dr. Siska Sp.pD,Sp. Penyakit Dalam,RS Budi Asih Serang Cibarusah,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 13:24:52
+dr. Stanley Lesmana,Sp. Penyakit Dalam,RS PIK,"Penjaringan, Jakarta Utara",2025-05-23 13:24:55
+"dr. Stefani Yoelita, Sp.PD, FINASIM",Sp. Penyakit Dalam,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 13:24:55
+"dr. Stevanus Immanuel Silahooj, Sp PD",Sp. Penyakit Dalam,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 13:24:55
+"dr. Tasya Aniza, Sp.PD",Sp. Penyakit Dalam,RS Intan Husada Garut,"Tarogong Kidul, Kabupaten Garut",2025-05-23 13:24:55
+dr. Tities Anggraeni Indra,Sp. Penyakit Dalam,RS Pluit,"Penjaringan, Jakarta Utara",2025-05-23 13:24:55
+"dr. Tri Yanti, Sp.PD",Sp. Penyakit Dalam,RS Katolik St. Vincentius a Paulo (RKZ),"Wonokromo, Kota Surabaya",2025-05-23 13:24:55
+"dr. Trinugroho Heri Fadjari, SpPD -KHOM",Sp. Penyakit Dalam,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 13:24:55
+"dr. Ummu Habibah, Sp.PD",Sp. Penyakit Dalam,RS Azra,"Bogor Utara, Bogor",2025-05-23 13:24:55
+"dr. Vania Tryanni, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Manado,"Wenang, Kota Manado",2025-05-23 13:24:55
+"dr. Welly Salutondok, Sp.PD",Sp. Penyakit Dalam,RS Harapan Bunda Jakarta,"Ciracas, Jakarta Timur",2025-05-23 13:24:55
+"dr. Widodo, SpPD, FINASIM",Sp. Penyakit Dalam,RSU Syubbanul Wathon,"Pakis, Kabupaten Magelang",2025-05-23 13:24:57
+dr. Wiki Sp.Pd,Sp. Penyakit Dalam,St. Antonius Pontianak,"Pontianak Kota, Kota Pontianak",2025-05-23 13:24:57
+"dr. Yogi Umbarawan, SpPD., PhD",Sp. Penyakit Dalam,RS Yarsi,"Cempaka Putih, Jakarta Pusat",2025-05-23 13:24:57
+"dr. Yuditha, Sp.PD",Sp. Penyakit Dalam,RS Medistra,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:57
+"dr. Yulian Widjaja, Sp.PD",Sp. Penyakit Dalam,RS Stella Maris Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 13:24:57
+"dr. Yuliasih, Sp.PD-KR",Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:24:57
+"dr. Yuswanto Setyawan, Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 13:24:57
+dr. adi Sp.PD,Sp. Penyakit Dalam,RS Permata Jonggol,"Jonggol, Kabupaten Bogor",2025-05-23 13:24:57
+dr. erptyta sp.pd,Sp. Penyakit Dalam,RS Gading Pluit,"Kelapa Gading, Jakarta Utara",2025-05-23 13:24:57
+"dr.Diana Lilim, Sp.PD",Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:57
+"dr.Eddy Supriadi, Sp.PD, FINASIM",Sp. Penyakit Dalam,RS Citra Harapan,"Medan Satria, Bekasi",2025-05-23 13:24:59
+"dr.Emanuela Deapaskah Waleleng, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Manado,"Wenang, Kota Manado",2025-05-23 13:24:59
+"dr.Herwindo ahmad M.Ked(PD), SpPD",Sp. Penyakit Dalam,RS Mitra Medika Premier,"Medan Petisah, Kota Medan",2025-05-23 13:24:59
+"dr.Nur Rahmi Ananda, SP.PD, K-PMK, FINASIM",Sp. Penyakit Dalam,JIH Jogja,"Kecamatan Depok, Kabupaten Sleman",2025-05-23 13:24:59
+"dr.Nuri Susanti, Sp.PD,FINASIM",Sp. Penyakit Dalam,RS Petrokimia Gresik,"Gresik, Kabupaten Gresik",2025-05-23 13:24:59
+ferina Sp.PD,Sp. Penyakit Dalam,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 13:24:59
+"Prof. Dr. dr. A. Dalidjono, Sp.PD-KGEH",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:24:59
+Dr. A. Fachri Indra Pratama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:59
+"dr. AB Wardoyo, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:24:59
+Dr. ANDREAS JONATHAN SP.PD,Sp. Penyakit Dalam,Klinik Utama dr. Nur 3,"Cimahi Utara, Kota Cimahi",2025-05-23 13:24:59
+DR. ANDREAS JONATHAN SP. PD,Sp. Penyakit Dalam,apotek berkat cimahi,"Cimahi Utara, Kota Cimahi",2025-05-23 13:25:01
+Prof. dr. Abdul Aziz Rani Sp.PD-KGEH,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Achmad Mudassir Muchlis Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Adeh Mahardika Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Adhika Tri Putra Sugiharta Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Adi Putra Rahmadi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+"Dr. Aditya Indra M Sp.PD, M.Biomed",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Aditya Purwaka Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Aditya Riadi Syafei Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Aditya Satrio Faredisto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:01
+Dr. Afdal Rosihan Hasbi Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+dr. Afiyah SPPD,Sp. Penyakit Dalam,RS Anugerah Pekalongan,"Pekalongan Barat, Kota Pekalongan",2025-05-23 13:25:03
+Dr. Agnes Permata Seto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+dr. Agni Bonendarsari Sp. PD,Sp. Penyakit Dalam,Agni Hyperbaric Center (AHC 2),"Bekasi Selatan, Bekasi",2025-05-23 13:25:03
+Dr. Agnita Irawaty Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+dr. Agus Sp. PD,Sp. Penyakit Dalam,Apotik Alam Sehat,"Cinere, Depok",2025-05-23 13:25:03
+Dr. Ahmad Akbar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+dr. Ahmad Akbar,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+Dr. Ahmad Harissul Ibad Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+Dr. Ahmad Hibban Awriya Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:03
+Dr. Akiko Syawalidhany Tahir Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Alfan Fathoni Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Alif Adlan Zulizar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Amanda Cininta Wowor Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Amaranto Santoso Ongko Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Amarisa Malik Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+"Dr. Anak Agung Istri Sri Kumala Dewi M.Biomed, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Ananda Rahmat Putra Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+"dr. Anastasia Asylia Dinakrisma, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:05
+"Dr. Anastasia Putri DTM&H, MCTM, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:05
+Dr. Andi Susilo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+Dr. Andiyang Rosseliene Diredja Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+Dr. Andrea Livina Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+Dr. Andri Baftahul Khairi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+dr. Andrian Hok Halim Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Barat,"Mustika Jaya, Bekasi",2025-05-23 13:25:07
+"dr. Anggun Mekar Kusuma, SpPD KGer",Sp. Penyakit Dalam,Siloam Hospital Lippo Village.,"Tangerang, Tangerang",2025-05-23 13:25:07
+"Dr. Ani Yeo Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+"Dr. Anita Septiana Maria Kathrine Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+dr. Annisa Maloveny Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:07
+"dr. Apen Apgani Ridwan, Sp.PD, M.Kes",Sp. Penyakit Dalam,RSUD Al Ihsan Provinsi Jawa Barat,"Baleendah, Kabupaten Bandung",2025-05-23 13:25:07
+"dr. Ardeno Kristianto, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:09
+Dr. Arie Mahayuni Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+Dr. Ariella Maisie Sugiarto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+Dr. Arina Mana Sikana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+Prof. Dr Arto Yuwono Soeroto Sp.PD,Sp. Penyakit Dalam,APOTIK JAYA SENTOSA,"Bojongsoang, Kabupaten Bandung",2025-05-23 13:25:09
+Dr. Arum Gladys Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+Dr. Asep Harirohman Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+Dr. Ayu Pathya Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+"Dr. Ayuhati Siregar M.Ked(P.D), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:09
+"dr. B.J. Waleleng, Sp.PD-KGEH",Sp. Penyakit Dalam,Klinik Medistar,"Malalayang, Kota Manado",2025-05-23 13:25:09
+dr. BAMBANG SINGGIH Sp.PD,Sp. Penyakit Dalam,Pramita Laboratorium,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+Dr. Bobby Rojas Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+dr. Bramantya Wicaksana Sp. PD,Sp. Penyakit Dalam,RSU. Hasanah Graha Afiah,"Sukmajaya, Depok",2025-05-23 13:25:12
+Dr. Brilliant Van Fitof Songso Rhomado Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+Dr. Brilliant Zanuar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+Dr. Budi Dharmono Tulaka Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+Dr. Budi Herlianto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+"dr. Budi Riyanto, DTMH. Msc, Sp.PD, KPTI, FINASIM",Sp. Penyakit Dalam,RS.BEDAH Columbia Asia Semarang,"Gunung Anyar, Kota Surabaya",2025-05-23 13:25:12
+Dr. Bunga Petriana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:12
+"Prof. dr C. Suharti P. Sp.PD.KHOM, PhD, FINASIM",Sp. Penyakit Dalam,"Prof. dr. C. Suharti P. Sp.PD.KHOM, PhD, FINASIM","Semarang Utara, Kota Semarang",2025-05-23 13:25:12
+Dr. Caesar Givani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+Dr. Caesar Givani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+dr. Candra Wibowo Sp.PD(K),Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+"Dr. Chairunnisa Fitri Marpaung M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+Dr. Christian Syukur Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+dr Christina Sp PD,Sp. Penyakit Dalam,0,"Bekasi Selatan, Bekasi",2025-05-23 13:25:14
+Dr. Christine Belinda Mandua Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+Dr. Cynthia Natalia Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+Dr. Daldiyono Sp PD-KGEH,Sp. Penyakit Dalam,APOTEK ROXY,"Bekasi Selatan, Bekasi",2025-05-23 13:25:14
+Dr. Debora Kindangen Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:14
+Dr. Debrina Kusuma Devi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+Dr. Dede Selamat Sutedja,Sp. Penyakit Dalam,The S'pore Gastroenterology & Liver Internist Centre,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+"Dr. Deden Djatnika, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+Dr. Dedy Hadi Prawono Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+"Dr. Dedy Indra Praja Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+Dr. Desy Puspa Putri Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+"Dr. Dewa Ayu Kartika Tejawati M.Biomed, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+Dr. Dewi Prasetyaningtyas Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+Dr. Diar Meitha Wardhana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:16
+dr. Dodo Saputera Damian Sp.PD,Sp. Penyakit Dalam,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",2025-05-23 13:25:16
+"Dr. Anissa Maloveny, Sp. PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+Dr. Darmadi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+Dr. Hendra SP.Pd,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+"Dr. Lintje T. Awaloei, Sp.PD, Finasim",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+"Dr. Ryan Ardian Saputra, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+"Dr. Steven Zulkifly, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+Dr. Yunita muslim Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+"Dr. dr. Nella Suhuyanly, Sp.PD-KGEH",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+Dr. Driyarkara Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+"Dr. Dwi Prianto M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:18
+"Dr. Dwi Rahayu Darusman M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+Dr. Dwi Teguh Irawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+dr. ELDI HENDRI Sp.PD,Sp. Penyakit Dalam,Laboratorium Klinik Thamrin,"Menteng, Jakarta Pusat",2025-05-23 13:25:20
+dr. Eddy Seijoso Sp.PD,Sp. Penyakit Dalam,Apotek Djatinegara,"Menteng, Jakarta Pusat",2025-05-23 13:25:20
+Dr. Edwin Hadinata Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+Dr. Edwin Nugraha Fitriawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+"dr. Edy Purwanto, Sp.PD M.Kes",Sp. Penyakit Dalam,Rumah Sakit Islam Al-Ikhlas,"Ampelgading, Pemalang",2025-05-23 13:25:20
+Dr. Eeng Yoneska Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+"Dr. Elfizon Amir Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+Dr. Elim Jusri Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:20
+Dr. Elisabeth Hutajulu Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:22
+dr. Emon Winardi Danudirgo Sp.PD,Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:22
+"dr. Emon Winardi Danudirgo, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:22
+"dr. Emon Winardi Danudirgo, Sp.PD, FINASIM",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:22
+"dr. Eric Rahardi, Sp.PD FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:22
+Dr. Ernest Sumitro Anggrek Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:22
+Dr. Erzamtya Oktowidyani M Z Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:22
+Dr. Ester Elisabeth Wowor Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:22
+dr Esti SpPD,Sp. Penyakit Dalam,KIMIA FARMA - WARUNG JATI,"Pancoran, Jakarta Selatan",2025-05-23 13:25:22
+Dr. Eva Sian Li Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:22
+Dr. Evelyn Reza Tjoa Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+dr. Fadli Sp.PD,Sp. Penyakit Dalam,Praktek dr. Fadli,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+"Dr. Fajar Englando Alan Adesta, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+Dr. Fajriansyah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+"Dr. dr. Farid Amansyah Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+Dr. Fariz Nurul Huda Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+Dr. Fathina Nisa Rabbani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+"dr. Fathurrahman Andiyoso, Sp.PD AIFD-K",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+Dr. Fauzan Azhari Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+"Dr. Fauzan Azhari Sp.PD, AIFO-K",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:24
+Dr. Fauzia Kirana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+Dr. Ferdinan Goutama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+"Dr. Fernando Hasudungan Oktavianus Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+Dr. Fidelia Elvira Da Costa Rao Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+dr. Findy Prasetwiaty Sp.PD-KHOM,Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:26
+Dr. Firman Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+Dr. Fitrie Zulida Noor Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+"dr. Fransiska, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:26
+"Dr. Fredo Tamara M.Biomed, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+"Dr. Frilia Athirah Affandy Sp.PD, M.Kes",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:26
+Dr. Friyoga Syahril Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+Dr. Galih Dwi Jayanto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+Dr. Gede Nanda Utama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+Dr. Gracia A. G. Rorong Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+dr. Gunawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+dr. Guntur Darmawan Sp.PD,Sp. Penyakit Dalam,"dr. Guntur Darmawan, SpPD","Kembangan, Jakarta Barat",2025-05-23 13:25:28
+dr. Guntur Darmawan Sp. PD,Sp. Penyakit Dalam,"dr. Guntur Darmawan, SpPD","Kembangan, Jakarta Barat",2025-05-23 13:25:28
+"Dr. H. Agus Djamal Marwan, SpPD",Sp. Penyakit Dalam,APOTIK INDAH SEHAT,"Duren Sawit, Jakarta Timur",2025-05-23 13:25:28
+"Dr. Hadika Pramana Sp.PD, CH",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+Dr. Hafiziani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:28
+dr. Han ye Sutedja Sp PD,Sp. Penyakit Dalam,0,"Bekasi Selatan, Bekasi",2025-05-23 13:25:30
+"dr. Handoko Prayitno, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+Dr. Hanna Honoris Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+Dr. Hardianto Setiawan Sp.PD,Sp. Penyakit Dalam,Klinik Utama Permata HSO,"Kembangan, Jakarta Barat",2025-05-23 13:25:30
+"dr. Haris Akman, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:30
+Dr. Harris Hardian Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+Dr. Harry Andrean Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+dr Harry Yusuf Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+"Dr. Helentina H. Sinaga Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+Dr. Helsa Eldatarina Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:30
+"dr. Hendrato Budiono, M.Sc, SpPD, FINASIM",Sp. Penyakit Dalam,Apotek Padma,"Banjarsari, Kota Surakarta",2025-05-23 13:25:32
+"dr. Heribertus Gunadi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 13:25:32
+"dr. Herlina, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:32
+Dr. Herman Bagus Trianto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:32
+Dr. Hermanto Quedarusman Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:32
+"dr. Hertika Hardja Prihatna, Sp.PD",Sp. Penyakit Dalam,RSUD Al Ihsan Provinsi Jawa Barat,"Baleendah, Kabupaten Bandung",2025-05-23 13:25:32
+"Dr. Heru Suwito S.I.P., Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:32
+"Heru Wijono, DR, Dr SpPD - FINASIM",Sp. Penyakit Dalam,0,"Bekasi Selatan, Bekasi",2025-05-23 13:25:32
+Dr. Heru Wiyono Sp PD,Sp. Penyakit Dalam,Klinik Utama Gleneagles,"Tegalsari, Kota Surabaya",2025-05-23 13:25:32
+dr Hery Bagijo Sp.PD FINASIM,Sp. Penyakit Dalam,Apotek Kimia Farma - Menur Pumpungan,"Sukolilo, Kota Surabaya",2025-05-23 13:25:32
+Dr. I Gede Aswin Arinata Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. I Gede Komang Aditya Permana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. I Gede Putu Arinanda Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. I Gusti Gede Agung Ngurah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. I Made Dedy Kusnawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. I Putu Ary Wismayana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. I Putu Bayu Triguna Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. IGN Bagus Hindra Dwisaputra Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+Dr. Ian Elnathan Himawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+"Dr. Ida Bagus Aditya Nugraha M.Biomed, Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:35
+"dr. Iis Widiawati, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+"dr. Iis Widiayati, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+"Dr. Ika Syamsul Huda MZ Sp.PD, MPH",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+Dr. Ilham Syahid Ruray Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+"Dr. Imam Manggalya Adhikara PhD, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+Dr. Imran Nito Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+"Dr. Inda Damayanti M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+"Dr. Indah Fitri Lestari Saragih M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+"dr. Indah Fitria, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:37
+dr. Indah Gianawati Sp.PD,Sp. Penyakit Dalam,Prodia Depok,"Cinere, Depok",2025-05-23 13:25:37
+Dr. Indira Nirmala Dewi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+dr. Indra Darmawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+dr. Indra Dwi Rahayu Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+dr Inggrid Awaloei LontohSp. PD,Sp. Penyakit Dalam,dr Inggrid Awaloei LontohSp. PD,"Wenang, Kota Manado",2025-05-23 13:25:39
+Dr. Inggrid Veronica Soeiswanto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+dr. Iqbal Sungkar Sp. PD,Sp. Penyakit Dalam,Apotek Kimia Farma Courtyard Galuh Mas,"Telukjambe Timur, Kabupaten Karawang",2025-05-23 13:25:39
+dr. Iris Rengganis Sp.PD,Sp. Penyakit Dalam,PRODIA BEKASII,"Jatisampurna, Bekasi",2025-05-23 13:25:39
+Dr. Irma Suryani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+Dr. Itqan Ghazali Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+Dr. Ivan Banjuradja Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:39
+Dr. Ivan Caesar Rumengan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+dr. JOHANNES JUWONO SADIKIN SP. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+"Dr. Januar Widodo Sutandar Sp.PD, KGH",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+Dr. Jefri Pratama Susanto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+"dr. Jimmy Pelealu, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:41
+"dr. Jo Caroline, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:25:41
+Dr. Jumiati Satrul Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+"Dr. KGS. M. Rosyidi Sp.PD, KHOM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+"Dr. Karina Dwi Swastika M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+Dr. Katrin Wilentina Siahaan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:41
+Dr. Kevin Wahyudy Prasetyo Sp.P,Sp. Penyakit Dalam,RS Indriati Solo Baru,"Kartasura, Kab Sukoharjo",2025-05-23 13:25:43
+"dr. Khayati handayani, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:43
+Dr. Khie Chen Sp. PD -KPTI,Sp. Penyakit Dalam,Apotek Manjur Sehat,"Cipondoh, Tangerang",2025-05-23 13:25:43
+Dr. Komang Gangga Eka Chandra Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:43
+dr. Kuspuji Dwitanto Sp. Pd-Kp(K),Sp. Penyakit Dalam,RSIJ Cempaka Putih,"Cempaka Putih, Jakarta Pusat",2025-05-23 13:25:43
+dr. Kuspuji Dwitanto Rahardjo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:43
+Dr. Laila Miftakhul Jannah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:43
+Dr Lailatul Husna Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:43
+Dr. Laily Ridawati Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:43
+dr. Laurentius Aswin Pramono Sp. PD,Sp. Penyakit Dalam,Prodia Karawang,"Karawang Barat, Kabupaten Karawang",2025-05-23 13:25:43
+Dr. Leida Ariani Saltian Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+"dr. Leonard Parlindungan Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+Dr. Luh Komang Widnyani Wulan Laksmi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+"dr. Lukman Hatta Sunaryo, Sp.PD., Sp.KL",Sp. Penyakit Dalam,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 13:25:45
+Dr. Luthfi Ahmad Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+dr Lydia Tan Sp. PD. FINASIM,Sp. Penyakit Dalam,Apotek Halomedika Medan Satria,"Medan Satria, Bekasi",2025-05-23 13:25:45
+"Dr. Lydia Theresia Tampubolon M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+"Dr. M. Allif Maulana Syafrin Lubis M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+Dr. M. Huki Zukhrufan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+Dr. M. Nadim Mulachela Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:45
+dr. M.Reza P. Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+Dr. Made Edwin Sridana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+Dr. Made Nopriantha Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+Dr. Manuel Lamberto Willem Mboeik Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+"dr. Mardianto Sp.PD, KEMD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+Dr. Maria Erika Pranasakti Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+"Dr. Masnah Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+"Dr. Maulinda Putri M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+"Dr. Maya Puspita Sari Sp.PD, AIFO-K",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+Dr. Mazen Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:47
+DR. Dr. Meddy Setiawan Sp.PD-FINASIM,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+Dr. Mega Suseno Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+Dr. Mersy Sadrak Padang Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+Dr. Meutia Halida Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+Dr. Mick Gregg Sopacoly Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+Dr. Mike Christanti Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+"dr Mina Nurasari Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+"dr Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:49
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+"dr. Mina Nurasri Praptiningsih Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+dr Mirna Nurasi Praptini Sp.PD-KGH,Sp. Penyakit Dalam,0,"Bekasi Selatan, Bekasi",2025-05-23 13:25:51
+"dr. Mirna Nursari Praptini Sp.PD-KGH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+Dr. Mohammad Satria Yudha Pratama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+Dr. Mohd Bhukkar Adil Sjam Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+Dr. Muhamad Jefri Trinuansa Akbar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:51
+dr. Muhamad Reza Prabowo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+Dr. Muhammad Anshory Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+Dr. Muhammad Hadi Wijaya Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+"Dr. Muhammad Iqbal M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+"dr. Muhammad Iqbal Sorba Damanik, Sp.PD",Sp. Penyakit Dalam,RSUD Al Ihsan Provinsi Jawa Barat,"Baleendah, Kabupaten Bandung",2025-05-23 13:25:53
+"Dr. Muhammad Jailani Alfajri M.Ked (PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+Dr. Muhammad Ridhwan F Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+Dr. Muhammad Rido Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+Dr. Muhammad Yusuf Irianto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+DR.rer.nat. Dr. Muhsin Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:53
+Dr. Mulfi Azmi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Muthia Faurin Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+dr Nadia Ayu Muliansari Sp. PD,Sp. Penyakit Dalam,RSCM KENCANA,"Cempaka Putih, Jakarta Pusat",2025-05-23 13:25:55
+Dr. Nadia Kusumayanti Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Nani Hendriani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Nanindita Fauzia Maharani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Natalin Allorerung Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Ni Made Anggreni Yudhawati Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Ni Made Putri Rahayu Srikandi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Ni Made Savitri Devi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:55
+Dr. Nina Oktafianti Marfu'ah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+Dr. Nindy Jayatri Siregar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+dr. Nitya Prasanta Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+Dr. Nono Mattarungan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+"dr. Nono Mattarungan, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 13:25:58
+Dr. Novita Lavi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+Dr. Novita Tanasal Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+Dr. Novita Tanasal Sp.PD,Sp. Penyakit Dalam,Sumber Rejeki,"Kebayoran Baru, Jakarta Selatan",2025-05-23 13:25:58
+Dr. Nur Aini Hanifiah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+Dr. Nur Atina Rahmawati Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:25:58
+"dr. Nur Chandra, Sp.PD",Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:26:00
+"Dr. Nur Rahmi Ananda Sp.PD-KP, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:00
+dr. Nur Samsu Sp. PD,Sp. Penyakit Dalam,RSUD Dr Saiful Anwar,"Klojen, Kota Malang",2025-05-23 13:26:00
+Dr. Nurdin Syharis Sp. Pd,Sp. Penyakit Dalam,Apotek Bintang,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 13:26:00
+"Dr. Okki Ramadian Sp.PD, K-AI, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:00
+Dr. Okla Sekar Martani Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:00
+"dr. Otto Haris Edison Lumbantoruan, Sp.PD",Sp. Penyakit Dalam,RSU Wira Husada,"Kota Kisaran Barat, Kabupaten Asahan",2025-05-23 13:26:00
+Dr. PA Marciyasa Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:00
+dr. Pitt Akbar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:00
+"Dr. Pramanta Sp.PD, FPCP, FISQua",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:00
+Dr. Pramudya Kurniawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+Dr. Pratiwi Kesuma Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+Dr. Pratiwi Quranita Meagaung Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+Dr. Prima Pratama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+Dr. Prima Pratama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+Dr. Prima Yogi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+dr Prima Yogi Sp. PD,Sp. Penyakit Dalam,APOTEK LIDO,"Koja, Jakarta Utara",2025-05-23 13:26:02
+Dr. Prof. Herdiman SPPD,Sp. Penyakit Dalam,Apotek Manjur Sehat,"Cipondoh, Tangerang",2025-05-23 13:26:02
+"Dr. Putri Gaby Yosephine M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+"Dr. Putu Agus Marciyasa S.Ked, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:02
+Dr. Putu Anisya Purnamasari S Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:04
+"Dr. Putu Ayu Sri Saraswati M.Biomed, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:04
+Dr. Putu Juni Wulandari Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:04
+Dr. Putu Saraswati Laksmi Dewi Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:04
+Dr. Putu Shely Prihastuti Rudy Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:04
+dr Putut Bayupurnama Sp.PD,Sp. Penyakit Dalam,Apotik Sanitas,"Mantrijeron, Kota Yogyakarta",2025-05-23 13:26:04
+dr. R. EDDY SETIJOSO Sp.PD-KGEH,Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:26:04
+Dr. R. Yudistira Dwi Ananda Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:04
+dr. Rachmat Gunadi SpPD,Sp. Penyakit Dalam,"Dr. Rachmat Gunadi Wachjudi, SpPD","Bandung Kidul, Kota Bandung",2025-05-23 13:26:04
+dr. Rachmat Gunadi W. SpPD-KR,Sp. Penyakit Dalam,"Dr. Rachmat Gunadi Wachjudi, SpPD","Bandung Kidul, Kota Bandung",2025-05-23 13:26:04
+Dr. Raden Triyono Edhi Sulistiyanto Sp.PD-FINASIM,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+"dr. Rahma Murmayanti, SpPD. MSc",Sp. Penyakit Dalam,Apotik Idaman,"Taraju, Kabupaten Tasikmalaya",2025-05-23 13:26:06
+dr. Rahma Nurmayanti Sp.PD,Sp. Penyakit Dalam,Apotik Idaman,"Taraju, Kabupaten Tasikmalaya",2025-05-23 13:26:06
+Dr. Rama Yandhi,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Ramadi Satryo Wicaksono Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Rechta Antartika Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Redy Farana Hata Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Reinaldo Alexander Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Rentha Monica Simamora Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Rentha Monica Simamora Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:06
+Dr. Resha Dermawansyah Rusman Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+Dr. Resna Murti Wibowo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+Dr. Resna Murti Wibowo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+dr. Resna Murti Wibowo Sp PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+"dr. Resna Murti Wibowo, Sp.PD FINASIM, MKES",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+dr Resna Sp. PD,Sp. Penyakit Dalam,APOTEK GADI LAMBA 1,"Pasar Rebo, Jakarta Timur",2025-05-23 13:26:08
+Dr. Resti Anjelina Waji Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+Dr. Restie Warapsari Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+Dr. Restu Olymviana Rantetondok Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+Dr. Retti Nurlaili Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:08
+"Dr. Riandhani Utami Upitarinia MARS, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+Dr. Richard Sengkey Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+dr. Ricky Cornelius Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+Dr. Ridho Pratama Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+Dr. Rido Wandrivel Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+Dr. Ridwan Tandiawan Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+dr Rikki Lusman Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+"Dr. Risna Wati M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+Dr. Rita Anggraeni Puspitasari Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+"Dr. Rivo Yulianto Sujono Sp.PD, M.Kes",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:10
+Dr. Rizka Husna Aditya Hami Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+Dr. Rizki Bastari Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+"Dr. Rizky Ilham MKT, M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+Dr. Rizqulloh Taufiqul Hakim Barsah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+Dr. Robby Satria Putra Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+Dr. Rony Satrio Utomo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+Dr. Rosa Priambodo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+"Dr. Rose Vita Sari M.Biomed, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+Dr. Roykhan Prayudianto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:12
+"dr. Ruqaiyah, M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",2025-05-23 13:26:12
+Dr. Rusdi Zakki Aminy Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:14
+Dr. Sandra Surya Rini Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:14
+"dr. Sandrik Suparman, Sp.PD",Sp. Penyakit Dalam,RSUD Al Ihsan Provinsi Jawa Barat,"Baleendah, Kabupaten Bandung",2025-05-23 13:26:14
+"Dr. Santi Sumihar, Sp.PD, KAI",Sp. Penyakit Dalam,Apotek Kimia Farma Juanda Bogor,"Bogor Tengah, Bogor",2025-05-23 13:26:14
+"Dr. Sarah Firdausa M.Md.Sc., M.Sc, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:14
+"dr. Sarah Firdausa, M.Md.Sc, M.Sc, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:14
+Dr. Satyawardhana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:14
+"Dr. Shanti Tandayu Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:14
+"dr. Shelly Laksmisari, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 13:26:14
+"dr. Silvister Nancy, Sp.PD",Sp. Penyakit Dalam,Bio Medika Tangerang,"Tangerang, Tangerang",2025-05-23 13:26:14
+dr. Sin Hariyanto Budiarta Sp.PD-KGEH,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:16
+Dr. Siska Christine Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:16
+Dr. Siti Maslamah Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:16
+"dr. Sri Ramadhani, SpPD FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:16
+"dr. Sri Ramadhani, SpPD FINASIM",Sp. Penyakit Dalam,Klinik Sultan Medika,"Bantar Gebang, Bekasi",2025-05-23 13:26:16
+dr Stephanie Chandra Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:16
+dr. Stephanie Dewi Sp. PD.,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:16
+"dr. Stephanie Susantyo, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",2025-05-23 13:26:16
+"dr. Stephen Jose Renaldo Masengi, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 13:26:16
+dr. Sugijarto Sp.PD.,Sp. Penyakit Dalam,RS Mitra Keluarga Bekasi Barat,"Mustika Jaya, Bekasi",2025-05-23 13:26:16
+"dr. Sunu Sugiyanto, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 13:26:18
+Dr. Surya Ulhaq Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:18
+dr. Surya Wijaya Sp.PD,Sp. Penyakit Dalam,Apotek Lautan Berkat,"Grogol Petamburan, Jakarta Barat",2025-05-23 13:26:18
+dr. Sutya Wijaya Sp.PD,Sp. Penyakit Dalam,Apotek Lautan Berkat,"Grogol Petamburan, Jakarta Barat",2025-05-23 13:26:18
+"Dr. Tengku Muhammad Ridho Anhar M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:18
+Dr. Timoteus Richard Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:18
+"Dr. Tirza Gwendoline Matulessy, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:18
+Dr. Tjoeng Lioni Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:18
+dr. Tjoeng Lioni Sp.PD,Sp. Penyakit Dalam,Prodia,"Makassar, Kota Makassar",2025-05-23 13:26:18
+Dr. Toni Baskoro Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:18
+Dr. Umar Nur Rahman Sp.PD,Sp. Penyakit Dalam,Apotek Mida Farma II,"Gresik, Kabupaten Gresik",2025-05-23 13:26:21
+Dr. Vandi Dwi Putra Amruddin,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+Dr. Vandi Dwi Putra Amruddin Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+Dr. Vasa Adi Wisnu Wardana Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+dr. Vera Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+Dr. Vera Bahar Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+Dr. Vera Bahar SP PD,Sp. Penyakit Dalam,Apotek Lautan Berkat,"Grogol Petamburan, Jakarta Barat",2025-05-23 13:26:21
+"dr. Vera Bahar, Sp.PD",Sp. Penyakit Dalam,Halodoc Teleconsultation,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+"dr. Vera Bahar, Sp.PD",Sp. Penyakit Dalam,Halodoc Teleconsultation,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:21
+dr WILUJENG ANGGRAINI SP. PD,Sp. Penyakit Dalam,Apotek Kimia Farma 522 Probolinggo,"Mayangan, Kota Probolinggo",2025-05-23 13:26:21
+"DR. WULYO RAJABTO, SPPD K.H.ONK.M",Sp. Penyakit Dalam,Apotik Medika,"Bogor Tengah, Bogor",2025-05-23 13:26:23
+Dr. Wa Ode Sarnings Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+Dr. Wahyudi Pratama Harli Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+"Dr. Warigit Dri Atmoko Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+"Dr. Widya Deli Satuti M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+"Dr. William Faisal Sp.PD, CH, Cht",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+Dr. Wilujeng Anggraini Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+dr Winda A M Saragih Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:23
+dr. Wirawan Hambali Sp.PD,Sp. Penyakit Dalam,Prodia Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 13:26:23
+Dr. Y. Han Sp. PD,Sp. Penyakit Dalam,Apotek Putri Cilinaya,"Cilamaya Wetan, Kabupaten Karawang",2025-05-23 13:26:23
+"Dr. Yanuar Ardani M.Kes, Sp.PD, K-PPM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+Dr. Yanuar Surya Saputra Poedjijo Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+dr Yasa Asmara Sp. PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+"dr. Yovita Mulyakusuma, M. Sc, Sp. PD-KAI FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+dr Yuanita Sp. PD,Sp. Penyakit Dalam,APOTEK LIDO,"Koja, Jakarta Utara",2025-05-23 13:26:25
+"dr. Yulia Syarifa, Sp.PD",Sp. Penyakit Dalam,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",2025-05-23 13:26:25
+"dr. Yulistia Asmi, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+"Dr. Zairullah Mighfaza Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+"Dr. dr. Zulkhair Ali Sp.PD, K-GH, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+"Dr. Zulqadri Ginting M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:25
+de Vania Tryanni SPPD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+dr Gatut Priyonugroho Sp.P,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+"dr Haryanto Surya, SpPD KGEH",Sp. Penyakit Dalam,Apotek Berkat -,"Tangerang, Tangerang",2025-05-23 13:26:27
+dr Hendra Kuncoro Sp.PD-KGEH,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+"dr JULIEN ROSYE FRANKA MAWUNTU, DR, SP.P",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+dr Muhammad Natsir Akil Sp PD,Sp. Penyakit Dalam,APOTIK SUMBER REZEKI FARMA,"Kebayoran Lama, Jakarta Selatan",2025-05-23 13:26:27
+dr Primasari Deaningtyas Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+dr Ratih Inggiany Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+dr Tuty Rizkianty Sp.PK,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+"dr. AB Wardoyo, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:27
+"dr. Agung Suryoputro, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+dr. Andhika Mangala Putra Sp.A,Sp. Penyakit Dalam,RS Bersalin Kartika Sari,"Tanjung Priok, Jakarta Utara",2025-05-23 13:26:29
+"dr. Annisa Maloveny, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+"dr. Annisa, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+"dr. B. Susanto P, SpPD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+dr. Budianto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+"dr. Chacha Marissa Isfandiari, SpPD",Sp. Penyakit Dalam,Laboratorium Klinik Bunda Thamrin,"Medan Kota, Kota Medan",2025-05-23 13:26:29
+"dr. Dany Irawan, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+"dr. Deddy Nur Wachid Achadiono, M.Kes, Sp.PD-KR",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+"dr. Denny Moniaga, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:29
+"dr. Dina Aprillia Ariestine, M.Ked(PD), Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. Doni Priambodo, Sp.PD-KPTI",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. Dories Septiana, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+dr. Eddy Susanto Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. Farid Rakhman, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. Fery,Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+dr. Fiblia Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+dr. Firdaus Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. Ghea De Silva, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. Gladys Sudiyanto, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:31
+"dr. H. Arkademi, SpPD",Sp. Penyakit Dalam,Apotek Arasy,"IV Jurai, Kabupaten Pesisir Selatan",2025-05-23 13:26:33
+"dr. Hendarsyah Suryadinata, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+dr. Hendra Adiputra Sp.PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+"dr. Hendro Budijono, Sp.PD, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+"dr. Imran Nito, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+"dr. Indah Lestari, Sp.PD",Sp. Penyakit Dalam,Primaya Hospital Makassar,"Panakkukang, Kota Makassar",2025-05-23 13:26:33
+"dr. Indhira Alimin, SpPD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+"dr. Indra Satiavani, Sp.PD",Sp. Penyakit Dalam,RS. Mitra Plumbon Cibitung,"Cibitung, Kabupaten Bekasi",2025-05-23 13:26:33
+"dr. Irine, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+"dr. Jonny, Sp. PD, K-GH, M.Kes, MM, FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:33
+"dr. Jonny, Sp.PD, KGH, M.Kes, MM, DCN",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. Juslan Kasmar JS, Sp. PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. Kadek Puspita Widyarsani, SpPD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. Karel Ramli, Sp.PD,FINASIM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+dr. Leonard Nainggolan Sp.PD-KPTI,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. Levina Prima Rosalia, SpPD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. M. Mahfudz, Sp.PD,FINASIM",Sp. Penyakit Dalam,Apotek Seger 1,"Megaluh, Kabupaten Jombang",2025-05-23 13:26:35
+"dr. Mahaswara Whisnubhuana, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. Med. Salim Lim, MD. Sp.PD-KGH, FAMS, FASN",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. Meti Metiani, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:35
+"dr. dr. Michael Y, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+dr. Mohammad Rizki Sp PD,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+"dr. Muhamad Reza Prabowo, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+"dr. Mutia, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+"dr. Myra Puspitasari, SpPD, Finasim, M.Kes",Sp. Penyakit Dalam,0,"Bekasi Selatan, Bekasi",2025-05-23 13:26:37
+dr. Nurchandra SpPD,Sp. Penyakit Dalam,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 13:26:37
+"dr. Pranawa, SpPD KGH.",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+"dr. Rendhy Wisnugroho Santoso, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+"dr. Renny Tandya, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+"dr. Soetanto,SpPD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:37
+dr. Spesialis Penyakit Dalam,Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"Dr. dr. Suharko Soebardi Sp.PD-Kemd, Finasim",Sp. Penyakit Dalam,Prodia,"Makassar, Kota Makassar",2025-05-23 13:26:40
+"dr. Susanto Maduseno, SpPD. Subsp.GEH(K)",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"dr. Susanto Salim, Sp.PD,KHOM",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"dr. Ulfa Kholili, Sp.PD-KGEH",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"dr. Witjitra Darmana, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"dr. Yenny Liestiany, Sp.PD",Sp. Penyakit Dalam,PERMATA HATI BUNDA,"Tambun Utara, Kabupaten Bekasi",2025-05-23 13:26:40
+"dr. Yuhana Ftiria, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"dr. Zenith, Sp.PD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40
+"dr. Zuhri Dirgantoro,SpPD",Sp. Penyakit Dalam,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 13:26:40

@@ -1,0 +1,117 @@
+No,Speciality Name,Slug
+1,Sp. Kandungan & Kebidanan,obstetrics-and-gynecologist
+2,Sp. Kulit & Kelamin,dermato-venereologist
+3,Sp. THT,ear-nose-andthroat
+4,Sp. Jiwa,psychiatrist
+5,Sp. Penyakit Dalam,internist
+6,Sp. Anak,pediatrician
+7,Sp. Mata,ophthalmologist
+8,Dokter Gigi,dokter-gigi
+9,Dokter Umum,dokter-umum
+10,Psikolog Klinis,psikolog-klinis
+11,Sp. Saraf,neurologist
+12,Sp. Paru,pulmonologist
+13,Sp. Urologi,urologist
+14,Sp. Orthopaedi & Traumatologi,orthopedic-trauma-surgeon
+15,Sp. Jantung & Pembuluh Darah,cardiologist
+16,Sp. PD Gastroenterologi - Hepatologi,gastroenterologist
+17,Sp. Bedah Umum,general-surgeon
+18,Sp. Gizi Klinik,clinical-nutritionist
+19,Sp. PD Endokrin - Metabolik - Diabetes,endocrinologist
+20,Sp. Andrologi,andrologist
+21,Sp. Konservasi Gigi,endodontist
+22,Dokter Bedah,surgeon
+23,Sp. PD Ginjal - Hipertensi,nephrologist
+24,Sp. Gigi Anak,pedodontist
+25,Sp. Bedah Onkologi,surgical-oncologist
+26,Sp. PD Reumatologi,rheumatologist
+27,Sp. PD Hematologi & Onkologi Medik,sp-pd-hematologi-dan-onkologi-medik
+28,Sp. Bedah Mulut & Maksilofasial,oral-and-maxillofacial-surgeon
+29,Sp. Bedah Saraf,neurosurgeon
+30,Sp. Rehabilitasi Medik & Kedokteran Fisik,physical-medicine-and-rehabilitation
+31,Sp. Ortodonsia,orthodontist
+32,Sp. Periodonsia,periodontist
+33,Sp. Kedokteran Olahraga,sports-medicine-specialist
+34,Psikolog Klinis Anak & Remaja,psikolog-klinis-anak-dan-remaja-1
+35,Sp. PD Kardiovaskular,cardiovascular-physician
+36,Sp. Bedah Digestif,digestive-surgeon
+37,Akupuntur,accupuncturist
+38,Sp. Bedah Plastik,plastic-and-reconstructive-surgeon
+39,Sp. Bedah Toraks Kardiovaskular,cardiothoracic-surgeon
+40,Sp. Bedah Anak,pediatric-surgeon
+41,Fisioterapis,physiotherapist
+42,Sp. Prostodonsia,prosthodontist
+43,Sp. Bedah Vaskuler & Endovaskuler,vascular-surgeon
+44,Sp. Penyakit Mulut,oral-medicine-specialist
+45,Sp. PD Alergi - Imunologi,allergy-immunologist
+46,Sp. PD Tropik - Infeksi,tropical-medicine-doctor
+47,Konselor Laktasi,konselor-laktasi
+48,Sp. Bedah Spine,orthopedic-trauma-surgeon-spine
+49,Psikolog Klinis Dewasa,clinical-psychologist-adult
+50,Sp. Mikrobiologi Klinik,clinical-microbiologist
+51,Psikologi Industri dan Organisasi,psikologi-industri-dan-organisasi
+52,Sp. Bedah Panggul & Lutut,orthopedic-trauma-surgeon-hip-and-knee
+53,Dokter Kecantikan,aesthetic-doctor
+54,Sp. Radiologi,radiologist
+55,Sp. Anestesiologi,anesthesiologist
+56,Sp. Okupasi,occupational-medicine-specialist
+57,Sp. Onkologi Radiasi,radiation-oncologist
+58,Sp. Patologi Anatomi,anatomical-pathologist
+59,Sp. Patologi Klinik,clinical-pathologist
+60,Bidan,midwife
+61,Apoteker,apoteker
+62,Dokter Forensik,forensic-doctor
+63,Dokter Umum (DU),general-practitioner-gp
+64,Hipnoterapis,hipnoterapis
+65,Sp. Anak (Onkologi),pediatric-oncologist
+66,Sp. Farmakologi Klinik,clinical-pharmacology-specialist
+67,Sp. Intervensi dan Kegawatdaruratan Napas,interventional-pulmonology-and-respiratory-emergency
+68,Sp. Jiwa (Anak dan Remaja),sp-jiwa-anak-dan-remaja
+69,Sp. Kedokteran Nuklir,nuclear-medicine-specialist
+70,Sp. Nutrisi pada Kelainan Metabolisme,nutrition-and-metabolic-disorder
+71,Dokter Gigi Spesialis Radiologi - Subspesialis Radiodiagnosis Imaging,dokter-gigi-spesialis-radiologi-subspesialis-radiodiagnosis-imaging
+72,Insurance,insurance
+73,Sp. Anak (Alergi-Imunologi Anak),pediatric-allergy-immunology
+74,Ahli Gizi,dietician
+75,Dokter Emergensi Medik,emergency-medic-physician
+76,Dokter Gigi Kosmetik,cosmetic-dentist
+77,Dokter Gigi Sp. Radiologi,dokter-gigi-sp-radiologi
+78,Dokter Hewan,veterinarian
+79,Halofit,halofit
+80,Halofit Registered Dietitian,halofit-registered-dietitian
+81,Haloskin,haloskin
+82,Ilmu Biomedik,ilmu-biomedik
+83,Konselor,counselor
+84,Konsultasi Medis,konsultasi-medis
+85,Lainnya,others
+86,Psikolog Non Klinis,non-clinical-psychologist
+87,Sp. Ak (Analgesi-Anestesi),sp-ak-analgesi-anestesi
+88,Sp. Anak (Gastroenterologi-Hepatologi),pediatric-gastroenterologist
+89,Sp. Anak (Hematologi-Onkologi),sp-anak-hematologi-onkologi
+90,Sp. Anak (Nefrologi),pediatric-nephrologist
+91,Sp. Anak (Neonatologi),pediatric-neonatologist
+92,Sp. Anak (Neurologi),pediatric-neurologist
+93,Sp. Anak (Nutrisi & Penyakit Metabolik),pediatric-nutrition-and-metabolic-diseases
+94,Sp. Anak (Penyakit Tropik-Infeksi),pediatric-infectious-tropical-medicine
+95,Sp. Anak (Tumbuh Kembang),child-development-specialist
+96,Sp. Fetomaternal,fetomaternal-obstetrics-and-gynecologist
+97,Sp. Gizi Klink (Konsultan Endokrin Metabolik),clinical-nutritionist-endocrinology-and-metabolic-diseases
+98,Sp. Jantung (Kardiologi Intervensi),cardiologist-interventional-cardiologist
+99,Sp. Kedokteran Kelautan,sp-kedokteran-kelautan
+100,Sp. Kedokteran Keluarga Layanan Primer,family-medicine
+101,Sp. Kedokteran Penerbangan,aerospace-medicine-specialist
+102,Sp. Kulit & Kelamin (Alergi-Imunologi),dermato-venereologist-allergy-immunology
+103,Sp. OT (Subspesialis Orthopaedi Anak),sp-ot-subspesialis-orthopaedi-anak
+104,Sp. PD Geriatri,geriatric-medicine
+105,Sp. PD Psikosomatik,psychosomatic-medicine
+106,Sp. Rad (Intervensi),sp-rad-intervensi
+107,Sp. Saraf (Neuro-onkologi),neurologist-neuro-oncologist
+108,Sp. THT (Bronko-Esofagologi),ent-broncho-esophagologist
+109,Sp. THT (Laring Faring),sp-tht-laring-faring
+110,Sp. Uroginekologi,urogynaecology-obstetrics-and-gynecologist
+111,Sp.OG (Fertilitas Endokrinologi Reproduksi),sp-og-fertilitas-endokrinologi-reproduksi
+112,Spesialis Bedah Toraks Kardiak & Vaskular - Konsultan Vaskular EndoVaskular,cardiothoracic-and-vascular-surgeons
+113,Spesialis Kedokteran Olahraga (Ahli Latihan dan Kompetisi),sports-medicine-training-and-competition
+114,Spesialis Orthopedi Olahraga dan Artroskopi,orthopedic-sports-medicine-arthroscopy
+115,Spesialis Penyakit Dalam (Pulmonologi),internist-pulmonary-disease
+116,Spesialis Saraf Konsultan Nyeri,neurologist-pain-specialist

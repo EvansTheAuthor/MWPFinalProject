@@ -1,0 +1,548 @@
+name,speciality,hospital,city,timestamp
+dr. A.A. Ayu Ratnawati Sp.M,Sp. Mata,RS Lira Medika,"Karawang Timur, Kabupaten Karawang",2025-05-23 15:22:58
+dr AA Ayu Ratnawati Sp.M,Sp. Mata,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:22:58
+Dr. AA. AYU RATNAWATI Sp.M,Sp. Mata,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:22:58
+"dr. AA. AYU RATNAWATI, dr. Sp.M",Sp. Mata,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:22:58
+"dr. Adhi Wicaksono, Sp.M",Sp. Mata,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 15:22:58
+"dr Adhi Wicaksono, SpM",Sp. Mata,RS Jakarta,"Setiabudi, Jakarta Selatan",2025-05-23 15:22:58
+"dr. Ahriani Achmad, Sp.M",Sp. Mata,RS Azra,"Bogor Utara, Bogor",2025-05-23 15:22:58
+"dr. Aldrin Edwin Raymond Yuddy Oroh, Sp.M",Sp. Mata,Klinik Mata SMEC Manado,"Malalayang, Kota Manado",2025-05-23 15:22:58
+dr. Alif Reza Faizal S. Sp.M,Sp. Mata,Siloam Hospitals Labuan Bajo,"Komodo, Kabupaten Manggarai Barat",2025-05-23 15:22:58
+"dr. Anastasia Vanny Launardo, M.Kes., Sp.M",Sp. Mata,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 15:22:58
+"dr. Andi Muhammad Ichsan, Sp.M (K), Ph.D",Sp. Mata,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 15:23:00
+dr. Anny Sulistiyowati Sp.M (K),Sp. Mata,Klinik Mata SMEC Malang,"Blimbing, Kota Malang",2025-05-23 15:23:00
+"dr. Antonius Dwi Juniarto, Sp.M",Sp. Mata,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 15:23:00
+Dr. Aris Kurnia SpM,Sp. Mata,RS Mata JEC Primasana Tj. Priok,"Tanjung Priok, Jakarta Utara",2025-05-23 15:23:00
+"dr. Astri Avianty, Sp.M",Sp. Mata,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",2025-05-23 15:23:00
+"dr. Atiek Indriawati, Sp.M",Sp. Mata,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 15:23:00
+dr Aurora Sicilia Hutagalung Sp.M,Sp. Mata,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 15:23:00
+"dr Azalia Latuasan, SP.M",Sp. Mata,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:23:00
+dr. Bambang Susetio Sp.M(K),Sp. Mata,RS Santo Borromeus,"Coblong, Kota Bandung",2025-05-23 15:23:00
+dr. Beby Parwis Sp.M,Sp. Mata,RS Mata SMEC Medan,"Medan Petisah, Kota Medan",2025-05-23 15:23:00
+"dr. Britya Intar Luvila, Sp.M",Sp. Mata,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 15:23:02
+dr. Budi Suryanto Sp M,Sp. Mata,Klinik Mata Serpong,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 15:23:02
+"dr. Cahya Dessy Rahmawati, Sp.M",Sp. Mata,Siloam Hospitals Mataram,"Mataram, Kota Mataram",2025-05-23 15:23:02
+"dr. Catherina Elizabeth Tenden Tiar Tulong, Sp.M",Sp. Mata,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 15:23:02
+"dr. Chalid Kurniawan, Sp.M,. MKes",Sp. Mata,Santosa Hospital Bandung Central,"Andir, Kota Bandung",2025-05-23 15:23:02
+"dr. Cosmas Hascaryanto, Sp.M",Sp. Mata,Siloam Hospitals Jember,"Kaliwates, Kabupaten Jember",2025-05-23 15:23:02
+"Dr. Dr. Cosmos O. Mangunsong, Sp. M (K)",Sp. Mata,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 15:23:02
+dr Cut Mytha Fitriana Sp. M,Sp. Mata,RS Mitra Plumbon Cibitung,"Cibitung, Kabupaten Bekasi",2025-05-23 15:23:02
+dr. D. A. N. Candra Seni Sp.M,Sp. Mata,Klinik Khusus Mata SMEC Rawamangun,"Pulo Gadung, Jakarta Timur",2025-05-23 15:23:02
+DR dr. Gede Pardianto Sp M,Sp. Mata,RS Mata SMEC Medan,"Medan Petisah, Kota Medan",2025-05-23 15:23:02
+"dr. Daddy Armand Noeryoto, Sp.M",Sp. Mata,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:04
+Dr. Daddy Armand Sp M,Sp. Mata,Klinik Citra Husada,"Buduran, Kabupaten Sidoarjo",2025-05-23 15:23:04
+"dr. Danang Dwinarnoyo, Sp.M",Sp. Mata,Mata Nusantara (KMN Eyecare) Semarang,"Semarang Tengah, Kota Semarang",2025-05-23 15:23:04
+dr. Danang Dwinaryono SpM,Sp. Mata,Mata Nusantara (KMN Eyecare) Semarang,"Semarang Tengah, Kota Semarang",2025-05-23 15:23:04
+"dr. Danang Dwinaryono, Sp.M",Sp. Mata,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",2025-05-23 15:23:04
+dr. Desi Mariska SP.M,Sp. Mata,RSIA Limijati,"Bandung Wetan, Kota Bandung",2025-05-23 15:23:04
+"dr. Devi Azri Wahyuni, Sp.M., MARS",Sp. Mata,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 15:23:04
+"dr. Dewi Rosalina, Sp.M",Sp. Mata,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 15:23:04
+Dr. Dian Hadany Rahim Sp.M,Sp. Mata,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:23:04
+Dian Paramitasari Sp. M,Sp. Mata,Ciputra Hospital Citra Raya Tangerang,"Panongan, Kabupaten Tangerang",2025-05-23 15:23:04
+"dr. Dian Paramitasari, Sp. M",Sp. Mata,Ciputra Hospital Citra Raya Tangerang,"Panongan, Kabupaten Tangerang",2025-05-23 15:23:06
+"dr. Diansyah Gustini Fitriani, Sp.M",Sp. Mata,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 15:23:06
+"dr. Dini Hapsari, Sp.M",Sp. Mata,RS Harapan Bunda Jakarta,"Ciracas, Jakarta Timur",2025-05-23 15:23:06
+"dr. Dini Herdianti, Sp.M",Sp. Mata,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 15:23:06
+Dr. Andrew Lim Keat Eu,Sp. Mata,Island Hospital Penang,"Mampang Prapatan, Jakarta Selatan",2025-05-23 15:23:06
+"Dr. Cosmos Mangunsong, SpM",Sp. Mata,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 15:23:06
+Dr. Dr. Cosmos O. Mangunsong Sp M,Sp. Mata,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 15:23:06
+"Dr. Indra Maharddhika Pambudy, SpM",Sp. Mata,RS Simulasi Halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:06
+Dr.Raymond Tah Kheng Soon,Sp. Mata,Penang Adventist Hospital,"Mampang Prapatan, Jakarta Selatan",2025-05-23 15:23:06
+DR EDDYANTO SP. M,Sp. Mata,Klinik PHC Kebraon Surabaya,"Karangpilang, Kota Surabaya",2025-05-23 15:23:06
+dr Eko Parulian Sp. M,Sp. Mata,RS Permata Cibubur,"Jatisampurna, Bekasi",2025-05-23 15:23:08
+dr Eko Parulian Sp. M,Sp. Mata,RS Permata Cibubur,"Jatisampurna, Bekasi",2025-05-23 15:23:08
+"dr. Elisa Yopitasari, Sp.M",Sp. Mata,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 15:23:08
+"dr. Emilia Setyaadmadja, Sp. M",Sp. Mata,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:23:08
+"dr. Erna Niza, Sp.M",Sp. Mata,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 15:23:08
+"dr. Esti Wardhani, Sp. M","Sp. Mata, Lainnya",RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:08
+"dr. Etika Whidiastuti, Sp.M",Sp. Mata,Siloam Hospitals Sentosa Bekasi,"Bekasi Timur, Bekasi",2025-05-23 15:23:08
+dr. Etty Budiasni Sp.M,Sp. Mata,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:23:08
+dr Etty Budiasni Sp. M,Sp. Mata,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:23:08
+dr. Fajri Wevqi Matoka Sp.M,Sp. Mata,Klinik Mata SMEC Gorontalo,"Kota Timur, Kota Gorontalo",2025-05-23 15:23:08
+"dr. Faneisha, Sp.M",Sp. Mata,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 15:23:10
+dr Fardiriva Hamzah,Sp. Mata,RS Mata JEC Primasana Tj. Priok,"Tanjung Priok, Jakarta Utara",2025-05-23 15:23:10
+dr. Farida Selviana Sp. M,Sp. Mata,RS Indriati Baru Sukoharjo,"Grogol, Kab Sukoharjo",2025-05-23 15:23:10
+"dr. Ferdian Yanuar, Sp.M",Sp. Mata,RS Ananda Bekasi,"Medan Satria, Bekasi",2025-05-23 15:23:10
+dr. Franciscus Sp.M,Sp. Mata,Siloam Hospitals Bogor,"Bogor Tengah, Bogor",2025-05-23 15:23:10
+"dr. Gatot Soehartono, Sp.M (K)",Sp. Mata,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 15:23:10
+Dr. Gede Pardiantho Sp.M(K),Sp. Mata,RS Mata SMEC Medan,"Medan Petisah, Kota Medan",2025-05-23 15:23:10
+dr. Grando Setiawan Sp.M,Sp. Mata,Siloam Hospitals Bogor,"Bogor Tengah, Bogor",2025-05-23 15:23:10
+Dr. Gusti G. Suardana Sp.M,Sp. Mata,Klinik Utama Mata JEC Bekasi,"Medan Satria, Bekasi",2025-05-23 15:23:10
+"Dr. Gusti G. Suardana, Sp.M",Sp. Mata,Klinik Utama Mata JEC Bekasi,"Medan Satria, Bekasi",2025-05-23 15:23:10
+Dr. Gusti Gede Suardana SpM (K),Sp. Mata,Klinik Utama Mata JEC Bekasi,"Medan Satria, Bekasi",2025-05-23 15:23:12
+"dr. H. A.K Ansyori, Sp.M",Sp. Mata,RS Sriwijaya Palembang,"Ilir Timur I, Kota Palembang",2025-05-23 15:23:12
+"dr. Hani Faradis, Sp.M",Sp. Mata,RS Islam Jemursari Surabaya,"Wonocolo, Kota Surabaya",2025-05-23 15:23:12
+dr. Hasmaeinah B Roesad Sp.M,Sp. Mata,Charitas Hospital Palembang,"Ilir Timur I, Kota Palembang",2025-05-23 15:23:12
+"dr. Helini Sari Lubis, Sp.M., M.Kes",Sp. Mata,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 15:23:12
+dr Henry Warouw Sp M,Sp. Mata,Mata Nusantara (KMN Eyecare) Semarang,"Semarang Tengah, Kota Semarang",2025-05-23 15:23:12
+dr. Henu Hadiyantama Sp.M,Sp. Mata,Klinik Utama SMEC Kudus,"Bae, Kabupaten Kudus",2025-05-23 15:23:12
+"dr Herman Nur, SpM",Sp. Mata,RS Citra Medika Depok,"Cilodong, Depok",2025-05-23 15:23:12
+"dr. Hidajat Nerviadi Iksan, Sp.M",Sp. Mata,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 15:23:12
+"dr. Hielda Afpa Koeswara, Sp.M",Sp. Mata,Siloam Hospitals Kelapa Dua,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 15:23:12
+IRMA FERRY LESMANA DR. SP M,Sp. Mata,RS Adi Husada Kapasari,"Simokerto, Kota Surabaya",2025-05-23 15:23:15
+dr Idhayu Anggit W Sp.M,Sp. Mata,RS Tarumajaya Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 15:23:15
+dr Idhayu Anggit W Sp. M,Sp. Mata,RS Tarumajaya Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 15:23:15
+"dr. Ima Yustiarini , Sp. M (K)",Sp. Mata,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 15:23:15
+"dr. Indira Silviandari, Sp.M",Sp. Mata,RS PMI Bogor,"Bogor Utara, Bogor",2025-05-23 15:23:15
+"dr. Indra Trimahayana, Sp.M",Sp. Mata,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 15:23:15
+"dr. Indriani Pujiastuti , Sp.M",Sp. Mata,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:15
+"dr. Indriani Kartika Dewi, Sp.M",Sp. Mata,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:15
+"dr. Indrianingrum, Sp.M",Sp. Mata,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 15:23:15
+"dr. Intan Ramli, Sp.M",Sp. Mata,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 15:23:15
+"dr. Irfani Prajnaparamita, Sp.M",Sp. Mata,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:17
+"dr. Irma Andriany, Sp.M",Sp. Mata,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 15:23:17
+"dr. Ita Trisnawati, Sp.M",Sp. Mata,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 15:23:17
+"dr. Jenny Rahmalita, Sp.M",Sp. Mata,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 15:23:17
+"dr. Josiah Irma, Sp.M., MARS",Sp. Mata,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 15:23:17
+"dr. Joyce Setyawati, Sp.M",Sp. Mata,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 15:23:17
+"dr. Judith Evarina Crecenda, Sp.M",Sp. Mata,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 15:23:17
+Dr. Julia Sp.M,Sp. Mata,RS Pusat Pertamina,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:23:17
+"dr. Julia S Adji, Sp.M",Sp. Mata,RS Pusat Pertamina,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:23:17
+"dr. Junaedi, Sp.M",Sp. Mata,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 15:23:17
+"dr. Junely Vimala Jaury, Sp.M",Sp. Mata,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 15:23:19
+"dr. Kantika Prinandita, Sp.M",Sp. Mata,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 15:23:19
+"dr. Karliana Kartasa Taswir, Sp. M",Sp. Mata,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:23:19
+Dr. Katharina W. Sp.M M.Kes,Sp. Mata,Netra Klinik Spesialis Mata I,"Bandung Wetan, Kota Bandung",2025-05-23 15:23:19
+"Dr. Kautsar Abiyoga,SpM",Sp. Mata,RS Mata Solo,"Laweyan, Kota Surakarta",2025-05-23 15:23:19
+"dr. Keisha Devita Primananda, SpM",Sp. Mata,Netra Klinik Spesialis Mata II,"Sumurbandung, Kota Bandung",2025-05-23 15:23:19
+"dr. Kevin Anggakusuma Hendrawan, Sp. M",Sp. Mata,RS Gotong Royong,"Sukolilo, Kota Surabaya",2025-05-23 15:23:19
+"dr. Laila Wahyuni, Sp.M",Sp. Mata,Klinik Utama Bethesda Medical Centre,"Garut Kota, Kabupaten Garut",2025-05-23 15:23:19
+"dr. Lenggo Geni Oetama, Sp.M",Sp. Mata,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 15:23:19
+"dr. Lenora Sandra, Sp.M",Sp. Mata,Klinik Mata SMEC Depok,"Cilodong, Depok",2025-05-23 15:23:19
+"dr. Levandi Mulya, Sp.M",Sp. Mata,RS EMC Sentul,"Babakan Madang, Kabupaten Bogor",2025-05-23 15:23:21
+"dr. Levandi Mulya, Sp.M",Sp. Mata,RS EMC Sentul,"Babakan Madang, Kabupaten Bogor",2025-05-23 15:23:21
+"dr. Liliek Isyoto Yahmo, Sp.M",Sp. Mata,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 15:23:21
+"dr. Lydia Nuradianti, Sp.M (K)",Sp. Mata,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:21
+"dr. M. Dio Syaputra , Sp.M",Sp. Mata,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:21
+dr. M. Dio Syaputra Sp.M.,Sp. Mata,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:21
+Dr. M. Simarmata Sp.M,Sp. Mata,Klinik Utama Kuningan Eye Center,"Kuningan, Kabupaten Kuningan",2025-05-23 15:23:21
+dr. MAYA E. SUWANDONO,Sp. Mata,Mata Nusantara (KMN Eyecare) Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:21
+dr. MAYA E. SUWANDONO SpM,Sp. Mata,Rumah Sakit Khusus Mata Nusantara,"Cilandak, Jakarta Selatan",2025-05-23 15:23:21
+dr. MAYA E. SUWANDONO SP. M,Sp. Mata,Rumah Sakit Khusus Mata Nusantara,"Cilandak, Jakarta Selatan",2025-05-23 15:23:21
+dr. Madona Debora SpM,Sp. Mata,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",2025-05-23 15:23:23
+"dr. Magdalena Siska Trisanti, Sp.M",Sp. Mata,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 15:23:23
+"dr. Mareta Gustia Ningsih, Sp.M",Sp. Mata,RS Mulia Pajajaran,"Bogor Utara, Bogor",2025-05-23 15:23:23
+"dr. Marhaeni Pusposetyaningrum, Sp.M",Sp. Mata,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 15:23:23
+"dr. Maria Larasati, Sp.M",Sp. Mata,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 15:23:23
+"dr. Mario Ricardo Papilaya, Sp.M",Sp. Mata,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 15:23:23
+"dr. Marjasa Dharmawan Dicky Newton, Sp.M",Sp. Mata,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 15:23:23
+"dr. Melissa Marselina, Sp.M",Sp. Mata,Klinik Utama Bandung Eye Center,"Sumurbandung, Kota Bandung",2025-05-23 15:23:23
+"dr. Mendy Candella, Sp.M",Sp. Mata,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",2025-05-23 15:23:23
+"dr. Michael Je, Sp.M",Sp. Mata,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 15:23:23
+"dr. Michael Norbertus Suryanto, Sp.M",Sp. Mata,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 15:23:25
+"dr. Miranda Magdalena Johannes, Sp.M",Sp. Mata,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:23:25
+Dr. Mohamad Arief Hardiawan Sp.M,Sp. Mata,Klinik Mata SMEC Bekasi,"Medan Satria, Bekasi",2025-05-23 15:23:25
+dr. Mohamad Arief Herdiawan Sp.M,Sp. Mata,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 15:23:25
+Dr. Mohamed Arief Herdiawan Sp. M,Sp. Mata,Klinik Mata SMEC Bekasi,"Medan Satria, Bekasi",2025-05-23 15:23:25
+"dr. Muh Valery, SP.M",Sp. Mata,RS Mata Undaan Surabaya,"Genteng, Kota Surabaya",2025-05-23 15:23:25
+"dr. Muhammad Zidny Fahmi, Sp.M",Sp. Mata,Klinik Utama Mata JEC Surabaya,"Wonokromo, Kota Surabaya",2025-05-23 15:23:25
+dr. Nabita Aula Sp.M,Sp. Mata,RS Murni Teguh Sudirman Jakarta,"Tanah Abang, Jakarta Pusat",2025-05-23 15:23:25
+"dr. Nanda Lessi Hafni Eka Putri, Sp.M",Sp. Mata,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 15:23:25
+dr. Nassa Rachmatika Meylani Sp. M,Sp. Mata,RS Mitra Medika Pontianak,"Pontianak Kota, Kota Pontianak",2025-05-23 15:23:25
+"dr. Ngt Nayan Sedanti, M.Biomed Sp.M",Sp. Mata,Kasih Ibu Hospital Tabanan,"Tabanan, Kabupaten Tabanan",2025-05-23 15:23:27
+"dr. Niken Indah Noerdiyani, Sp.M",Sp. Mata,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:27
+dr. Nikho Melga Shalim Sp. M,Sp. Mata,Klinik Mata Serpong,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 15:23:27
+Dr. Niko Mega Shalim Sp.M,Sp. Mata,Klinik Mata Serpong,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 15:23:27
+"dr. Novanita Shirley Satolom, Sp.M",Sp. Mata,Siloam Hospitals Manado,"Wenang, Kota Manado",2025-05-23 15:23:27
+dr. Novita El Sukma Putri,Sp. Mata,Optik Melawai Plaza Indonesia,"Menteng, Jakarta Pusat",2025-05-23 15:23:27
+"dr. Nur Intan, Sp.M",Sp. Mata,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 15:23:27
+dr Nurcahya Ardian Bramantha Sp M,Sp. Mata,RS Kasih Ibu Surakarta,"Laweyan, Kota Surakarta",2025-05-23 15:23:27
+"dr. Nurcahya Ardian Bramantha, Sp.M",Sp. Mata,Klinik Utama Kasih Ibu Sehati,"Laweyan, Kota Surakarta",2025-05-23 15:23:27
+dr. Nurita Tri Wijayanti Sp.M.,Sp. Mata,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:27
+"dr. Nurita Tri Wijayanti, Sp.M, M.Ked.Klin",Sp. Mata,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:29
+"dr. Nursyamsi, Sp.M., M.Kes",Sp. Mata,Siloam Hospitals Bekasi Sepanjang Jaya,"Rawalumbu, Bekasi",2025-05-23 15:23:29
+"dr. Nylvia Lamsari Sardy, Sp.M",Sp. Mata,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 15:23:29
+Ophthalmologist,Sp. Mata,Optik Tunggal Zeiss Vision Center Deli Park Medan,"Medan Barat, Kota Medan",2025-05-23 15:23:29
+Optometrist,Sp. Mata,Optik Melawai AEON BSD,"Pagedangan, Kabupaten Tangerang",2025-05-23 15:23:29
+"dr. Pratwi Yuliandari, Sp.M. M.Kes",Sp. Mata,Netra Klinik Spesialis Mata I,"Bandung Wetan, Kota Bandung",2025-05-23 15:23:29
+"dr. Pribadyo, Sp.M(K), MPH",Sp. Mata,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 15:23:29
+Prof. Dr. dr. Harry H. B. Malangkey,Sp. Mata,RS Abdi Waluyo,"Menteng, Jakarta Pusat",2025-05-23 15:23:29
+dr. Puranto Budi Susetyo Sp.M,Sp. Mata,Klinik Mata SMEC Tebet,"Tebet, Jakarta Selatan",2025-05-23 15:23:29
+dr. Puranto Budi Susetyo Sp.M,Sp. Mata,Klinik Mata SMEC Tebet,"Tebet, Jakarta Selatan",2025-05-23 15:23:29
+"dr. R. Leni Maelani Patimah, Sp.M",Sp. Mata,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 15:23:31
+Dr. R. Maula Rifada SpM,Sp. Mata,Netra Klinik Spesialis Mata I,"Bandung Wetan, Kota Bandung",2025-05-23 15:23:31
+Dr. RIEN WIDYASARI SP. M,Sp. Mata,Mata Nusantara (KMN Eyecare) Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:31
+"dr. Raden Angga Kartiwa, Sp.M(K).,M.Kes",Sp. Mata,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 15:23:31
+"dr. Rahayu Widhyasti, Sp.M",Sp. Mata,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 15:23:31
+dr. Ramon Khrisna Sp.M.,Sp. Mata,Klinik Utama Kuningan Eye Center,"Kuningan, Kabupaten Kuningan",2025-05-23 15:23:31
+dr. Rani Pitta Omas Sp.M.,Sp. Mata,RSU Unggul Karsa Medika,"Margaasih, Kabupaten Bandung",2025-05-23 15:23:31
+"dr. Ratu Jelita Kurnia Pratiwi, Sp.M",Sp. Mata,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 15:23:31
+Dr. Referano Agustawan Sp. M,Sp. Mata,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 15:23:31
+"dr. Reinne Natali Christine, Sp.M",Sp. Mata,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 15:23:31
+"dr. Retno Wardani, Sp.M",Sp. Mata,Siloam Hospitals Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 15:23:34
+"dr. Retno Wardani, SpM M.Kes",Sp. Mata,Siloam Hospitals Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 15:23:34
+dr. Ria Sylvia Sp.M,Sp. Mata,RS Mata Undaan Surabaya,"Genteng, Kota Surabaya",2025-05-23 15:23:34
+"dr. Rianti Raisa Darusman, SpM(K)",Sp. Mata,Optik Melawai AEON BSD,"Pagedangan, Kabupaten Tangerang",2025-05-23 15:23:34
+"dr. Rima Oktaviani, Sp.M",Sp. Mata,RS Mitra Keluarga Slawi,"Slawi, Tegal",2025-05-23 15:23:34
+dr. Ririn Nisiawati Sp. M,Sp. Mata,Klinik Mata Utama JEC Orbita Makassar,"Makassar, Kota Makassar",2025-05-23 15:23:34
+dr. Rita Tjandra Sp M,Sp. Mata,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 15:23:34
+"dr. Ritsia Anindita Wastitiamurti, Sp.M",Sp. Mata,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 15:23:34
+"dr. Rivani Liana Syaiful, Sp.M",Sp. Mata,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 15:23:34
+"dr. Rizal Irvanda, Sp.M",Sp. Mata,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 15:23:34
+dr. Roza Irawati Sp.M.,Sp. Mata,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 15:23:36
+"dr. Rumiang Tobing, Sp.M",Sp. Mata,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 15:23:36
+dr. Sahata PH Sp.M,Sp. Mata,RS Mata Undaan Surabaya,"Genteng, Kota Surabaya",2025-05-23 15:23:36
+"dr. Samuel Albert Roeroeares Malingkas, Sp.M",Sp. Mata,Siloam Hospitals Manado,"Wenang, Kota Manado",2025-05-23 15:23:36
+dr. Samuel Bahri Sinor Sp.M,Sp. Mata,Klinik Mata SMEC Gorontalo,"Kota Timur, Kota Gorontalo",2025-05-23 15:23:36
+"dr. Sawitri Boengas, Sp.M",Sp. Mata,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 15:23:36
+"dr. Sengdy Chandra Chauhari, Sp.M",Sp. Mata,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 15:23:36
+"dr. Serisa Irila, Sp.M",Sp. Mata,RS Mitra Keluarga Slawi,"Slawi, Tegal",2025-05-23 15:23:36
+Dr. Sharita R. Siregar Sp M,Sp. Mata,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 15:23:36
+"dr. Simon Siregar, Sp.M",Sp. Mata,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 15:23:36
+dr. Sindi Dwijayanti Sp.M,Sp. Mata,Klinik Utama Kuningan Eye Center,"Kuningan, Kabupaten Kuningan",2025-05-23 15:23:38
+"dr. Sita Paramitha , Sp.M",Sp. Mata,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:38
+DR Siti Fatimah Sah Rahmahani Sp. M,Sp. Mata,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 15:23:38
+Dr. Sri Budi Rahardjo Sp. M,Sp. Mata,RS Harum Sisma Medika,"Makasar, Jakarta Timur",2025-05-23 15:23:38
+dr. Sri Irmandha Kusumawardhani SpM,Sp. Mata,RS Grestelina,"Panakkukang, Kota Makassar",2025-05-23 15:23:38
+dr. Sri Mariati Sp.M,Sp. Mata,RS Mata JEC Menteng,"Menteng, Jakarta Pusat",2025-05-23 15:23:38
+"dr. Sri Nawunghartanti, Sp.M",Sp. Mata,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 15:23:38
+"dr. Sri Widagdi, Sp.M",Sp. Mata,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 15:23:38
+"dr. Sri Yuliani Elida, Sp. M M.Sc",Sp. Mata,RS Anugerah Bunda Khatulistiwa,"Pontianak Tenggara, Kota Pontianak",2025-05-23 15:23:38
+"dr. Suci Istiqa Mustafa, Sp.M",Sp. Mata,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:38
+dr. Sutama Sp.M,Sp. Mata,RS Islam Fatimah Cilacap,"Cilacap Utara, Kabupaten Cilacap",2025-05-23 15:23:40
+dr. TRIWIJAYANTI Sp.M,Sp. Mata,Mata Nusantara (KMN Eyecare) Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:23:40
+"dr. Teguh Filbert Metaputra, Sp.M",Sp. Mata,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 15:23:40
+dr. Tessa Humaira Anindya Sp M,Sp. Mata,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 15:23:40
+"dr. Tessa Humaira Anindya, Sp.M",Sp. Mata,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 15:23:40
+"dr. Timur Syarifuddin, Sp.M",Sp. Mata,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 15:23:40
+dr. Tjut Tjaina R SpM,Sp. Mata,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",2025-05-23 15:23:40
+"dr Tri Subekti, Sp.M, M.Ked.Klin",Sp. Mata,RSU Fikri Medika,"Klari, Kabupaten Karawang",2025-05-23 15:23:40
+"dr. Vera Sumual, Sp.M (K)",Sp. Mata,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 15:23:40
+"dr. Victor Setiawan Tandean, Sp.M",Sp. Mata,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 15:23:40
+"dr. Victor Setiawan Tandean, Sp.M",Sp. Mata,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 15:23:42
+"dr. Vinca Desyandri, Sp.M",Sp. Mata,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 15:23:42
+dr. Weni Puspitasari Sp. M,Sp. Mata,RS Juwita,"Bekasi Timur, Bekasi",2025-05-23 15:23:42
+"dr. Whisnu Bambang Jatmiko , Sp.M",Sp. Mata,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:42
+"dr. Widya Ramania, Sp.M",Sp. Mata,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 15:23:42
+"dr. Willdania Yolanda , Sp.M",Sp. Mata,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 15:23:42
+dr. Wini Puspitasari Sp.M,Sp. Mata,RS Juwita,"Bekasi Timur, Bekasi",2025-05-23 15:23:42
+"dr. Yenita Khatania Arjaja, M.Biomed Sp.M",Sp. Mata,RS Khusus Mata Ramata,"Denpasar Barat, Kota Denpasar",2025-05-23 15:23:42
+"dr. Yohanes Ronald Sautraja, Sp.M",Sp. Mata,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 15:23:42
+"dr. Yudowati Samidjo, Sp.M",Sp. Mata,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 15:23:42
+Dr. Yuli Handayani Sp.M,Sp. Mata,RS Karya Medika I,"Cikarang Barat, Kabupaten Bekasi",2025-05-23 15:23:44
+"dr. Yunita Sari, Sp.M",Sp. Mata,RS Jakarta,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:44
+dr. Zulfikri Khalil Novriansyah Sp.M,Sp. Mata,Primaya Hospital Inco Sorowako,"Nuha, Kabupaten Luwu Timur",2025-05-23 15:23:44
+"dr Sukri Mustafa, Sp.M-K,M,Kes",Sp. Mata,RS Harapan Jayakarta,"Cakung, Jakarta Timur",2025-05-23 15:23:44
+"dr. Bhima Pratjahja, Sp.M",Sp. Mata,RSU Budi Rahayu Pekalongan,"Pekalongan Utara, Kota Pekalongan",2025-05-23 15:23:44
+"dr. Cecilia, Sp.M",Sp. Mata,RS Misi Lebak,"Rangkasbitung, Kabupaten Lebak",2025-05-23 15:23:44
+"dr. Charles Indra, Sp.M",Sp. Mata,Klinik Mata SMEC Manado,"Malalayang, Kota Manado",2025-05-23 15:23:44
+"dr. Dhana Cahyadi, Sp.M",Sp. Mata,RS Awal Bros Pekanbaru,"Bukit Raya, Kota Pekanbaru",2025-05-23 15:23:44
+"dr. Dian Paramitasari, Sp.M",Sp. Mata,Ciputra Hospital Citra Raya Tangerang,"Panongan, Kabupaten Tangerang",2025-05-23 15:23:44
+"dr. Dian Paramitasari, Sp.M",Sp. Mata,Ciputra Hospital Citra Raya Tangerang,"Panongan, Kabupaten Tangerang",2025-05-23 15:23:44
+"dr. Dini Hapsarai, SpM",Sp. Mata,RS Harapan Bunda Jakarta,"Ciracas, Jakarta Timur",2025-05-23 15:23:46
+"dr. Eny Tjahjani, Sp.M",Sp. Mata,RS Mata Dr. YAP Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 15:23:46
+"dr. Erwin Iskandar, Sp.M",Sp. Mata,Netra Klinik Spesialis Mata I,"Bandung Wetan, Kota Bandung",2025-05-23 15:23:46
+"dr. Faradina Risza Quamila,Sp.M",Sp. Mata,Klinik Utama Mata JEC Surabaya,"Wonokromo, Kota Surabaya",2025-05-23 15:23:46
+"dr. Fatma Asyari, Sp.M(K)",Sp. Mata,RS Jakarta,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:46
+"dr. Febriani Yohana, Sp.M",Sp. Mata,Ciputra Mitra Hospital Banjarmasin,"Kertak Hanyar, Kota Banjarmasin",2025-05-23 15:23:46
+"dr. Georgina Rose Cristin Gosal, Sp.M",Sp. Mata,Klinik Mata SMEC Manado,"Malalayang, Kota Manado",2025-05-23 15:23:46
+DR. dr. H. Gede Pardianto Sp.M(K),Sp. Mata,RS Mata SMEC Medan,"Medan Petisah, Kota Medan",2025-05-23 15:23:46
+"dr. Herdanti Rahma Putri, Sp.M",Sp. Mata,RS Mulia Pajajaran,"Bogor Utara, Bogor",2025-05-23 15:23:46
+Dr. dr. I Wayan Eka Sutyawan Sp.M (K),Sp. Mata,RS Khusus Mata Ramata,"Denpasar Barat, Kota Denpasar",2025-05-23 15:23:46
+"dr. Ika Rahmawati, Sp.M",Sp. Mata,RSIA Grha Bunda,"Kiaracondong, Kota Bandung",2025-05-23 15:23:48
+"dr. Indra Silviandari, SpM",Sp. Mata,RS PMI Bogor,"Bogor Utara, Bogor",2025-05-23 15:23:48
+"dr. Jessica Sarwan, Sp.M",Sp. Mata,RS Jakarta,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:48
+"dr. Karina Adistiarini, SpM",Sp. Mata,RS JIH Purwokerto,"Kembaran, Kabupaten Banyumas",2025-05-23 15:23:48
+"dr. Kussulistyaji Aryoputranto, Sp.M",Sp. Mata,Klinik Mata SMEC Depok,"Cilodong, Depok",2025-05-23 15:23:48
+"dr. Lutfi Zain, Sp.M",Sp. Mata,RS Perkebunan Jember Klinik,"Patrang, Kabupaten Jember",2025-05-23 15:23:48
+"dr. Marcella Wilhelmina Politton,Sp.M",Sp. Mata,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 15:23:48
+"dr. Marisa Ulibasa,Sp.M",Sp. Mata,RS Prima Pekanbaru,"Tampan, Kota Pekanbaru",2025-05-23 15:23:48
+"dr. Matilda Susanto, Sp.M",Sp. Mata,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 15:23:48
+dr. Nadia Khairina Budiman Sp.M,Sp. Mata,RS Mata Bandung Eye Center,"Lengkong, Kota Bandung",2025-05-23 15:23:48
+"dr. Nandang Sudrajat, Sp.M",Sp. Mata,Klinik Simpang Tanah Bambu,"Simpang Empat, Kabupaten Tanah Bumbu",2025-05-23 15:23:50
+"dr. Nur Khoma Fatmawati,M.Kes, Sp.M",Sp. Mata,Klinik Mata SMEC Samarinda,"Samarinda Ulu, Kota Samarinda",2025-05-23 15:23:50
+Dr. dr. Pitra Ariesta Sinta Dewi SpM,Sp. Mata,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:50
+"dr. Romadona, Sp.M",Sp. Mata,RS Zahirah,"Jagakarsa, Jakarta Selatan",2025-05-23 15:23:50
+"dr. Rosedeni Arifin, Sp.M",Sp. Mata,RS Pondok Indah - Bintaro Jaya,"Pondok Aren, Tangerang Selatan",2025-05-23 15:23:50
+"dr. Sarah Rizqia Indrayanti, Sp.M",Sp. Mata,RS Mata Dr. YAP Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 15:23:50
+"dr. Siti Asfani, Sp.M",Sp. Mata,RS Permata Pamulang,"Pamulang, Tangerang Selatan",2025-05-23 15:23:50
+"dr. Sovira Prashanti, Sp.M",Sp. Mata,RS Awal Bros Pekanbaru,"Bukit Raya, Kota Pekanbaru",2025-05-23 15:23:50
+"dr. Sumeidi, Sp.M",Sp. Mata,Charitas Hospital Palembang,"Ilir Timur I, Kota Palembang",2025-05-23 15:23:50
+"dr. Syamsurizal, Sp.M",Sp. Mata,Pamulang Medical Center,"Pamulang, Tangerang Selatan",2025-05-23 15:23:50
+"dr. Verna Kusuma, Sp.M",Sp. Mata,RS Permata Cirebon,"Kedawung, Kabupaten Cirebon",2025-05-23 15:23:52
+"dr. Widya Ardhana Reswari, Sp.M",Sp. Mata,RS Pelabuhan Jakarta Utara,"Koja, Jakarta Utara",2025-05-23 15:23:52
+"dr. Yulika Harniza, Sp.M",Sp. Mata,RS Anna Medika Bekasi,"Bekasi Utara, Bekasi",2025-05-23 15:23:52
+"dr. andreas nurdin,Sp.M",Sp. Mata,RS Puri Cinere,"Cinere, Depok",2025-05-23 15:23:52
+"dr.Ade Septriana, Sp.M",Sp. Mata,Ciputra Mitra Hospital Banjarmasin,"Kertak Hanyar, Kota Banjarmasin",2025-05-23 15:23:52
+Dr. A. A. Ayu Githasari Dewi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:52
+dr. ADISTI SpM,Sp. Mata,Klinik Utama Adistia,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 15:23:52
+Dr. AHMAD IKLILUDDIN SP M,Sp. Mata,RS AMC MUHAMMADIYAH,"Wirobrajan, Kota Yogyakarta",2025-05-23 15:23:52
+Dr. Abdi Sastra Gunanegara Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:52
+"Dr. Ade John Nursalim MM, MARS, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:52
+dr. Adisti Lukman Sp.M,Sp. Mata,Klinik Utama Adistia,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 15:23:55
+"dr. Adrian Bamby Sutrisno, Sp.M",Sp. Mata,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 15:23:55
+dr. Alia Nessa Utami SPM,Sp. Mata,Jatiwaringin Medical Center,"Pondok Gede, Bekasi",2025-05-23 15:23:55
+Dr. Almubdi Jaya Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:55
+Dr. Amalia Budhi Hapsari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:55
+"Dr. Anak Agung Ayu Diah Citradewi M.Biomed, Sp.A",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:55
+Dr. Anak Agung Dewi Adnya Swari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:55
+"dr. Anastasia Niken Soedarto, Sp.M., MM",Sp. Mata,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 15:23:55
+Dr. Andi Ashady Fitrah Pawallangi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:55
+Dr. Anditta Syifarahmah Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:55
+Dr. Anisa Feby Arifani Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:57
+"dr. Aqida El Fadila, SpM",Sp. Mata,Klinik Mata Jombang,"Jombang , Kabupaten Jombang",2025-05-23 15:23:57
+Dr. Arandz Ruttu Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:57
+dr. Ari Djatikoesoemo Sp.M,Sp. Mata,RSCM KIRANA,"Senen, Jakarta Pusat",2025-05-23 15:23:57
+Dr. Ari Djatikusuma Sp. M,Sp. Mata,RSCM KIRANA,"Senen, Jakarta Pusat",2025-05-23 15:23:57
+dr. Arief Hidayat S.PM,Sp. Mata,Optik mega,"Cempaka Putih, Jakarta Pusat",2025-05-23 15:23:57
+dr. Arif Budiman Sp.M,Sp. Mata,RSUD Kab. Tangerang,"Gunungkaler, Kabupaten Tangerang",2025-05-23 15:23:57
+Dr. Arif Dikman Muttaqien Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:57
+"dr. Arif Dikman Muttaqien, Sp.M",Sp. Mata,Halodoc Teleconsultation,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:57
+dr. Arifah Puji Astuti Sp.M,Sp. Mata,"dr.Arifah Puji Astuti,SpM","Pasar Kliwon, Kota Surakarta",2025-05-23 15:23:57
+Dr. Arini Ghaisa Atsari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+"Dr. Astry Ayunda Sp.M, M.Ked, Klin",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+Dr. Aswira Aslam Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+Dr. Ayu Aliyah M.Ked(Oph) Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+"dr. Bambang Herwindu, Sp.M",Sp. Mata,OPTIK GAYA BARU 2,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+Dr. Bambang Setiohadji Sp.M(K),Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+dr. Bintoro Akurwasianto Sp.M,Sp. Mata,Cirebon Eye Center,"Kesambi, Kota Cirebon",2025-05-23 15:23:59
+"Dr. Bramantya Surya Pratama Sp.M, MMRS",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+Dr. Callina Floriana Yudisia BR Bangun Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+Dr. Chandra Nur Indenta Prima Budi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:23:59
+Dr. Chua Chung Nen,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+"Dr. Citra Azma Anggita Sp.M., M.Kes",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+Dr. Cok. Agung Dalem Pemayun Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+Dr. Cokorda Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+Dr. Cokorda Istri Winny Prabasari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+Dr. DADDY ARMAND N. Sp.M,Sp. Mata,DR SPECS,"Cengkareng, Jakarta Barat",2025-05-23 15:24:01
+Dr. DADDY ARMAND N. Sp.M,Sp. Mata,DR SPECS,"Cengkareng, Jakarta Barat",2025-05-23 15:24:01
+"dr. DESIE RIANTI WARSOODEDI, Sp.M M.Kes",Sp. Mata,Klinik Utama Mata KMM Bandung Barat,"Padalarang, Kabupaten Bandung Barat",2025-05-23 15:24:01
+Dr. DP Trianggadewi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+dr. Davi May Arsa Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:01
+Dechrist Yohanes Eddy Wibowo Sp. M,Sp. Mata,Halodoc Teleconsultation,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+Dr. Dechrist Yohanes Eddy Wibowo Sp. M,Sp. Mata,Apotek K-24,"Cipayung, Jakarta Timur",2025-05-23 15:24:03
+dr. Dechrist Yohanes Eddy Wibowo Sp.M,Sp. Mata,Apotek PharmaPlus,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+Dr. Defayudina Dafilianty Rosataria Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+dr. Dera Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+dr. Desain Rizki T.A. Sp.M,Sp. Mata,Klinik Mata EDC Mojoagung,"Mojoagung, Kabupaten Jombang",2025-05-23 15:24:03
+Dr. Desfri Angraini Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+dr. Desi Mariska SP.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+Dr. Desti Priani Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+Dr. Devina Nur Annisa Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:03
+"dr. Devina Nur Annisa, Sp.M(K)",Sp. Mata,RS MATA JEC @ KEDOYA,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:24:05
+Dr. Devyntya Monica Putri Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+Dr. Diki Apriwan Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+"Dr Sujan Ali FIng Sp.M, MKM MSOphth (Uni. Malaysia)",Sp. Mata,visionmaxeyecare specialist center,"Medan Amplas, Kota Medan",2025-05-23 15:24:05
+"Dr. Brenda Hayatulhaya, SpM",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+Dr. Erry Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+"Dr. Lely Eliana, Sp. M",Sp. Mata,"Praktek Dokter Spesialis Mata Dr. Lely Eliana, Sp. M","Koja, Jakarta Utara",2025-05-23 15:24:05
+"Dr. Linda Wira Putri Sp.M, MM",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+"Dr. Made Susiyanti, SpM",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+"Dr. Mirella Afifudin, SpM, M.Kes",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:05
+"Dr. lwan Soebijantoro, Sp.M(K)",Sp. Mata,RS MATA JEC @ KEDOYA,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:24:07
+dr. ERNA EMLIJAH Sp M,Sp. Mata,RSU Al Islam H M Mawardi,"Krian, Kabupaten Sidoarjo",2025-05-23 15:24:07
+dr. Eko Supriatin Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+"Dr. Elbetty Simanjuntak M.Biomed, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+Dr. Elvira Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+Dr. Elvita Marer Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+"dr Endah Ayu Tri, Sp.PM",Sp. Mata,RSCM KENCANA,"Cempaka Putih, Jakarta Pusat",2025-05-23 15:24:07
+"Dr. Erick Yudistira M.Ked (Oph), Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+Dr. Eunike Amelina Lahagu Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+Dr. Fadhilah Putri Wulandari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:07
+Dr. Fadilah Rezki Said Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+Dr. Fajar Ahmad Prasetya Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+dr. Fajar Ferian Sp.M,Sp. Mata,Optik Surya Makasar,"Ujung Pandang, Kota Makassar",2025-05-23 15:24:09
+"Dr. Farahdila Adline Sp.M, M.Ked.Klin",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+Dr. Fatimah Syakirah Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+Dr. Fera Yunita Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+"dr. Fitra Nalvira, Sp.M",Sp. Mata,Klinik Mata Mayestik,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:24:09
+"dr. Fitra Nalvira, Sp.M",Sp. Mata,Klinik Mata Mayestik,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:24:09
+dr. Fitri Muslim Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+Dr. Fitri Muslim Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:09
+Dr. Fitri Nanda Sp.M,Sp. Mata,Klinik Mata Mayestik,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:24:11
+Dr. Florence M. Manurung Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:11
+"dr. Florence M. Manurung, Sp.M(K)",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:11
+"dr. Franciscus Assisi Timmy Budi Yudhantara, Sp.M",Sp. Mata,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 15:24:11
+Dr. Fransiska Banjarnahor Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:11
+Dr. Gama Agusto Lonanda Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:11
+Dr. H. Meironi Waimir Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:11
+Dr. Hadwer Wicaksono Pandjaitan Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:11
+dr. Hartawan Tjahjadi Putra Sp.M,Sp. Mata,KLINIK UTAMA GRESIK,"Cerme, Kabupaten Gresik",2025-05-23 15:24:11
+dr. Hartawan Tjahjadi Putro Sp M,Sp. Mata,Klinik Mata Utama Gresik,"Gresik, Kabupaten Gresik",2025-05-23 15:24:11
+Dr. Hasriani Sp. M,Sp. Mata,RSCM KIRANA,"Senen, Jakarta Pusat",2025-05-23 15:24:13
+"dr. Haves Ashan, Sp.M",Sp. Mata,RSKM Padang Eye Center,"Padang Barat, Kota Padang",2025-05-23 15:24:13
+dr. Hazar Daniel Sp.M (K),Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:13
+Dr. Hendrian Dyatmiko Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:13
+Dr. Herin Arini Natalia Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:13
+Dr. Hidris Damanik Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:13
+Dr. Hikban Fiqhi K Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:13
+"Dr. Hj. Hamdanah, Sp.M",Sp. Mata,dr. Hj. Hamdanah,"Banjarmasin Barat, Kota Banjarmasin",2025-05-23 15:24:13
+"dr. Hj. Widjajanti Utojo, Sp.M, MM",Sp. Mata,MEDIKA OPTIKAL,"Garut Kota, Kabupaten Garut",2025-05-23 15:24:13
+Dr. Humairah Bachmid Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:13
+Dr. I Gusti Ayu Dian Ratnasari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. I Kadek Agus Setiawan Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. I Ketut Aryawan Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. I Made Dwi Surya Wibawa Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. I Nyoman Cahya Setiabudi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. I.A.P. KARTININGSIH Sp.M,Sp. Mata,Klinik Kimia Farma Diponegoro,"Baiturrahman, Kota Banda Aceh",2025-05-23 15:24:16
+"IRMA FERRY LESMANA, DR SP M",Sp. Mata,Star Optik BG Junction,"Gunung Anyar, Kota Surabaya",2025-05-23 15:24:16
+Dr. Ida Ayu Prama Yanthi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. Idhayu Anggit Sp. M,Sp. Mata,Apotek Roxy Babelan,"Babelan, Kabupaten Bekasi",2025-05-23 15:24:16
+Dr. Indah Jelita Husain Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:16
+Dr. Indah Nurdiana Sp.M,Sp. Mata,Cirebon Eye Center,"Kesambi, Kota Cirebon",2025-05-23 15:24:18
+dr. Indira Silvandari Sp.M,Sp. Mata,RS PMI,"Bogor Selatan, Bogor",2025-05-23 15:24:18
+Dr. Indra Maharddhika Pambudy SpM,Sp. Mata,RS MATA JEC @ KEDOYA,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:24:18
+Dr. Indra Maharddhika Pambudy SpM,Sp. Mata,RS MATA JEC @ KEDOYA,"Kebon Jeruk, Jakarta Barat",2025-05-23 15:24:18
+Dr. Indra Syarief Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:18
+dr. Intan Dwi Rahayu Sp.M,Sp. Mata,Cirebon Eye Center,"Kesambi, Kota Cirebon",2025-05-23 15:24:18
+"dr. Intan Oktaviana Adiyanto, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:18
+Dr. Intan Ramli Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:18
+dr Ira Sudarmadjii Sp. M,Sp. Mata,KMN Eyecare,"Cilandak, Jakarta Selatan",2025-05-23 15:24:18
+"Dr. Irnawati Sp.M, M.Kes",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:18
+dr Iwan Soebijantoro Sp M,Sp. Mata,0,"Bekasi Selatan, Bekasi",2025-05-23 15:24:20
+Dr. KEVIN Sp M,Sp. Mata,KMN Eyecare,"Cilandak, Jakarta Selatan",2025-05-23 15:24:20
+Dr. Kartini Wulan Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:20
+Dr. Kenneth Fong Choong Sian Sp M,Sp. Mata,0,"Bekasi Selatan, Bekasi",2025-05-23 15:24:20
+dr Kevin Sp. M,Sp. Mata,Optik KMN,"Cilandak, Jakarta Selatan",2025-05-23 15:24:20
+Dr. L. P. Suryantini Septia Dewi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:20
+Dr. La Ode Hamzah Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:20
+dr. La Ode Hamzan Rachmat Sp.M,Sp. Mata,KLINIK SPESIALIS MATA AXIS,"Mamajang, Kota Makassar",2025-05-23 15:24:20
+Dr. Lavinia Jane Susan,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:20
+dr. Lely Eliana Sp.M,Sp. Mata,"Praktek Dokter Spesialis Mata Dr. Lely Eliana, Sp. M","Koja, Jakarta Utara",2025-05-23 15:24:20
+"Dr. Lilianty Fauzi Sp.M, M.Kes",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:22
+Dr. Lina Shabrina Q. S. Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:22
+Dr. Lucy Nofrida Siburian Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:22
+"Dr. Lulik Sujarwati, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:22
+Dr. Lydia Margaretha Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:22
+dr M Simarmata Sp. M,Sp. Mata,Optik MISKA,"Cempaka Putih, Jakarta Pusat",2025-05-23 15:24:22
+Dr. M. Haritama R. Taim SpM.,Sp. Mata,Klinik Mata dr.M.Haritama R Taim Sp.M,"Agrabinta, Kabupaten Cianjur",2025-05-23 15:24:22
+dr. M. Ma'sum Effendi Sp M,Sp. Mata,Malang Eye Center,"Klojen, Kota Malang",2025-05-23 15:24:22
+"dr. M. Ma'sum Effendi, Sp.M (K)",Sp. Mata,Malang Eye Center,"Klojen, Kota Malang",2025-05-23 15:24:22
+"Dr. Made Dessy Gangga Ayu Cinthiadewi M.Ked.Klin, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:22
+"Dr. Made Rian Ananta M.Biomed, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:24
+Dr. Magdalena Purnama Soeprajogo Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:24
+Dr. Mardijas Efendi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:24
+dr. Marsha Dechastra Sp.M,Sp. Mata,Malang Eye Center,"Klojen, Kota Malang",2025-05-23 15:24:24
+Dr. Marsita Lita Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:24
+Dr. Masriani,Sp. Mata,RSCM KIRANA,"Senen, Jakarta Pusat",2025-05-23 15:24:24
+"dr. Mayarani, Sp.M",Sp. Mata,RSUD Al Ihsan Provinsi Jawa Barat,"Baleendah, Kabupaten Bandung",2025-05-23 15:24:24
+dr. Medina Rahmah Sp. M,Sp. Mata,KLINIK MATA KAMBANG,"Tanah Tumbuh, Kabupaten Bungo",2025-05-23 15:24:24
+dr. Mega,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:24
+dr. Mega Prayoga Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:24
+Dr. Melsa Situmeang Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:26
+"Dr. Mercia Chrysanti Sp.M, M.Ked.Klin",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:26
+dr. Michael Je Sp.M,Sp. Mata,"dr. Michael Je, Sp.M","Medan Area, Kota Medan",2025-05-23 15:24:26
+Michael Mihailidis,Sp. Mata,Contact Me,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:26
+dr. Monang Simarmata Sp.M,Sp. Mata,MATARAJA EYE CENTER,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:24:26
+"dr. Monang Simarmata, Sp.M",Sp. Mata,MATARAJA EYE CENTER,"Kebayoran Baru, Jakarta Selatan",2025-05-23 15:24:26
+Dr. Muhammad Arfan Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:26
+"Dr. Muhammad Insanul Kamil Rery Sp.M., M.Ked",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:26
+Dr. Muhammad Usman Salim Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:26
+dr. Mutia Arumi Sp.M,Sp. Mata,KLINIK INDERA,"Harjamukti, Kota Cirebon",2025-05-23 15:24:26
+Dr. Muznida Z Ahmad Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+Dr. Nabita Aulia Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+Dr. Nadia Elena Pamudji Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+dr. Nadia Virka Lisdianti Sp. M,Sp. Mata,Klinik Mata Tangerang Selatan,"Ciputat Timur, Tangerang Selatan",2025-05-23 15:24:28
+Nasrudin Sp M,Sp. Mata,RIZKY OPTIK,"Pasar Rebo, Jakarta Timur",2025-05-23 15:24:28
+Dr. Ni Luh Putu Nurindah S Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+Dr. Ni Luh Putu Wistya Eka Mahadewi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+Dr. Ni Made Ayu Wulandari Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+"Dr. Ni Made Inten Lestari M.Ked.Klin, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+Dr. Ni Made Wasiastiti Budi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:28
+"Dr. Ni Putu Ayu Reza Dhiyantari Sp.M, M.Ked.Klin",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+"Dr. Ni Retno Setyoningrum, Sp.M (K), MPd. Ked",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+"Dr. Ni Retno Setyoningrum, Sp.M (K), MPd. Ked",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+"Dr. Ni Retno Setyoningrum, Sp.M (K), MPd. Ked",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+"Dr. Ni Retno Setyoningrum, SpM (K) MPd. Ked",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+"Dr. Ni Retno Setyoningrum, SpM (K) MPd. Ked",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+Dr. Nina Asrini Noor Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+dr. Noro Waspodo SpM,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+"dr. Noro Waspodo, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:30
+dr. Nova Arianti Sp.M,Sp. Mata,"dr. Nova Arianti, Sp.M","Medan Kota, Kota Medan",2025-05-23 15:24:30
+dr Nuriadara Samira Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+Dr. Nurmalia Mabruroh Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+Dr. Nurul Rezqi Amaliah Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+dr. Nurwany Darmaniah Sp.M,Sp. Mata,Klinik Mata Cibubur Medika,"Ciracas, Jakarta Timur",2025-05-23 15:24:32
+Dr. Okta Kurniawan Saputra Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+dr Omedia Metaramia Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+Optometrist,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+"Dr. Pikasa Retsyah Dipayana Sp.M, M.Ked.Klin, MAP",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:32
+Dr. Prima Kartika Sp.M,Sp. Mata,"Dr. Prima Kartika, Sp.M","Bekasi Barat, Bekasi",2025-05-23 15:24:32
+"dr. Primawita Oktarima Amiruddin, SpM(K), MKes",Sp. Mata,Rumah Sakit Mata Cicendo,"Sumurbandung, Kota Bandung",2025-05-23 15:24:32
+Dr. Priscilla Dwianggita Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+Dr. Priscillia Tondolambung Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+dr. Putri Anggia Bunga,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+Dr. Putri Anggia Bunga Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+dr. Putri Juniarti Sp.M,Sp. Mata,Klinik Permana Sari,"Larangan, Tangerang",2025-05-23 15:24:34
+Dr. Putu Anindya Agrasidi Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+Dr. Putu Daivi Prakriti Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+Dr. Rafrina Amnovebrianthy Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+"dr. Rahayu Widhyasti, Sp.M (MEC)",Sp. Mata,Mayapada Eye Centre,"Cilandak, Jakarta Selatan",2025-05-23 15:24:34
+dr. Rhonald phoaniary SpM,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:34
+dr Ria Sylvia H Sp.M,Sp. Mata,Praktek Dokter Ria Sylvia Sp. M,"Rungkut, Kota Surabaya",2025-05-23 15:24:36
+dr. Riko Yuniandri Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:36
+dr. Riko Yuniandri Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:36
+dr. Rima Sp M,Sp. Mata,Star Optik BG Junction,"Gunung Anyar, Kota Surabaya",2025-05-23 15:24:36
+dr. Rini Kusumawar Dhany SpM,Sp. Mata,Praktek dokter mandiri,"Cileunyi, Kabupaten Bandung",2025-05-23 15:24:36
+dr. Rini Kusumawar Dhany SpM,Sp. Mata,Optik Nusa Mojokerto,"Prajurit Kulon, Kota Mojokerto",2025-05-23 15:24:36
+"Dr. Rini Nurrakhmah M.Ked(Oph), Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:36
+"Dr. Rino Agustian Praja Sp.M, M.Kes",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:36
+Dr. Riri Handayani Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:36
+Dr. Riskha Pangestika Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:36
+dr. Rodiah Rahmawaty Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:39
+Dr. Roza Irawati Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:39
+dr. SIHABUDIN Sp.M.,Sp. Mata,Praktek dokter.,"Bukit Raya, Kota Pekanbaru",2025-05-23 15:24:39
+"dr. SOEHARNILA, SpM",Sp. Mata,0,"Bekasi Selatan, Bekasi",2025-05-23 15:24:39
+dr. SUTAMA B. Sp.M,Sp. Mata,Praktek Dokter Spesialis -,"Sawah Besar, Jakarta Pusat",2025-05-23 15:24:39
+Dr. Salmah Alaydrus Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:39
+dr. Samuel Lukito Sp.M,Sp. Mata,Klinik Kimia Farma Semarang Sutomo,"Semarang Selatan, Kota Semarang",2025-05-23 15:24:39
+Dr. Samuel Lukito Sp.M,Sp. Mata,"dr. Samuel Lukito, SpM","Cempaka Putih, Jakarta Pusat",2025-05-23 15:24:39
+Dr. Sandri Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:39
+dr. Santi Anugrahsari Sp.M,Sp. Mata,RSUD Koja,"Koja, Jakarta Utara",2025-05-23 15:24:39
+Dr. Saphira Evani Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+Dr. Sarah Eisya Putri Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+dr. Sengdy Chandra Chauhani Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+"dr. Sheilla Selvina, SpM",Sp. Mata,Rumah Sakit Mata Cicendo,"Sumurbandung, Kota Bandung",2025-05-23 15:24:41
+Dr. Silvia Dwi Asti Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+Dr. Soeharnila SpM,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+"Dr. Sugiyarso Atmowiharjo, Sp.M",Sp. Mata,"dr. Sugiyarso Atmowiharjo, Sp.M","Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+"Dr. Sujan Ali Fing, Sp. MKM. MSOphth",Sp. Mata,visionmaxeyecare specialist center,"Medan Amplas, Kota Medan",2025-05-23 15:24:41
+Dr. Sutrisno Sp.M,Sp. Mata,"dr. Sutrisno, Sp.M","Ciamis, Kabupaten Ciamis",2025-05-23 15:24:41
+Dr. Syena Damara Riza Gustam Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:41
+"dr. Syenny Budi Handoko, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:43
+Dr. Talita Zata Isma Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:43
+dr. Tatang Tamzil SpM.,Sp. Mata,Praktek dokter.,"Bukit Raya, Kota Pekanbaru",2025-05-23 15:24:43
+"dr. Teddy Kristiyan, Sp.M",Sp. Mata,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 15:24:43
+dr. Teguh Susilo Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:43
+"dr. Teguh Susilo, Sp.M",Sp. Mata,Vision Eye Clinic,"Mulyorejo, Kota Surabaya",2025-05-23 15:24:43
+"dr. Teguh Susilo, Sp.M",Sp. Mata,Vision Eye Clinic,"Mulyorejo, Kota Surabaya",2025-05-23 15:24:43
+Dr. Tesha Ratnafury Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:43
+dr. Testiana Galuh Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:43
+dr. Thedius Watu,Sp. Mata,KLINIK FLORES MEDIKA,"Alok, Kabupaten Sikka",2025-05-23 15:24:43
+"dr. Thedius Watu, Sp.M",Sp. Mata,KLINIK FLORES MEDIKA,"Alok, Kabupaten Sikka",2025-05-23 15:24:45
+dr. Togar Erkasan Sitorus Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:45
+Dr. Tommy Tri Atmaja Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:45
+dr. Viora Rianda Sp. M,Sp. Mata,Cirebon Eye Center,"Kesambi, Kota Cirebon",2025-05-23 15:24:45
+Dr. Wahju Krisnoto Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:45
+"Dr. Widya Prafitri Rasmiyati Sp.M, M.Sc",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:45
+Dr. Willdania Yolanda Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:45
+dr. YULINDA INDARNILA SOEMIATNO Sp. M,Sp. Mata,Optik KMN,"Cilandak, Jakarta Selatan",2025-05-23 15:24:45
+Dr. Yan Tangkilisan Sp.M,Sp. Mata,Apotek Setia,"Wenang, Kota Manado",2025-05-23 15:24:45
+"dr. Yogyarso Budi Wiyanto, Sp.M",Sp. Mata,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 15:24:45
+Dr. Yoyok Nike Subagio Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:47
+dr. Yuda Saputra Sp.M,Sp. Mata,Rumah Sakit Mata Lampung Eye Center (LEC),"Way Halim, Kota Bandar Lampung",2025-05-23 15:24:47
+dr. Yulika Harniza Sp.M,Sp. Mata,Vio Optical Clinic Bekasi,"Medan Satria, Bekasi",2025-05-23 15:24:47
+dr. Yulika Harniza Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:47
+dr. Yulika Sp. M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:47
+"dr. Yunita, Sp.M(K) M.Kes",Sp. Mata,HLDR0142,"Klari, Kabupaten Karawang",2025-05-23 15:24:47
+Dr. Zahratul Riadho Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:47
+dr. Zahratul Riadho Sp.M,Sp. Mata,Halodoc Teleconsultation,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:47
+"dr. Zaltonys Tolombot, Sp.M",Sp. Mata,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 15:24:47
+dr Dianita Veulina Ginting Sp.M,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:47
+dr Sri Daryati SPM,Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:49
+"dr. Dian D. Purnomo,Sp.M",Sp. Mata,Apotek KPRI Waluyo Jati,"Kraksaan, Kabupaten Probolinggo",2025-05-23 15:24:49
+"dr. Diansyab Gastini Fitriani, Sp.M",Sp. Mata,0,"Bekasi Selatan, Bekasi",2025-05-23 15:24:49
+"dr. Eko Supriatin, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:49
+"dr. Fitri Wisnueardhani, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:49
+"dr. Hanifah Rahmani, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:49
+dr. Kholid Sp.M,Sp. Mata,Poli Spesialis Mata dr.kholid Sp.m,"Tuban, Kabupaten Tuban",2025-05-23 15:24:49
+"dr. Kirana Sampurna,Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:49
+"dr. Komang Putra Tridiyoga,Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:49
+"dr. Made Delta Dwihartami,Sp.M",Sp. Mata,RS PANTI RAHAYU,"Purwodadi, Kabupaten Grobogan",2025-05-23 15:24:49
+"Dr. dr. Nova Arianti, Sp.M",Sp. Mata,"dr. Nova Arianti, Sp.M","Medan Kota, Kota Medan",2025-05-23 15:24:51
+"dr. Puspita Kusuma Dewi, Sp.M",Sp. Mata,Apotek Anugerah Bahagia,"Cempaka Putih, Jakarta Pusat",2025-05-23 15:24:51
+"dr. R. Muhamad Ramdani, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:51
+"dr. Ramon Khrisna Hamball, Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:51
+"dr. Sabata, Sp.M (K)",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:51
+"dr. Sofia Permatasari Syaefullah,Sp.M",Sp. Mata,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 15:24:51
+"dr. Yulia Primitasari, Sp. M(K)",Sp. Mata,KLINIK UTAMA MATA SEC SURABAYA EYE CLINIC,"Tegalsari, Kota Surabaya",2025-05-23 15:24:51

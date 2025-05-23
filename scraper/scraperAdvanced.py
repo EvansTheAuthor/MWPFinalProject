@@ -73,7 +73,7 @@ def extract_data_from_html(html):
     return doctors
 
 def main():
-    url = "https://www.halodoc.com/cari-dokter/spesialis/dokter-umum"
+    url = "https://www.halodoc.com/cari-dokter/spesialis/midwife"
     driver = setup_driver()
     driver.get(url)
     time.sleep(2)
@@ -95,7 +95,7 @@ def main():
     finally:
         driver.quit()
     
-        with open("dokterUmum.csv", "w", newline="", encoding="utf-8") as f:
+        with open("ibuBidan.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["name", "speciality", "hospital", "city", "timestamp"])
             writer.writeheader()
             writer.writerows(all_doctors)

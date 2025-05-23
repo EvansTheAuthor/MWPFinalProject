@@ -16,12 +16,12 @@
             <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Jiwa</button>
             <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Penyakit Dalam</button>
             <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Bedah Umum</button>
-            <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Mata</button>
-            <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Bedah Ortopedi</button>
-            <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Kardiovaskular</button>
-            <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Anestesi</button>
+            <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Gizi Klinik</button>
+            <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Orthopaedi dan Traumatologi</button>
+            <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. PD Kardiovaskular</button>
+            <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Sp. Anestesiologi</button>
             <button class="doc-category-button-1 h-40 w-40" @click="toDoctorList">Sp. Patologi Klinik</button>
-            <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Dokter Kecantikan</button>
+            <button class="doc-category-button-2 h-40 w-40" @click="toDoctorList">Dokter Hewan</button>
         </div>
     </main>
 </template>
