@@ -20,9 +20,20 @@
 import { useRouter } from 'vue-router';
 
 const router = useRouter()
+const login = async () => {
+  try{
+    const response = await axios.post('http//localhost:8000/api/login', {
+      email: emailInput,
+      password: passwordInput,
+    });
 
-function loggedIn() {
-  router.push('/Main')
+    localStorage.setItem('token', response.data.token);
+    alert('Login berhasil!');
+    router.push('/Main');
+  }catch(error){
+    console.error(error);
+    alert('Gagal login!');
+  }
 }
 </script>
 
