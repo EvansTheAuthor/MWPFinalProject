@@ -1,10 +1,12 @@
 <template>
   <form class="login-content" @submit.prevent="login">
     <h1>Selamat Datang</h1>
+    
     <div>
         <h4>Nama Pengguna</h4>
-        <input class="username-input" v-model="form.name" type="text" placeholder="Buat nama pengguna Anda" maxlength="30" size="30">
+        <input class="username-input" v-model="form.name" type="text" placeholder="Buat nama pengguna Anda" maxlength="30" size="30" autocomplete="off">
     </div>
+    
     <div>
         <h4>Kata Sandi</h4>
         <div class="password-wrapper">
@@ -12,12 +14,16 @@
           <span @click="togglePassword" class="toggle-password">{{ showPassword ? '🙈' : '👁️'}}</span>
         </div>
     </div>
-    <button class="login-login" type="submit">Masuk</button>
+
+    <button class="login-login" type="submit" :disabled="loading">Masuk</button>
+    
     <p>
       <router-link to="/SignUp">Belum punya akun? Buat dulu</router-link>
     </p>
 
-    <div v-if="notif.message" class="notif" :class="notif.type">{{ notif.message }}</div>
+    <transition name="fade">
+      <div v-if="notif.message" class="toast" :class="notif.type">{{ notif.message }}</div>
+    </transition>
   </form>
 </template>
 
@@ -46,14 +52,30 @@ export default {
     async login() {
       this.errors = { name: false, password: false };
 
-        if (!this.form.name || !this.form.password) {
-          if (!this.form.name) this.errors.name = true;
-          if (!this.form.password) this.errors.password = true;
-          this.showNotif('Semua kolom harus diisi!', 'error');
+        if (!this.form.name.trim()) {
+          this.showNotif("Nama pengguna tidak boleh kosong!");
+          return;
+        }
+
+        if(!/^[a-zA-Z0-9_]+$/.test(this.form.name)) {
+          this.errors.name = true;
+          this.showNotif('Nama pengguna hanya boleh mengandung huruf, angka, dan garis bawah!', 'error');
+          return;
+        }
+
+        if (!this.form.password.trim()) {
+          this.showNotif("Kata sandi tidak boleh kosong!");
+          return;
+        }
+
+        if (this.form.password.length < 8) {
+          this.errors.password = true;
+          this.showNotif('Kata sandi harus minimal 8 karakter!', 'error');
           return;
         }
 
       try {
+        this.loading = true;
         const res = await axios.post('http://localhost:8000/api/login', this.form);
         if (res.data.success) {
           this.showNotif('Login Berhasil!', 'success');
@@ -64,7 +86,9 @@ export default {
         }
       } catch (error) {
         console.error('Error during login:', error);
-        alert('Login Gagal! Silakan coba lagi.');
+        this.showNotif('Login Gagal! Silakan coba lagi.');
+      } finally {
+        this.loading = false;
       }
     },
     togglePassword() {
@@ -76,6 +100,14 @@ export default {
       setTimeout(() => {
         this.notif.message = '';
       }, 3000);
+    }
+  },
+  watch: {
+    'form.name': function(newValue) {
+      if (newValue) this.errors.name = false;
+    },
+    'form.password': function(newValue) {
+      if (newValue.length >= 8) this.errors.password = false;
     }
   }
 }
@@ -123,21 +155,31 @@ export default {
   cursor: pointer;
 }
 
-.notif{
-  width: 100%;
-  text-align: center;
-  padding: 10px;
-  margin-top: 10px;
-  border-radius: 5px;
+.toast{
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+  padding: 15px 25px;
+  border-radius: 8px;
   font-weight: bold;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.5s ease-in-out;
 }
 
-.notif.success {
+.toast.success {
   background-color: #d4edda;
   color: #155724;
 }
-.notif.error {
+.toast.error {
   background-color: #f8d7da;
   color: #721c24;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+.fade-enter-from, .fade-leave-to {
+  opacity: 0;
 }
 </style>
