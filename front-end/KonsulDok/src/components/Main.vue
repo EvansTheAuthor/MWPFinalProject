@@ -4,7 +4,8 @@
     <div class="button-main flex justify-center">
         <button class="profile-main m-5 h-40 w-40" @click="toProfile">Profil Akun</button>
         <button class="order-main m-5 h-40 w-40" @click="toDocCategory">Pesan Layanan</button>
-        <button class="logout-main m-5 h-40 w-40" @click="toLogin">Keluar</button>
+        <button class="list-main m5 h-40 w-40">Daftar Janji Terjadwal</button>
+        <button class="logout-main m-5 h-40 w-40" @click="logout">Keluar</button>
     </div>
     <a href="/PrivacyPolicy">Kebijakan Layanan</a>
   </form>
@@ -12,6 +13,7 @@
 
 <script setup>
 import { useRouter } from 'vue-router'
+import User from '@/services/User'
 
 const router = useRouter()
 
@@ -27,6 +29,12 @@ function toDocCategory() {
 function toLogin() {
     router.push('/Login')
 }
+
+async function logout() {
+    const result = await User.logout();
+    router.push('/Login');
+    alert(result.message);
+}
 </script>
 
 <style>
@@ -34,12 +42,13 @@ function toLogin() {
     color: #800000;
 }
 
-.profile-main, .logout-main{
+.profile-main, .list-main{
     border: 3px #800000 solid;
     color: #800000;
 }
 
-.order-main{
+.order-main, .logout-main
+{
     background-color: #800000;
     color: #fff;
 }

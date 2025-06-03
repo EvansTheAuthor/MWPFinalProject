@@ -48,7 +48,8 @@ const routes = [
     {
         name: 'DoctorList',
         component: DoctorList,
-        path: '/DoctorList'
+        path: '/DoctorList/:slug',
+        props: true
     },
     {
         name: 'PrivacyPolicy',

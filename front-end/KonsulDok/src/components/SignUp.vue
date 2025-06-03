@@ -1,21 +1,29 @@
 <template>
-  <form class="register-content" @submit.prevent="register">
+  <form class="register-content" @submit.prevent="registerUser">
     <h1>Yuk Buat Akun Di Sini</h1>
 
     <div>
         <h4>Nama Pengguna</h4>
-        <input v-model="form.name" class="username-input" type="text" placeholder="Buat nama pengguna Anda" maxlength="30" size="30" autocomplete="off" />
+        <input :class="{'invalid': errors.name}" v-model="form.name" class="username-input" type="text" placeholder="Buat nama pengguna Anda" maxlength="30" size="30" autocomplete="off" />
     </div>
     
     <div>
         <h4>Surel</h4>
-        <input v-model="form.email" class="email-input" type="email" placeholder="Tulis surel Anda" maxlength="30" size="30" autocomplete="off" />
+        <input :class="{'invalid': errors.email}" v-model="form.email" class="email-input" type="email" placeholder="Tulis surel Anda" maxlength="30" size="30" autocomplete="off" />
     </div>
 
     <div>
         <h4>Kata Sandi</h4>
         <div class="password-input">
           <input :class="{'invalid': errors.password}" v-model="form.password" :type="showPassword ? 'text' : 'password'" placeholder="Buat kata sandi Anda" maxlength="25" autocomplete="off"/>
+          <span @click="togglePassword" class="toggle-password"> {{ showPassword ? '🙈' : '👁️'}} </span>
+        </div>
+    </div>
+
+    <div>
+        <h4>Konfirmasi Kata Sandi</h4>
+        <div class="password-input">
+          <input :class="{'invalid': errors.conPassword}" v-model="form.conPassword" :type="showPassword ? 'text' : 'password'" placeholder="Buat kata sandi Anda" maxlength="25" autocomplete="off"/>
           <span @click="togglePassword" class="toggle-password"> {{ showPassword ? '🙈' : '👁️'}} </span>
         </div>
     </div>
@@ -36,7 +44,7 @@
 </template>
 
 <script>
-import axios from 'axios';
+import User from '@/services/User'
 
 export default {
   data(){
@@ -44,10 +52,14 @@ export default {
       form: {
         name: '',
         email: '',
-        password: ''
+        password: '',
+        conPassword: ''
       },
       errors: {
-        password: false
+        name: false,
+        email: false,
+        password: false,
+        conPassword: false
       },
       showPassword: false,
       notif: {
@@ -68,58 +80,50 @@ export default {
         this.notif.message = '';
       }, 3000);
     },
-    async register() {
-      if (!this.form.name.trim()) {
-          this.showNotif("Nama pengguna tidak boleh kosong!");
-          return;
-        }
+    async registerUser() {
+      this.errors = { name: false, password: false, email: false, conPassword: false };
+      this.loading = true;
 
-        if (!/^[a-zA-Z0-9_]+$/.test(this.form.name)) {
-          this.showNotif("Nama pengguna hanya boleh mengandung huruf dan angka!");
-          return;
-        }
-
-        if (!this.form.email.trim()) {
-          this.showNotif("Surel tidak boleh kosong!");
-          return;
-        }
-
-        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.form.email)) {
-          this.showNotif("Format surel tidak valid!");
-          return;
-        }
-
-        if (!this.form.password.trim()) {
-          this.showNotif("Kata sandi tidak boleh kosong!");
-          return;
-        }
-
-        if (this.form.password.length < 8) {
-          this.errors.password = true;
-          this.showNotif("Kata sandi harus minimal 8 karakter!");
-          return;
-        }
+      if (!this.form.email.includes('@')) {
+        this.errors.email = true;
+        this.showNotif("Email tidak valid", "error");
+        return;
+      }
+      if (this.form.password.length < 8) {
+        this.errors.password = true;
+        this.showNotif("Password minimal 8 karakter", "error");
+        return;
+      }
+      if (this.form.password !== this.form.conPassword) {
+        this.errors.conPassword = true;
+        this.showNotif("Konfirmasi sandi tidak cocok", "error");
+        return;
+      }
       
       try {
-        this.loading = true;
-        const res = await axios.post('http://localhost:8000/api/register', this.form)
-        this.showNotif('Pendaftaran Berhasil!', 'success');
-
-        setTimeout(() => {
-          this.$router.push('/Login');
-        }, 1000);
+        const result = await User.register(this.form);
+      
+        if(!result.success){
+          if(result.errorField){
+            this.errors[result.errorField] = true;
+          }
+          this.showNotif(result.message, 'error');
+        } else {
+          this.showNotif(result.message, 'success');
+          this.$router.push('/Main');
+        }
       } catch (error) {
-        console.error('Error during registration:', error);
-        this.showNotif('Pendaftaran Gagal! Silakan coba lagi.');
-      }finally {
+        console.error(error);
+        alert("Login gagal! Periksa surel dan sandi Anda.");
+      }finally{
         this.loading = false;
       }
-    }
   },
-  watch: {
-    'form.password': function(newValue) {
-      if (!newValue ||  newValue.length >= 8) {
-        this.errors.password = false;
+    watch: {
+      'form.password': function(newValue) {
+        if (!newValue ||  newValue.length >= 8) {
+          this.errors.password = false;
+        }
       }
     }
   }

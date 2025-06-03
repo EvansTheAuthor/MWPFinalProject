@@ -1,5 +1,5 @@
 <template>
-  <form class="login-content" @submit.prevent="login">
+  <form class="login-content" @submit.prevent="loginUser">
     <h1>Selamat Datang</h1>
     
     <div>
@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import axios from 'axios';
+import User from '@/services/User';
 
 export default {
   data() {
@@ -49,45 +49,26 @@ export default {
     }
   },
   methods: {
-    async login() {
+    async loginUser() {
       this.errors = { name: false, password: false };
-
-        if (!this.form.name.trim()) {
-          this.showNotif("Nama pengguna tidak boleh kosong!");
-          return;
-        }
-
-        if(!/^[a-zA-Z0-9_]+$/.test(this.form.name)) {
-          this.errors.name = true;
-          this.showNotif('Nama pengguna hanya boleh mengandung huruf, angka, dan garis bawah!', 'error');
-          return;
-        }
-
-        if (!this.form.password.trim()) {
-          this.showNotif("Kata sandi tidak boleh kosong!");
-          return;
-        }
-
-        if (this.form.password.length < 8) {
-          this.errors.password = true;
-          this.showNotif('Kata sandi harus minimal 8 karakter!', 'error');
-          return;
-        }
+      this.loading = true;
 
       try {
-        this.loading = true;
-        const res = await axios.post('http://localhost:8000/api/login', this.form);
-        if (res.data.success) {
-          this.showNotif('Login Berhasil!', 'success');
-          localStorage.setItem('token', res.data.token);
-          this.$router.push('/Dashboard');
+        const result = await User.login(this.form);
+
+        if(!result.success){
+          if(result.errorField){
+            this.errors[result.errorField] = true;
+          }
+          this.showNotif(result.message, 'error');
         } else {
-          this.showNotif('Login Gagal! Periksa nama pengguna dan kata sandi Anda.', 'error');
+          this.showNotif(result.message, 'success');
+          this.$router.push('/Main');
         }
       } catch (error) {
-        console.error('Error during login:', error);
-        this.showNotif('Login Gagal! Silakan coba lagi.');
-      } finally {
+        console.error(error);
+        alert("Login gagal! Periksa surel dan sandi Anda.");
+      }finally{
         this.loading = false;
       }
     },

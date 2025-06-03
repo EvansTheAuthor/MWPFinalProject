@@ -21,10 +21,23 @@ class AuthController extends Controller
             'email' => $request->email,
             'password' => Hash::make($request->password),
         ]);
+
+        $token = $user->createToken('auth_token')->plainTextToken;
         
         Log::info('User registered: ' . $user->email);
 
-        return response()->json(['message' => 'Registration successful'], 201);
+        return response()
+            ->json(['success' =>  true,'message' => 'Registration successful'], 201)
+            ->cookie(
+                'auth_token',
+                $token,
+                60*24,
+                null,
+                null,
+                true,
+                true,
+                false,
+                'Strict');
     }
 
     public function login(Request $request){
@@ -36,14 +49,27 @@ class AuthController extends Controller
         $user = User::where('email', $request->email)->first();
     
         if(! $user || ! Hash::check($request->password, $user->password)){
-            return response()->json(['message' => 'Invalid credentials'], 401);
+            return response()
+                ->json(['message' => 'Invalid credentials'], 401)
+                ->cookie('auth_token', '', -1); // Clear the cookie if login fails
         }
 
         $token = $user->createToken('auth_token')->plainTextToken;
 
         Log::info('User logged in: ' . $user->email);
 
-        return response()->json(['token' => $token, 'user' => $user]);
+        return response()
+            ->json(['token' => $token, 'user' => $user])
+            ->cookie(
+                'auth_token',
+                $token,
+                60*24,
+                null,
+                null,
+                true,
+                true,
+                false,
+                'Strict');
     }
 
     public function logout(Request $request){
@@ -51,7 +77,9 @@ class AuthController extends Controller
 
         Log::info('User logged out: ' . $request->user()->email);
 
-        return response()->json(['message' => 'Logged Out']);
+        return response()
+            ->json(['message' => 'Logged Out'])
+            ->cookie('auth_token', '', -1); // Clear the cookie on logout
     }
 }
 
