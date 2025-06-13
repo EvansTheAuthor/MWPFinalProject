@@ -20,6 +20,10 @@ class User extends Authenticatable
         return $this->hasMany(UserLog::class);
     }
 
+    public function appointments(){
+        return $this->hasMany(Appointment::class);
+    }
+
     /**
      * The attributes that are mass assignable.
      *

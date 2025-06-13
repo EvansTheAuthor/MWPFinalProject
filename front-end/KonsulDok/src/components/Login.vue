@@ -4,14 +4,30 @@
     
     <div>
         <h4>Nama Pengguna</h4>
-        <input class="username-input" v-model="form.name" type="text" placeholder="Buat nama pengguna Anda" maxlength="30" size="30" autocomplete="off">
+        <input
+          class="username-input"
+          v-model="form.name"
+          type="text"
+          placeholder="Nama Pengguna"
+          required
+          autocomplete="off">
     </div>
     
     <div>
         <h4>Kata Sandi</h4>
         <div class="password-wrapper">
-          <input class="password-input" :class="{'invalid': errors.password}" v-model="form.password" :type="showPassword ? 'text' : 'password'" placeholder="Buat kata sandi Anda" maxlength="25">
-          <span @click="togglePassword" class="toggle-password">{{ showPassword ? '🙈' : '👁️'}}</span>
+          <input
+            class="password-input"
+            :class="{'invalid': errors.password}"
+            v-model="form.password"
+            :type="showPassword ? 'text' : 'password'"
+            placeholder="Kata Sandi"
+            required>
+          <span
+            @click="togglePassword"
+            class="toggle-password">
+            {{ showPassword ? '🙈' : '👁️'}}
+          </span>
         </div>
     </div>
 
@@ -98,54 +114,81 @@ export default {
 .login-content{
   display: flex;
   flex-direction: column;
-  gap: 5rem;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
 }
 
 .username-input, .password-input{
-  width: 500px;
-  height: 50px;
-  border: 1px black solid;
-  border-radius: 20px;
+  width: 20rem;
+  height: 3rem;
+  border: 1.5px #800000 solid;
+  border-radius: 1rem;
   text-align: center;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  outline: none;
+}
+
+.username-input:focus, .password-input:focus{
+  border-color: #a83232;
+  background: #fff8f8;
 }
 
 .password-wrapper{
   position: relative;
+  width: 20rem;
 }
 
 .toggle-password{
   position: absolute;
-  right: 20px;
-  top: 12px;
+  right: 1rem;
+  top: 0.75rem;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .invalid {
-  border: 2px solid red;
+  border: 2px solid #b91c1c;
+  background: #fff0f0;
 }
 
 .login-login{
-  width: 300px;
-  margin: 0 auto;
+  width: 18rem;
+  margin: 1.5rem auto 0 auto;
   background: #800000;
   color: white;
   border: none;
-  padding: 10px;
-  border-radius: 10px;
+  padding: 0.75em 2em;
+  border-radius: 1rem;
   cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+
+.login-login:hover{
+  background: #a83232;
+}
+
+.login-login:disabled {
+  background: #ccc;
+  color: #888;
+  cursor: not-allowed;
 }
 
 .toast{
   position: fixed;
-  top: 20px;
-  right: 20px;
+  top: 1.5rem;
+  right: 1.5rem;
   z-index: 9999;
-  padding: 15px 25px;
-  border-radius: 8px;
+  padding: 1em 2em;
+  border-radius: 0.75rem;
   font-weight: bold;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
   transition: all 0.5s ease-in-out;
+  font-size: 1rem;
 }
 
 .toast.success {

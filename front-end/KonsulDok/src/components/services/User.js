@@ -110,6 +110,19 @@ class User {
       return { success: false, message: "Logout gagal! Silakan coba lagi nanti.", errorField: "null" };
     }
   }
+
+  async getProfile() {
+    try {
+      const res = await axios.get('/profile');
+      if (res.data.profile) {
+        return { success: true, profile: res.data.profile, user: res.data.user };
+      } else {
+        return { success: false, message: res.data.message || "Gagal mengambil data profil." };
+      }
+    } catch (error) {
+      return { success: false, message: "Gagal mengambil data profil." };
+    }
+  }
 }
 
 export default new User()

@@ -51,23 +51,52 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
-<style>
+<style scoped>
+.privacy-policy{
+    padding: 2rem;
+    max-width: 48rem;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 1.5rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+
 .privacy-title{
     color: #800000;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.privacy-content{
+  border: 2px solid #800000;
+  padding: 2rem;
+  border-radius: 1rem;
+  font-size: 1.1rem;
+  color: #222;
+  background: #faf9f9;
+}
+
+.privacy-date-rev{
+  font-size: 1rem;
+  text-align: center;
+  color: #888;
+  margin-bottom: 1rem;
 }
 
 .privacy-content-list{
   font-weight: bold;
+  margin-top: 1.5rem;
 }
 
 .list-privacy{
-  margin-left: calc(var(--spacing)*4);
+  margin-left: 2rem;
   list-style-type: disc;
   list-style-position: inside;
+  margin-bottom: 1rem;
 }
 </style>

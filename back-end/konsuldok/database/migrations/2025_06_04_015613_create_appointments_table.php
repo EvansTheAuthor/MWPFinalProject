@@ -11,14 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('user_profiles', function (Blueprint $table) {
+        Schema::create('appointments', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id')->constrained()->onDelete('cascade');
-            $table->string('photo')->nullable();
-            $table->string('domicile')->nullable();
-            $table->string('phone')->nullable();
-            $table->string('birthdate')->nullable();
-            $table->string('gender')->nullable();
+            $table->foreignId('doctor_id')->constrained()->onDelete('cascade');
+            $table->dateTime('appointment_date');
+            $table->string('status')->default('pending'); // pending, confirmed, cancelled
+            $table->text('notes')->nullable();
             $table->timestamps();
         });
     }
@@ -28,6 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('user_profiles');
+        Schema::dropIfExists('appointments');
     }
 };

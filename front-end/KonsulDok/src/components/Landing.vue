@@ -20,14 +20,28 @@ function goToLogin() {
 .landing-component{
   display: flex;
   flex-direction: column;
-  gap: 5rem;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
 }
 
 .landing-login{
-  width: 300px;
+  width: 18rem;
   margin-left: auto;
   margin-right: auto;
   background: #800000;
   color: white;
+  padding: 0.75em 2em;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+
+.landing-login:hover{
+  background: #a83232;
 }
 </style>

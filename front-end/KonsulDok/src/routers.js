@@ -4,6 +4,7 @@ import Login from './components/Login.vue'
 import SignUp from './components/SignUp.vue'
 import Main from './components/Main.vue'
 import Profile from './components/Profile.vue'
+import AppointDoctor from './components/AppointDoctor.vue'
 import DoctorList from './components/DoctorList.vue'
 import DocCategory from './components/DocCategory.vue'
 import PrivacyPolicy from './components/PrivacyPolicy.vue'
@@ -40,7 +41,13 @@ const routes = [
         name: 'Profile',
         component: Profile,
         path: '/Profile'
-    },{
+    },
+    {
+        name: 'AppointDoctor',
+        component: AppointDoctor,
+        path: '/AppointDoctor/:doctorId'
+    },
+    {
         name: 'DocCategory',
         component: DocCategory,
         path: '/DocCategory'

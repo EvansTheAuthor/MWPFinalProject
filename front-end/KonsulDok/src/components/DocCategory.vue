@@ -40,26 +40,44 @@ function toDoctorList(slug) {
 .doc-list-title{
     color: #800000;
     text-align: center;
-    margin-top: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.doc-category-container > div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.doc-category-button-1,
+.doc-category-button-2{
+    margin: 2rem;
+    border: 0.2rem solid #800000;
+    border-radius: 0.75rem;
+    padding: 1em 2em;
+    font-size: 1.1rem;
+    font-weight: bold;
+    min-width: 8rem;
+    min-height: 8rem;
+    transition: background 0.2s, color 0.2s;
 }
 
 .doc-category-button-1 {
-    margin: 5rem;
-    border: 3px solid #800000;
-    border-radius: 10px;
-    padding: 10px 20px;
     background-color: white;
     color: #800000;
-    font-weight: bold;
 }
 
 .doc-category-button-2 {
-    margin: 5rem;
-    border: 3px solid #800000;
-    border-radius: 10px;
-    padding: 10px 20px;
     background-color: #800000;
     color: white;
-    font-weight: bold;
+}
+
+.doc-category-button-1:hover,
+.doc-category-button-2:hover{
+    background: #a83232;
+    color: white;
+    border-color: #a83232;
 }
 </style>

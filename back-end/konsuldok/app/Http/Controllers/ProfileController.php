@@ -33,7 +33,7 @@ class ProfileController extends Controller
             'email' => $request->email,
         ]);
 
-        $profileData = $request->only(['photo', 'phone', 'birthdate', 'gender', 'diseases', 'allergies']);
+        $profileData = $request->only(['photo', 'phone', 'birthdate', 'gender']);
         $user->profile()->updateOrCreate(
             ['user_id' => $user->id],
             $profileData

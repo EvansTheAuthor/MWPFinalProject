@@ -5,14 +5,14 @@
       <div
       v-for="doctor in doctors"
       :key="doctor.id"
-      class="doc-card w-64 p-4 bg-white rounded-2x1 shadow-md flex flex-col items-center text-center hover:shadow-lg transition-shadow">
+      class="doc-card w-64 p-4 bg-white rounded-x1 shadow-md flex flex-col items-center text-center hover:shadow-lg transition-shadow">
         <img
         :src="doctor.image"
         alt="Doctor Image"
         class="w-24 h-24 object-cover rounded-full mb-2"
         @error="handleImageError" />
         <h2 class="text-lg font-semibold">{{ doctor.name }}</h2>
-        <p class="text-sm text-gray-600">{{ doctor.specialty }}</p>
+        <p class="text-sm text-gray-600">{{ doctor.speciality }}</p>
         <p class="text-sm text-gray-600">{{ doctor.hospital }}</p>
         <p class="text-sm text-gray-600">{{ doctor.city }}</p>
         <button
@@ -28,9 +28,9 @@
     </div>
 
     <div class="flex justify-center gap-4 mt-6">
-      <button @click="prevPage" :disabled="page === 1">Sebelumnya</button>
-      <span>Halaman {{ page }}</span>
-      <button @click="nextPage" :disabled="!hasMore">Berikutnya</button>
+      <button @click="prevPage" :disabled="page === 1" class="nav-btn">Sebelumnya</button>
+      <span class="self-center font-semibold">Halaman {{ page }}</span>
+      <button @click="nextPage" :disabled="!hasMore" class="nav-btn">Berikutnya</button>
     </div>
 
     <div v-if="loading" class="text-center mt-4 text-blue-600 font-medium">
@@ -41,23 +41,24 @@
 
 <script setup>
 import { ref, onMounted, watch } from 'vue';
-import { useRoute } from 'vue-router';
+import { useRoute, useRouter } from 'vue-router';
 import { getDoctorsByCategory } from '@/services/Doctor.js'
 
 const route = useRoute()
+const router = useRouter()
 const doctors = ref([])
 const page = ref(1)
 const hasMore = ref(true)
 const loading = ref(false)
 const slug = ref(route.params.slug)
 
-function fetchDoctors(){
+async function fetchDoctors(){
     loading.value = true
     const res = await getDoctorsByCategory(slug.value, page.value)
     if(page.value === 1){
-        doctors.value = res.data
+        doctors.value = res.doctors || []
     } else {
-        doctors.value = [...doctors.value, ...res.doctors]
+        doctors.value = [...doctors.value, ...(res.doctors || [])]
     }
     hasMore.value = res.hasMore
     loading.value = false
@@ -78,6 +79,7 @@ function prevPage(){
 }
 
 function bookAppointment(id){
+    router.push(`/Appointment/${id}`)
     console.log(`Buat janji dengan dokter ID: ${id}`)
 }
 
@@ -96,14 +98,37 @@ onMounted(fetchDoctors)
 
 <style scoped>
 .doclist-appoint{
-    width: 300px;
+    width: 18rem;
     margin-left: auto;
     margin-right: auto;
     background: #800000;
     color: white;
-    padding: 10px;
+    padding: 0.75em 2em;
     border: none;
-    border-radius: 15px;
+    border-radius: 1rem;
     cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.2s;
+}
+
+.doclist-appint:hover{
+    background: #a83232;
+}
+
+.nav-btn{
+  background: #800000;
+  color: white;
+  border: none;
+  border-radius: 0.75rem;
+  padding: 0.5em 1.5em;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.nav-btn:disabled{
+  background: #ccc;
+  color: #888;
+  cursor: not-allowed;
 }
 </style>
