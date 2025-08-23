@@ -13,7 +13,7 @@
 
 <script setup>
 import { useRouter } from 'vue-router'
-import User from '@/services/User'
+import User from './services/User.js'
 
 const router = useRouter()
 
@@ -65,6 +65,7 @@ async function logout() {
 .profile-main, .list-main
 {
     color: #800000;
+    background-color: white;
 }
 
 .profile-main:hover, .list-main:hover{

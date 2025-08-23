@@ -8,7 +8,17 @@ export async function getDoctorsByCategory(category, page=1, limit=10) {
         const res = await axios.get(`/doctors/${category}?page=${page}&limit=${limit}`);
         return res.data;
     }catch(err){
-        console.error(err)
+        console.error(err)  
         return{doctors: [], hasMore: false, total: 0, message: "Gagal mengambil data dokter. Silakan coba lagi nanti."};
+    }
+}
+
+export async function getDoctorById(id) {
+    try {
+        const res = await axios.get(`doctor/${id}`);
+        return res.data;
+    }catch(err){
+        console.error(err);
+        return { doctor: null, message: "Gagal mengambil data dokter. Silakan coba lagi nanti."}
     }
 }

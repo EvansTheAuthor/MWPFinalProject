@@ -44,7 +44,7 @@
 </template>
 
 <script>
-import User from '@/services/User'
+import User from './services/User.js'
 
 export default {
   data(){

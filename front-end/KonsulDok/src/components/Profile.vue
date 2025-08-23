@@ -29,7 +29,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import User from '@/services/User.js';
+import User from './services/User.js';
 
 const profile = ref({
   name: '',

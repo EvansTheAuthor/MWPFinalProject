@@ -25,24 +25,26 @@ def click_next_page(driver, timeout=10):
         )
         
         class_attr = button.get_attribute("class")
-        if "mat-button-disabled" in class_attr:
+        if "mat-button-disabled" in class_attr or "disabled" in class_attr:
+            print("[INFO] No more pages to navigate.")
             return False
         
+        wait.until(EC.element_to_be_clickable((By.XPATH, '//button[.//mat-icon[text()="arrow_forward"]]')))
         driver.execute_script(
             "arguments[0].click();", button
             )
         time.sleep(2)
         return True
     except TimeoutException:
-        print("Timeout while waiting for the next page button.")
+        print("[WARNING] Timeout while waiting for the next page button.")
         return False
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"[ERROR] An error occurred: {e}")
         return False
     
-def extract_data_from_html(html):
+def extract_data_from_html(html, slug):
     soup = BeautifulSoup(html, 'lxml')
-    doctor_elements = soup.find_all("div", class_="doctor-appointment-card__content")
+    doctor_elements = soup.find_all("div", class_="doctor-appointment-card")
     
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -61,11 +63,28 @@ def extract_data_from_html(html):
             city_element = doctor.find("div", class_="doctor-appointment-card__city")
             doc_city = city_element.get_text(strip=True)
 
+            # Coba cari <img> dulu
+            img_element = doctor.find("img", class_="hd-base-image-mapper__img")
+            doc_img = ""
+
+            if img_element and img_element.has_attr("src") and "data:image" not in img_element["src"]:
+                doc_img = img_element["src"]
+            else:
+                # 2. Fallback: cari semua <source> dan ambil yang punya srcset valid
+                source_elements = doctor.find_all("source")
+                for source in source_elements:
+                    if source.has_attr("srcset") and "data:image" not in source["srcset"]:
+                        doc_img = source["srcset"]
+                        break
+
+
             doctors.append({
                 "name": doc_name,
                 "speciality": doc_speciality,
                 "hospital": doc_hospital,
                 "city": doc_city,
+                "img": doc_img,
+                "slug": slug,
                 "timestamp": timestamp
             })
         except AttributeError:
@@ -77,13 +96,14 @@ def main():
     driver = setup_driver()
     driver.get(url)
     time.sleep(2)
+    slug = url.rstrip('/').split('/')[-1]
     
     all_doctors = []
     
     try:
         while True:
             html = driver.page_source
-            doctors = extract_data_from_html(html)
+            doctors = extract_data_from_html(html, slug)
             all_doctors.extend(doctors)
             has_more = click_next_page(driver)
             if not has_more:
@@ -96,11 +116,11 @@ def main():
         driver.quit()
     
         with open("ibuBidan.csv", "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["name", "speciality", "hospital", "city", "timestamp"])
+            writer = csv.DictWriter(f, fieldnames=["name", "speciality", "hospital", "city", "img", "slug", "timestamp"])
             writer.writeheader()
             writer.writerows(all_doctors)
             
-        print(f"[DONE] Berhasil menyimpan {len(doctors)} dokter ke doctors.csv")
+        print(f"[DONE] Berhasil menyimpan {len(all_doctors)} dokter ke file csv")
     
 if __name__ == "__main__":
     main()

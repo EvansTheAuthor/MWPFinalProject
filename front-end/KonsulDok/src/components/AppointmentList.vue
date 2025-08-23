@@ -33,7 +33,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import Appointment from '@/services/Appointment.js'
+import Appointment from './services/Appointment.js'
 
 const appointments = ref([])
 const loading = ref(true)

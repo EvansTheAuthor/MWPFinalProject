@@ -24,4 +24,21 @@ class DoctorController extends Controller
             'limit' => $limit,
         ]);
     }
+
+    public function show($id)
+    {
+        $doctor = \App\Models\Doctor::find($id);
+        if (!$doctor) {
+            return response()->json([
+                'success' => false,
+                'message' => 'Dokter tidak ditemukan',
+                'doctor' => null
+            ], 404);
+        }
+        return response()->json([
+            'success' => true,
+            'message' => 'Dokter ditemukan',
+            'doctor' => $doctor
+        ]);
+    }
 }

@@ -77,7 +77,7 @@
 <script setup>
 import { ref,onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import User from '@/services/User.js'
+import User from './services/User.js'
 import Flatpickr from 'vue-flatpickr-component'
 import 'flatpickr/dist/flatpickr.css'
 

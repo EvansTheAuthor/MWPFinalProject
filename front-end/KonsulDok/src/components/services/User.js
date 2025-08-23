@@ -1,11 +1,11 @@
 import axios from "axios";
-axios.defaults.withCredentials = true;
+// axios.defaults.withCredentials = true;
 axios.defaults.baseURL = 'http://localhost:8000/api';
 
 class User {
   async getCurrentUser() {
     try {
-      const res = await axios.get('/user');
+      const res = await axios.get('/profile', { withCredentials: true });
       if (res.data.success) {
         return { success: true, user: res.data.user };
       } else {
@@ -39,7 +39,7 @@ class User {
     }
 
     try {
-      const res = await axios.post('/login', {name, password});
+      const res = await axios.post('/login', { name, password }, { withCredentials: false });
       if(res.data.success){
         return {success: true, message: "Login berhasil!", token: res.data.token, user: res.data.user};
       } else {
@@ -85,7 +85,7 @@ class User {
     }
 
     try {
-      const res = await axios.post('h/register', {email, name, password, conPassword});
+      const res = axios.post('/register', { email, name, password, password_confirmation: conPassword }, { withCredentials: false });
       if(res.data.success){
         return {success: true, message: "Registrasi berhasil! Silakan login.", token: res.data.token};
       } else {
@@ -103,7 +103,7 @@ class User {
 
   async logout() {
     try {
-      await axios.post('/logout');
+      await axios.post('/logout', {}, { withCredentials: true });
       return { success: true, message: "Logout berhasil!" };
     } catch (error) {
       console.error('Error during logout:', error);

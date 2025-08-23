@@ -1,529 +1,508 @@
-name,speciality,hospital,city,timestamp
-dr ALEXANDER NUR ILHAMI Sp.THT,Sp. THT,RS Bethsaida,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:02
-"Prof. Dr. dr. Achmad Chusnu Romdhoni, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:02
-Dr. Adi Januar Akbar Sp. THT-KL,Sp. THT,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 11:32:02
-dr Adi Januar Akbar Sp. THT,Sp. THT,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 11:32:02
-"dr. Adisti Mega Rinindra, Sp.THT-KL",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 11:32:02
-dr Aditya Arifianto Sp. THT-KL,Sp. THT,RSU Fikri Medika,"Klari, Kabupaten Karawang",2025-05-23 11:32:02
-Dr. Aditya Arifjanto Sp. THT,Sp. THT,RS Permata Keluarga Karawang,"Telukjambe Timur, Kabupaten Karawang",2025-05-23 11:32:02
-dr. Afriyanto Ridhwan Sp.THT-KL,Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 11:32:02
-"dr. Agus Multazar, M.Ked (ORL-HNS)., Sp.THT",Sp. THT,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",2025-05-23 11:32:02
-"dr. Agus Santosa, Sp.THT-KL",Sp. THT,Siloam Hospitals Denpasar,"Kuta, Kabupaten Badung",2025-05-23 11:32:02
-"dr. Ahmad Effendi , Sp.THT-KL",Sp. THT,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 11:32:06
-"dr. Aldityas Eko Wibawanto, Sp. THT-KL",Sp. THT,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",2025-05-23 11:32:06
-"dr. Alexander Nur Ilhami, Sp.THT-KL, M.Kes",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 11:32:06
-Dr. Alvin Renaldo Sp. THT-KL,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:32:06
-"dr. Anantha Sena, Sp.THT-KL",Sp. THT,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 11:32:06
-"dr. Andi Darwin, Sp.THT-KL",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 11:32:06
-"dr. Anne Indrawati, Sp.THT-KL",Sp. THT,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 11:32:06
-"dr. Antonius Harijanto Widjaja, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:06
-"dr. Arfan Noer, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 11:32:06
-"dr. Armeilia A. Rachim, Sp.THT",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 11:32:06
-"dr. Asbudi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 11:32:09
-"dr. Asih Yuliati, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 11:32:09
-"dr. Asih Yuliati, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",2025-05-23 11:32:09
-"dr. Ayu Astria Sriyana, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:09
-dr. Bagas Wicaksono Sp.THT-KL,Sp. THT,RSIA Kemang Medical Care,"Pasar Minggu, Jakarta Selatan",2025-05-23 11:32:09
-"dr. Bambang Hari Santosa, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 11:32:09
-dr Bambang Purwanto Sp THTKL,Sp. THT,RSIA Al Islam Bandung,"Cibeunying Kidul, Kota Bandung",2025-05-23 11:32:09
-"dr. Bambang Sukmadi, Sp.THT-KL (K)",Sp. THT,RS Khusus THT Ciranjang,"Kebayoran Baru, Jakarta Selatan",2025-05-23 11:32:09
-"dr. Benhard B. J. Panjaitan, Sp. THT",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 11:32:09
-dr Benny Syahrial Sp. THT,Sp. THT,RS Citra Harapan,"Medan Satria, Bekasi",2025-05-23 11:32:09
-"dr. Benny Syahrial, Sp.THT-KL",Sp. THT,Siloam Hospitals Sentosa Bekasi,"Bekasi Timur, Bekasi",2025-05-23 11:32:11
-dr. Bernadetta Belinda Djimandjaja Sp.THT-KL,Sp. THT,RSIA Bina Medika,"Pondok Aren, Tangerang Selatan",2025-05-23 11:32:11
-dr. Bernadetta Belinda Djimandjaja Sp.THT-KL,Sp. THT,RSIA Bina Medika,"Pondok Aren, Tangerang Selatan",2025-05-23 11:32:11
-"dr. Bilkis, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 11:32:11
-dr. Billy Massie Sp.THT-KL,Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:11
-"dr. Billy Massie, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:11
-"dr. Bintang Berthaliana Mangantar Napitupulu, Sp.THT-KL",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 11:32:11
-"dr. Bonny Murizky, Sp.THT-KL",Sp. THT,Siloam Hospitals Bogor,"Bogor Tengah, Bogor",2025-05-23 11:32:11
-"dr. Budi Sutikno, Sp.THT-KL (K), FICS",Sp. THT,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 11:32:11
-dr Budiman Gumilang Koerniawan Sp.THT,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:32:11
-Dr. Bunga Aline Ditha Sp.THT-BKL,Sp. THT,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 11:32:13
-dr. Bustanul Ardianto Sp.THT-KL,Sp. THT,RSU Syubbanul Wathon,"Pakis, Kabupaten Magelang",2025-05-23 11:32:13
-"dr. Cherie Rahaju Hutama, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:13
-dr. Christian Harry Suswidianto Sp. THT,Sp. THT,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 11:32:13
-"dr. Christopher Warouw, Sp. THT-KL",Sp. THT,Siloam Hospitals Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 11:32:13
-"dr. Dadang Chandra, Sp.THT-KL",Sp. THT,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 11:32:13
-"dr. Daniel Widjaja, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 11:32:13
-"dr. Deasi Anggaini, Sp. THT",Sp. THT,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 11:32:13
-"dr. Deasi Anggraeni, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 11:32:13
-"dr. Deksa Muhammad Nurfitrian Widiastu, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:13
-"dr. Dendyanto Hamdali, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:15
-"dr. Denny P. Machmud, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:15
-Dr. Deong Kee Kong (Jonathan),Sp. THT,Penang Adventist Hospital,"Mampang Prapatan, Jakarta Selatan",2025-05-23 11:32:15
-dr. Dessy Ekayusnita Sp.THT-KL,Sp. THT,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",2025-05-23 11:32:15
-"dr. Dhini Vien Arista, Sp.THT-KL",Sp. THT,Siloam Hospitals Bogor,"Bogor Tengah, Bogor",2025-05-23 11:32:15
-Dr. Dicky Nursyafri Sp. THT,Sp. THT,RS Permata Bekasi,"Mustika Jaya, Bekasi",2025-05-23 11:32:15
-"dr. Dimas Adi Patria , Sp.THT-BKL",Sp. THT,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 11:32:15
-"dr. Djuanri Thioritz, Sp.THT-KL",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 11:32:15
-"dr. Donald Marpaung, Sp.THT-KL",Sp. THT,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",2025-05-23 11:32:15
-Dr Jonathan Deong Kee Kong,Sp. THT,Penang Adventist Hospital,"Mampang Prapatan, Jakarta Selatan",2025-05-23 11:32:15
-"dr. Dyah Ayu Kartika Dewanti, Sp.THT-KL., M.Sc",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:32:17
-dr. Dyah Indrasworo Sp.THT,Sp. THT,RS Panti Nirmala,"Kedungkandang, Kota Malang",2025-05-23 11:32:17
-"dr. Edward Limantara, Sp.THT",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:17
-dr. Edward Syah Putra Sembiring Sp. THT-KL,Sp. THT,Siloam Hospitals Cinere ( RS Khusus Jantung Diagram Depok),"Cinere, Depok",2025-05-23 11:32:17
-"dr. Eka Dian Safitri, Sp.THT-KL",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 11:32:17
-"dr. Eko Teguh Prianto, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:17
-Dr. Ervin Amouzegar Sp. THT,Sp. THT,RS Islam Jakarta Sukapura,"Cilincing, Jakarta Utara",2025-05-23 11:32:17
-"dr. Ervin Yamani Amouzegar, Sp.THTBKL,Subsp.Onk(K)",Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:32:17
-Dr. Eva Miranda Fitri Sp. THT,Sp. THT,RS Awal Bros Batam,"Lubuk Baja, Kota Batam",2025-05-23 11:32:17
-dr. Eveline Sabrina Ranti Sp THT,Sp. THT,RS Mulia Pajajaran,"Bogor Utara, Bogor",2025-05-23 11:32:17
-"dr. Fachri Hadjat, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 11:32:19
-"dr. Fahmi Novel, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",2025-05-23 11:32:19
-"dr. Fahmi Zaglulsyah, Sp.THT-KL",Sp. THT,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 11:32:19
-Dr. Farid Wajdi Sp. THT,Sp. THT,RS Jasa Kartini,"Tawang, Kota Tasikmalaya",2025-05-23 11:32:19
-"dr. Farryanto Kusulistyo, SpTHT-KL",Sp. THT,RS Mitra Keluarga Pamulang,"Pamulang, Tangerang Selatan",2025-05-23 11:32:19
-"dr. Ferdinand, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",2025-05-23 11:32:19
-"dr. Ferdy Azman, Sp.THT-KL",Sp. THT,Siloam Hospitals Bekasi Sepanjang Jaya,"Rawalumbu, Bekasi",2025-05-23 11:32:19
-"dr. Feri Danil , Sp.THT",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 11:32:19
-Dr. Ferryan Sofyan Sp. THT BKL,Sp. THT,RSIA Stella Maris,"Medan Maimun, Kota Medan",2025-05-23 11:32:19
-dr. Fransiskus Harf Poluan SpTHT-KL,Sp. THT,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",2025-05-23 11:32:19
-"dr. Fransiskus Harf Poluan, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:22
-"dr. Gerry Raymond Joviolo, Sp.THT-KL",Sp. THT,Siloam Hospitals Palangka Raya,"Pahandut, Kota Palangka Raya",2025-05-23 11:32:22
-"dr. Goesti Yudistira, Sp.THT-KL",Sp. THT,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 11:32:22
-"dr. Gunawan Effendi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 11:32:22
-dr. H. Yuswardi Affandi Sp. THT,Sp. THT,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",2025-05-23 11:32:22
-"dr. Hamida Hayati Faisal, Sp.THT-KL",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",2025-05-23 11:32:22
-"dr. Handoko Nugroho Yossarsongko, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 11:32:22
-Prof. dr. Helmi Sp.THT (K),Sp. THT,RS Khusus Bedah SS Medika,"Senen, Jakarta Pusat",2025-05-23 11:32:22
-"dr. Hengki Wijaya Harto, Sp.THT-KL",Sp. THT,Siloam Hospitals Jember,"Kaliwates, Kabupaten Jember",2025-05-23 11:32:22
-"dr. Heribertus Diwyacitra Aribawa, Sp.THT-BKL",Sp. THT,RS Azra,"Bogor Utara, Bogor",2025-05-23 11:32:22
-"dr. Herly Permadi Agoeng, Sp.THT-KL",Sp. THT,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 11:32:24
-"dr. Hermawan Surya Dharma, Sp.THT-KL",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:32:24
-"dr. Heru Agus Santoso, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:24
-"dr. Hiro Salomo Mangape, Sp.THT-KL (KHUSUS PRAKTEK SORE",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 11:32:24
-"dr. I Gede Endha Narendra, Sp.THT-KL",Sp. THT,Siloam Hospitals Denpasar,"Kuta, Kabupaten Badung",2025-05-23 11:32:24
-dr. I Gusti Ayu Trisna Dewi Sp.THT,Sp. THT,Kasih Ibu Hospital Saba,"Blahbatuh, Kabupaten Gianyar",2025-05-23 11:32:24
-"dr. I Wayan Lolik Lesmana, Sp.THT-KL, M.Biomed",Sp. THT,Siloam Hospitals Denpasar,"Kuta, Kabupaten Badung",2025-05-23 11:32:24
-"dr. Ida Bagus Surya Putra Manuaba, Sp.THT-KL",Sp. THT,BIMC Hospitals Nusa Dua,"Kuta Selatan, Kabupaten Badung",2025-05-23 11:32:24
-dr. Igler Togar Hubarat Sp.THT,Sp. THT,RS Santo Borromeus,"Coblong, Kota Bandung",2025-05-23 11:32:24
-dr. Iman Pradana Maryadi Sp.THT-KL,Sp. THT,RS Khusus THT Ciranjang,"Kebayoran Baru, Jakarta Selatan",2025-05-23 11:32:24
-dr. Indah Saraswati Sp. THT,Sp. THT,RS Simulasi Halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:26
-"dr. Indah Saraswati, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:26
-"dr. Indri Adriztina, M.Ked., Sp.THT-KL",Sp. THT,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 11:32:26
-dr. Ines Camilla Putri Sp THT BKL,Sp. THT,RS Syarif Hidayatullah,"Ciputat Timur, Tangerang Selatan",2025-05-23 11:32:26
-"dr. Inez Aulia Rakhmawulan,SpTHT-BKL",Sp. THT,Mandaya Hospital Karawang,"Telukjambe Timur, Kabupaten Karawang",2025-05-23 11:32:26
-"dr. Irwan Kristyono, Sp.THT-KL (K), FICS",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:26
-dr. Ivana Supit Sp.THT,Sp. THT,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 11:32:26
-"dr. Jemmy K, Sp. THT-KL",Sp. THT,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 11:32:26
-"dr. Jemmy Kurniawan, Sp.THT-KL",Sp. THT,Mayapada Hospital Surabaya,"Sawahan, Kota Surabaya",2025-05-23 11:32:26
-"dr. Jessica Fedriani, Sp.THT-KL",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 11:32:26
-dr. Jodi Setiawan Sp.THT-KL,Sp. THT,RS Sentra Medika Cibinong,"Cibinong, Kabupaten Bogor",2025-05-23 11:32:29
-dr. Johan J. Bernardus Sp THT,Sp. THT,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 11:32:29
-"dr. Johan Johannes Bernardus, Sp.THT",Sp. THT,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",2025-05-23 11:32:29
-dr. Kartika Maharani Sp.THT-BKL,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:32:29
-"dr. Khoirul Anam, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:29
-"dr. Kholid Yusuf, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:29
-"dr. Kosasih Yusuf, Sp.THT",Sp. THT,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",2025-05-23 11:32:29
-"dr. Kristiawan Abri Roosadi, Sp.THT",Sp. THT,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",2025-05-23 11:32:29
-"dr. Kusmoro Yudho, Sp.THT-KL",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 11:32:29
-dr. Laksmi Kusuma Wardhani Sp.THT-KL.,Sp. THT,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:29
-"dr. Leny Megahwati, Sp.THT",Sp. THT,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:35
-"dr. Luh Putu Lusy Indrawati, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:32:35
-dr. Lusiana Herawati Yammin Sp. THT,Sp. THT,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",2025-05-23 11:32:35
-"dr. Lussie Rakhmawati, Sp.THT",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 11:32:35
-dr. M AGUNG NUGROHO Sp.THT.KL,Sp. THT,RS Citra Sari Husada,"Klari, Kabupaten Karawang",2025-05-23 11:32:35
-"dr. M AGUNG NUGROHO, SpTHT",Sp. THT,RS Citra Sari Husada,"Klari, Kabupaten Karawang",2025-05-23 11:32:35
-dr M GIMA FAIZAL GANI Sp.THT,Sp. THT,RS TMC,"Cihideung, Kota Tasikmalaya",2025-05-23 11:32:35
-dr. M. Fadil Rasad Sp.THT,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:32:35
-dr. M. Pahala H Harahap Sp THT,Sp. THT,RS Mitra Medika Premier,"Medan Petisah, Kota Medan",2025-05-23 11:32:35
-"dr. M. Reza Mahardhika , Sp.T.H.T.B.K.L",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:35
-"dr. M. Reza Mahardhika BKL , Sp.T.H.T.B.K.L",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:37
-dr. Made Wiranada Sp.THT-KL,Sp. THT,Prima Medika Hospital,"Denpasar Barat, Kota Denpasar",2025-05-23 11:32:37
-"dr. Marlinda Adham Yudharto, Sp.THT-KL, Ph.D",Sp. THT,MRCCC Siloam Hospitals Semanggi,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:37
-"dr. Meilina Wardhani, Sp.THT",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 11:32:37
-"dr. Miatina Artisnita Arisakti, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:37
-dr. Michael Sp.THT,Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:37
-"dr. Michael, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:37
-dr. Moh. Ibnu Malik Sp THT-KL,Sp. THT,RSI Siti Hajar Sidoarjo,"Sidoarjo, Kabupaten Sidoarjo",2025-05-23 11:32:37
-"dr. Mohamad Indra Sapta, Sp.THT-KL",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 11:32:37
-Dr. Mohammad Lukmanul Hakim Sp THT,Sp. THT,RS PMI Bogor,"Bogor Utara, Bogor",2025-05-23 11:32:37
-"dr. Mohammad Rizki Tri, Sp.THT-KL",Sp. THT,RS Bina Husada,"Cibinong, Kabupaten Bogor",2025-05-23 11:32:43
-"Dr. dr. Muh. Fadjar Perkasa, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 11:32:43
-"dr. Muhammad Setiadi, Sp.THT-KL., M.Si.Med",Sp. THT,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",2025-05-23 11:32:43
-"dr. Nani Iriani Djufri, Sp.THT-KL (K), FICS",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",2025-05-23 11:32:43
-"dr. Niken Ageng Rizki, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:43
-"dr. Nora A. L Pieter, Sp.T.H.T.K.L (K), FICS",Sp. THT,Klinik Ratulangi Medical Center,"Ujung Pandang, Kota Makassar",2025-05-23 11:32:43
-"dr. Noval Aldino, Sp.THT-KL",Sp. THT,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:32:43
-dr. Nugroho Sumarsono Sp. THT,Sp. THT,RS Katolik St. Vincentius a Paulo (RKZ),"Wonokromo, Kota Surabaya",2025-05-23 11:32:43
-"dr. Nunun Chatra Kristinae, Sp.THT-KL",Sp. THT,Siloam Hospitals Palangka Raya,"Pahandut, Kota Palangka Raya",2025-05-23 11:32:43
-"dr. Nurul Endah Ardianti, Sp.THT-KL",Sp. THT,Siloam Hospitals Mataram,"Mataram, Kota Mataram",2025-05-23 11:32:43
-"dr. Nuzwar Noer, Sp.THT",Sp. THT,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 11:32:45
-"Prof. dr. Nyilo Purnami, Sp.THT, Subsp.N.O(K)., FICS., FICM",Sp. THT,RS Darmo,"Tegalsari, Kota Surabaya",2025-05-23 11:32:45
-Nyoman Dian Permatasari M.Biomed.,Sp. THT,Bali Royal Hospital,"Denpasar Timur, Kota Denpasar",2025-05-23 11:32:45
-dr. Odhi Anggani Sp.THT-KL,Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:32:45
-"dr. Okti Trihandani, Sp.THT-KL",Sp. THT,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",2025-05-23 11:32:45
-"dr. Olivia Claudia Pingkan Pelealu, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Manado,"Wenang, Kota Manado",2025-05-23 11:32:45
-dr Olivia Desiana Santoso Sp THT,Sp. THT,Ciputra Medical Center,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:45
-"dr. Ong Awarudin, Sp.THT-KL",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 11:32:45
-"dr. Pahmi Budiman Saputra Basyir, Sp.THT-KL",Sp. THT,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",2025-05-23 11:32:45
-dr. Paulus Pramudianto Sp.THT-KL,Sp. THT,Siloam Hospitals Labuan Bajo,"Komodo, Kabupaten Manggarai Barat",2025-05-23 11:32:45
-"dr. Pramusinto Adhy, Sp.THT-KL",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 11:32:47
-"Prof. Dr. dr. Widodo Ario Kentjono,SpTHT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:47
-dr Puji Kurniawan Sp. THT-KL,Sp. THT,RS Delta Surya,"Sidoarjo, Kabupaten Sidoarjo",2025-05-23 11:32:47
-"dr. Pulo Raja Soaloon Banjarnahor, Sp.THT",Sp. THT,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",2025-05-23 11:32:47
-"dr. Putri Anugrah Rizki, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",2025-05-23 11:32:47
-dr Putri Mulyati Sp. THT -BKL,Sp. THT,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",2025-05-23 11:32:47
-"dr. Putu Dewi Pramusita, Sp.THT-KL",Sp. THT,BIMC Hospitals Kuta,"Kuta, Kabupaten Badung",2025-05-23 11:32:47
-Dr. dr. RM. Tedjo Oedono Sp.THT-KL (K),Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:32:47
-"dr. Ratna Kurniasari, Sp.THT-KL",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:32:47
-"dr. Reno Hardoyo Kelan, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",2025-05-23 11:32:47
-"dr. Respati W. Ranakusuma, SP.THT-KL",Sp. THT,RS Antam Medika,"Pulo Gadung, Jakarta Timur",2025-05-23 11:32:49
-"dr. Retno Praptaningsih, Sp.THT-KL",Sp. THT,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",2025-05-23 11:32:49
-"dr. Reza Firmansah , Sp.THT-KL",Sp. THT,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",2025-05-23 11:32:49
-"dr. Rini Arniasa Rahayu, Sp.THT-KL",Sp. THT,RS Delta Surya,"Sidoarjo, Kabupaten Sidoarjo",2025-05-23 11:32:49
-"dr. Rizka Fathoni Perdana, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 11:32:49
-"dr. Ronaldi Kurniawan Jusri, Sp.THT",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 11:32:49
-"dr. Roni Januardi, Sp.THT-KL",Sp. THT,Siloam Hospitals Bangka,"Pangkalan Baru,  Kabupaten Bangka Tengah",2025-05-23 11:32:49
-"dr. Ropi Affandi, Sp.THT-KL",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",2025-05-23 11:32:49
-dr. Rosa Falerina Sp.THT-KL (K),Sp. THT,National Hospital,"Wiyung, Kota Surabaya",2025-05-23 11:32:49
-dr. Rosa Putrie Andriya Sp. THT.KL,Sp. THT,RS Telogorejo,"Semarang Tengah, Kota Semarang",2025-05-23 11:32:49
-dr. Rosa Putrie Anindya SP THT - KL,Sp. THT,RS Telogorejo,"Semarang Tengah, Kota Semarang",2025-05-23 11:32:52
-dr. Rosa Putrie Anindya Sp THT - KL,Sp. THT,RS Telogorejo,"Semarang Tengah, Kota Semarang",2025-05-23 11:32:52
-"dr. Rosydiah Rahmawati, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:52
-"dr. Rudy Managuan Hutagaol, Sp.THT",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:52
-"dr. Sakina Umar, Sp.THT-KL",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 11:32:52
-"dr. Selfiyanti Bimantara, Sp.THT-KL",Sp. THT,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 11:32:52
-"dr. Selvina Maryones Rossary, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",2025-05-23 11:32:52
-"dr. Sesanti Hayuning Tyas, Sp.THT-KL",Sp. THT,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",2025-05-23 11:32:52
-"dr. Soeprijadi, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:52
-"dr. Sosialisman, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 11:32:52
-"dr. Sri Winarti, Sp.THT-KL., M.Kes",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:54
-dr. Steffi Kurniawan Sp.THT-KL,Sp. THT,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:32:54
-"dr. Stephani Linggawan, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",2025-05-23 11:32:54
-"dr. Sulantari, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",2025-05-23 11:32:54
-"dr. Suranto Gitowirjono, Sp.THT",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",2025-05-23 11:32:54
-"dr. Tadjukddin Alhadawy, Sp.THT",Sp. THT,RSK THT - Bedah KL Proklamasi BSD,"Serpong, Tangerang Selatan",2025-05-23 11:32:54
-dr. Tantri K Sp. THT KL,Sp. THT,RS Lira Medika,"Karawang Timur, Kabupaten Karawang",2025-05-23 11:32:54
-"dr. Tiara Destafia Sp,THT-KL",Sp. THT,RS Anugerah Bunda Khatulistiwa,"Pontianak Tenggara, Kota Pontianak",2025-05-23 11:32:54
-"dr. Tiara Melati, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",2025-05-23 11:32:54
-"dr. Tienneke Saboe, Sp.THT-KL",Sp. THT,Mayapada Hospital Bogor,"Bogor Timur, Bogor",2025-05-23 11:32:54
-"dr. Tri Hedianto, THT-BKL",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:56
-dr Venny Tursani Sarumpaet Sp. THT,Sp. THT,RS Dera As-Syifa,"Banjarharjo, Kabupaten Brebes",2025-05-23 11:32:56
-dr. Venny Tursani Sarumpaet Sp. THT,Sp. THT,RS Dera As-Syifa,"Banjarharjo, Kabupaten Brebes",2025-05-23 11:32:56
-Dr. Vita kasnawijaya Sp. THT,Sp. THT,RS Taman Harapan Baru,"Medan Satria, Bekasi",2025-05-23 11:32:56
-"dr. Vitta Kusmawijaya, Sp.THT",Sp. THT,RS Taman Harapan Baru,"Medan Satria, Bekasi",2025-05-23 11:32:56
-dr. Wahyu Julianda Sp.THT-BKL,Sp. THT,RS Ananda Babelan,"Babelan, Kabupaten Bekasi",2025-05-23 11:32:56
-"dr. Wawan Siswadi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Slawi,"Slawi, Tegal",2025-05-23 11:32:56
-"Prof. Dr. dr. Widodo Ario Kentjono, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:32:56
-Dr. Widya W Hartanto Sp THT,Sp. THT,RSIA Melinda,"Cicendo, Kota Bandung",2025-05-23 11:32:56
-Dr. Widya W. Hartanto Sp THT,Sp. THT,RSIA Melinda,"Cicendo, Kota Bandung",2025-05-23 11:32:56
-Dr. Widya W. Hartanto Sp THT,Sp. THT,RSIA Melinda,"Cicendo, Kota Bandung",2025-05-23 11:32:58
-Dr. Widya W. Hartanto Sp THT,Sp. THT,RSIA Melinda,"Cicendo, Kota Bandung",2025-05-23 11:32:58
-"dr. Widya Wicaksono Hartanto, Sp.THT-KL., M.Kes",Sp. THT,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",2025-05-23 11:32:58
-"dr. Wilsen, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Delta Mas,"Cikarang Pusat, Kabupaten Bekasi",2025-05-23 11:32:58
-"dr. Wiro Anton Sumilat, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",2025-05-23 11:32:58
-"dr. Wiyono Hadi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",2025-05-23 11:32:58
-"dr. Yadita Wira Pasra, Sp.THT-KL",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",2025-05-23 11:32:58
-"dr. Yan Edwin Bunde, (KHUSUS PRAKTEK SORE) Sp.THT-KL, MH.Kes",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",2025-05-23 11:32:58
-dr. Yaswandi Affandi Sp. THT - KL,Sp. THT,Mandaya Hospital Karawang,"Telukjambe Timur, Kabupaten Karawang",2025-05-23 11:32:58
-"dr. Yohanes Runtung, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",2025-05-23 11:32:58
-dr. YohanesYan Runtung Sp. THT,Sp. THT,RS Pelabuhan Jakarta Utara,"Koja, Jakarta Utara",2025-05-23 11:33:00
-"dr. Yohanis Yan Runtung, Sp.THT-KL",Sp. THT,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:33:00
-dr Yohanis Yan Rutungan Sp. THT,Sp. THT,RS Pelabuhan Jakarta Utara,"Koja, Jakarta Utara",2025-05-23 11:33:00
-"dr. Yosa Meyla Puar, Sp.THT",Sp. THT,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",2025-05-23 11:33:00
-Dr. Yosi Oktarina Sp. THT,Sp. THT,Alia Hospital Depok,"Pancoran Mas, Depok",2025-05-23 11:33:00
-"dr. Yuan Ariawan Kusuma, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",2025-05-23 11:33:00
-"Dr. Yulialdi Bimanto Heriyanto Putra, SpTHT",Sp. THT,RS Mitra Plumbon Cibitung,"Cibitung, Kabupaten Bekasi",2025-05-23 11:33:00
-dr. Yunandi Alfandi Sp. THT-KL,Sp. THT,Mandaya Hospital Karawang,"Telukjambe Timur, Kabupaten Karawang",2025-05-23 11:33:00
-"dr. Yurni, Sp.THT-KL",Sp. THT,Siloam Hospitals Silampari (Lubuk Linggau),"Lubuk Linggau Timur I, Kota Lubuk Linggau",2025-05-23 11:33:00
-"DR. Dr. Yussy Afriani Dewi, M.Kes, Sp.THT-KL(K), FICS",Sp. THT,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",2025-05-23 11:33:00
-dr. Zainal Adhim Sp. THT,Sp. THT,RS Pondok Indah - Pondok Indah,"Kebayoran Lama, Jakarta Selatan",2025-05-23 11:33:02
-"dr. Zanil Musa, Sp. THT - KL (K)",Sp. THT,RS Khusus THT Ciranjang,"Kebayoran Baru, Jakarta Selatan",2025-05-23 11:33:02
-dr. Zulkarnain Hidayat Sp.THT-KL,Sp. THT,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",2025-05-23 11:33:02
-"dr. Zulkarnain Hidayat, Sp.THT-KL",Sp. THT,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",2025-05-23 11:33:02
-"dr Zulrafli, Sp.THT-KL",Sp. THT,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",2025-05-23 11:33:02
-"dr. Aji Kusuma, SpTHT-BKL",Sp. THT,RS. Hamori,"Pagaden, Kabupaten Subang",2025-05-23 11:33:02
-"dr. Asti Kristiani, Sp.THT",Sp. THT,Klinik Jaya Abadi,"Lengkong, Kota Bandung",2025-05-23 11:33:02
-"dr. Bambang Sudiratama, Sp.THT",Sp. THT,RS Allam Medica,"Bumiayu, Kabupaten Brebes",2025-05-23 11:33:02
-"dr. Bondn Herwindo, SpTHT-KL",Sp. THT,RSIA Kemang Medical Care,"Pasar Minggu, Jakarta Selatan",2025-05-23 11:33:02
-"dr. Budi Santoso, Sp.THT-KL",Sp. THT,RSIA Tumbuh Kembang,"Cimanggis, Depok",2025-05-23 11:33:02
-dr. Dewi Pratiwi Sp. THT,Sp. THT,RS dr. OEN Kandang Sapi Solo,"Jebres, Kota Surakarta",2025-05-23 11:33:04
-"dr. Didin Komarudin Hidayat, SpTHTKL, Mkes",Sp. THT,RSPKT Prima Sangatta,"Sangatta Utara, Kabupaten Kutai Timur",2025-05-23 11:33:04
-"dr. Endang Puspitowati, Sp.THT",Sp. THT,RS Petrokimia Gresik,"Gresik, Kabupaten Gresik",2025-05-23 11:33:04
-Dr. dr. Fikri Mirza Putraito Sp.THT,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:33:04
-"dr. Ines Camilla Putri, Sp.THT-BKL",Sp. THT,RS Syarif Hidayatullah,"Ciputat Timur, Tangerang Selatan",2025-05-23 11:33:04
-"dr. Khaeruddin, Sp.THT",Sp. THT,RS Otak & Jantung Pertamina Royal Biringkanaya,"Biringkanaya, Kota Makassar",2025-05-23 11:33:04
-"dr. Krisna Dini S, Sp.THT-KL",Sp. THT,RSIA Cahaya Bunda,"Kesambi, Kota Cirebon",2025-05-23 11:33:04
-"dr. Lely Mariana Wdjaya, SpTHT-KL",Sp. THT,RSK THT - Bedah KL Proklamasi BSD,"Serpong, Tangerang Selatan",2025-05-23 11:33:04
-dr. Lia Natalia Sp. THT,Sp. THT,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",2025-05-23 11:33:04
-"dr. M. Tauhid, SpTHT",Sp. THT,RS Permata Jonggol,"Jonggol, Kabupaten Bogor",2025-05-23 11:33:04
-"dr. Mochamad Iqbal, Sp.THT, BKL",Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",2025-05-23 11:33:07
-Dr. dr. Nova Pleter Sp THT,Sp. THT,Klinik Ratulangi Medical Center,"Ujung Pandang, Kota Makassar",2025-05-23 11:33:07
-"dr. Odhi Anggani, SpTHT-KL",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",2025-05-23 11:33:07
-"dr. Ratna Sari, Sp.THT",Sp. THT,RSU St. Elisabeth Purwokerto,"Purwokerto Timur, Kabupaten Banyumas",2025-05-23 11:33:07
-"dr. Ricky Yue, Sp.THT",Sp. THT,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",2025-05-23 11:33:07
-"dr. Shally Adhina Putri, Sp.THT-KL",Sp. THT,RS Khusus Bedah SS Medika,"Senen, Jakarta Pusat",2025-05-23 11:33:07
-"dr. Sita Asri, Sp.THT",Sp. THT,RS Puri Cinere,"Cinere, Depok",2025-05-23 11:33:07
-"dr. Sri Susilawati, Sp.THT-KL",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",2025-05-23 11:33:07
-"dr. Stephani Linggawan, Sp.THT-KL",Sp. THT,RS Adi Husada Undaan Wetan,"Genteng, Kota Surabaya",2025-05-23 11:33:07
-"dr. Trisa Gustania,Sp.THT",Sp. THT,RS Bhakti Yudha,"Pancoran Mas, Depok",2025-05-23 11:33:07
-"dr. Yuwan Pradana, Sp.THT-KL",Sp. THT,RS Restu Ibu Balikpapan,"Balikpapan Tengah, Kota Balikpapan",2025-05-23 11:33:09
-"dr. Zainal Adhim, Sp.THT-KL",Sp. THT,RS Pondok Indah - Pondok Indah,"Kebayoran Lama, Jakarta Selatan",2025-05-23 11:33:09
-"dr.Alfian, Sp.THT-KL",Sp. THT,RS PIK,"Penjaringan, Jakarta Utara",2025-05-23 11:33:09
-"dr.Sofia Tiarini, Sp.THT",Sp. THT,RS Semen Gresik,"Gresik, Kabupaten Gresik",2025-05-23 11:33:09
-dr. Abdul Rachman Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:09
-Dr. Aditiya Yuda Perkasa Alam Simbolon Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:09
-"Dr. Aditya Leonard Tandio MPH, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:09
-Dr. Adya Arradikha Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:09
-dr. Adya arradhika Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:09
-Dr. Agriyana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:09
-Dr. Agustinus Betha Devito Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-"dr. Agustinus Sony Yudianto, Sp.THT-KL",Sp. THT,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 11:33:11
-Dr. Aksimitayani Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-"Dr. Alfira Ulfa Sp.THT-BKL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-"dr. Amelia Dian Utami, SpTHT",Sp. THT,KLINIK SYAMSINAR MAROS,"Bontoa, Kabupaten Maros",2025-05-23 11:33:11
-"Dr. Amrollah Latupono Sp.THT-BKL, MARS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-Dr. Andil Mulya Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-Dr. Anggie Mutmainnah Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-"dr. Angie Renatha, SpTHT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-Dr. Anton Hilman Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:11
-Dr. Arif Surgana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-Dr. Aryo Mandraguna W Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-dr. Asnomi Nanda SP. THT,Sp. THT,RSAU Dr. Esnawan Antariksa,"Makasar, Jakarta Timur",2025-05-23 11:33:13
-dr. Ayunita Tri Wirattami Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-dr. Aziza Viquisa Berliana Putri Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-"Dr. Azmeilia Syafitri Lubis Sp.THT-BKL,M.Ked(ORL-HNS)",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-dr Bagus Harning Efrianto Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-"Prof. dr. Bambang Hermani, Sp.THT-KL(K)",Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:13
-"dr. Bastu Edo Sp.THT-KL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-"dr. Carlo Maulana Akbar M.Ked(ORL-HNS), Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:13
-"Dr. Cut Elvira Novita M.Ked(ORL-HNS),Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-DATUK DR KULJIT SINGH,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-dr. Daniel Abdi Wicaksana Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Darmayanti Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-"dr. Deden Wahnadian Sobarna M.Kes, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Delva Swanda Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Deni Harapan Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Denis Anugrah O Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Dewi Gemala Wahab Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Dewi Susilowati Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:15
-Dr. Dewi Yulianti Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:17
-Dr. Dewi Yulianti Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:17
-Dr. Dhini Vien Arista Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:17
-"dr. Dina Putri, Sp.THT-KL",Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:19
-dr. Dini Anggreini Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:19
-Dr. Dini Novianti Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:19
-Dr. H. Donny Hendriyanto Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:19
-Dr Didin Komarudin Hdayat Sp.THT,Sp. THT,RS Pupuk Kaltim Prima Sangatta,"Sangatta Utara, Kabupaten Kutai Timur",2025-05-23 11:33:19
-Dr. Zuraidah Nasution Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:19
-DR. EE YUIN SU,Sp. THT,Praktek dokter.,"Bukit Raya, Kota Pekanbaru",2025-05-23 11:33:19
-Dr. Edward S. P. Sembiring Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:19
-dr. Eka Putra Setiawan Sp. THT,Sp. THT,"Praktek Dr.DG.Arta Eka Putra Sp, THT","Denpasar Selatan, Kota Denpasar",2025-05-23 11:33:19
-Dr. Eka Utami Makmur Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:19
-"Dr. Emil Kardani Murdiyanto Sp.THT-BKL, M.Biomed",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-Dr. Endah Setiani Triastuti Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-dr Endang Suherlan Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-"dr. Erica Lukman, Sp.THT-KL",Sp. THT,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 11:33:22
-Dr. Erlina Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-Dr. Erna M. Marbun Sp.THT,Sp. THT,Klinik dr Erna S,"Senen, Jakarta Pusat",2025-05-23 11:33:22
-"dr. Erwinantyo B, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-Dr. Eunike Lay Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-Dr. Eva Susanti Sp. THT,Sp. THT,dr. Eva Susanti SpTHT,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:33:22
-dr. Fahmi Attaufany Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:22
-dr. Fahmi Attaufany Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-dr. Fahmi Novel,Sp. THT,Klinik Utama Dipta,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:33:24
-"dr. Fairuz, SP.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-Dr. Fany Dyah Rahmawati Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-dr. Febri Arianto Bayu Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-Dr. Ferawati Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-Dr. Feri Trihandoko Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-"Dr. Fezzan Athama Fuadi Sp.THT-BKL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-dr. Fikri Mirza Putranto Sp. THT-KL (K),Sp. THT,RSIJ Cempaka Putih,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:33:24
-dr. Fikry Hamdan Yasin Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:24
-dr. Fikry Hamdan Yasin Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-Dr. Finna Christianty Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-Dr. Fiqih Fakhriana Kartini Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-Dr. Fira Sofia Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-Dr. Foppi Puspitasari Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-dr. Friska Meutia Lubis Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-dr. Genggam Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-"dr. Gunawan Kurnaedi, Sp.THT-KL",Sp. THT,"dr. Gunawan Effendi, Sp.THT-KL","Tarogong Kidul, Kabupaten Garut",2025-05-23 11:33:26
-"dr. Guntur Bayu Bima Pratama, SpTHT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:26
-"dr. H. Bogi Seoseno, Sp.THT-KL",Sp. THT,Apotek Bona Farma,"Cidadap, Kota Bandung",2025-05-23 11:33:26
-"Prof. Dr. Dr. H. Iwin Sumarman, Sp THT-KL",Sp. THT,"Praktek Dokter Prof. Dr. Dr. H. Iwin Sumarman, Sp THT-KL","Bandung Wetan, Kota Bandung",2025-05-23 11:33:28
-Dr. Hana Listyani Koentjoro Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:28
-dr. Hana Listyani Koentjoro Sp.THT-KL,Sp. THT,APOTIK SUMBER REZEKI FARMA,"Kebayoran Lama, Jakarta Selatan",2025-05-23 11:33:28
-Dr. Hanski R.P Legranssp Sp. THT,Sp. THT,KLINIK KIMIA FARMA KOTAMOBAGU,"Kotamobagu Barat, Kota Kotamobagu",2025-05-23 11:33:28
-Dr. Hari Pranoto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:28
-Dr. Harry Munggaran K. Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:28
-dr Hartati Kusumawardani Sp.THT,Sp. THT,APOTEK JAYA,"Banjarmasin Barat, Kota Banjarmasin",2025-05-23 11:33:28
-dr. Hartati Kusumawardani Sp.THT,Sp. THT,dr Hartati Kusumawardhani SpTHT,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:33:28
-Dr. Hasnan Habib Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:28
-Prof. dr. Helmi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:28
-Dr. Helta Tandi Sarira Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-Dr. Herdiansyah Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-Dr. Hj Arina Ikasari Muhtadi Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-"dr. Hj. Selvie Sira, Sp.THT",Sp. THT,Apotek Kimia Farma Antasari,"Samarinda Ulu, Kota Samarinda",2025-05-23 11:33:30
-Dr. Hj. Sri Sophia Wahyuni Sp.THT,Sp. THT,Klinik Medika Farma,"Plumbon, Kabupaten Cirebon",2025-05-23 11:33:30
-dr. I Dewa Made Sudiatmika Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-Dr. I Gede Wahyu Adi Raditya Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-Dr. I Made Rai Wiryadi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-Dr. I Nyoman Swardyana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-dr. I. Radian Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:30
-Dr. I.B. Yudi Madiawan Sp. THT,Sp. THT,APOTEK INA FARMA,"Denpasar Barat, Kota Denpasar",2025-05-23 11:33:33
-"dr. Ichsan Juliansyah Juanda, Sp.THT-KL",Sp. THT,RSUD AL IHSAN,"Baleendah, Kabupaten Bandung",2025-05-23 11:33:33
-Dr. Ida Ayu Citra Pratiwi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:33
-Dr. Idola Pratiwi Harianja Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:33
-dr. Indra Irawan Sp.THT,Sp. THT,RSUD dr. soetijono Blora,"Kota Blora, Kabupaten Blora",2025-05-23 11:33:33
-Dr. Indra Setiawan Sp.THT-KL(K),Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:33
-dr. Ira Agustine Mutiara Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:33
-dr Iskandar Z Sp. THT,Sp. THT,RS Islam PKU Muhammadiyah Pekajangan Pekalongan,"Kedungwuni, Kabupaten Pekalongan",2025-05-23 11:33:33
-Dr. Ivana Supit Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:33
-Dr. Jarod Wahyu Kristiyanto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:33
-"dr. Jerry Tobing , MKED (ORL-HNS), Sp THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:35
-dr. Johnny Harijanto Sp.THT,Sp. THT,Dr. Johnny Harjanto Sp THT KL,"Papar, Kabupaten Kediri",2025-05-23 11:33:35
-dr. Johnny Harijanto Sp. THT,Sp. THT,Dr. Johnny Harjanto Sp THT KL,"Papar, Kabupaten Kediri",2025-05-23 11:33:35
-dr. Johnny Harjanto Sp THT KL,Sp. THT,Dr. Johnny Harjanto Sp THT KL,"Papar, Kabupaten Kediri",2025-05-23 11:33:35
-"dr. Johnny Harjanto, Sp. THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:35
-Dr. Julian Hartawan Wijaya Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:35
-"dr. Junicko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",2025-05-23 11:33:35
-"dr. Junicko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",2025-05-23 11:33:35
-"dr. Junicko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",2025-05-23 11:33:35
-dr. Junico Stefanus Anargya Sp.THT,Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",2025-05-23 11:33:35
-"dr. Juriko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",2025-05-23 11:33:37
-Dr. Kadek Agustina Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-"Dr. Karina Witary Ayu Siagian Sp.THT-KL, M.Kes",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-Dr. Ketut Tadeus Pinatih Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-Dr. Khoirul A. Iriantoro Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-Dr. Kurniawaty Hesli Pratiwi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-"Dr. Laksito Wening Sp.THT-KL, M.Kes",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-dr. Legawati Sihingo-Ringo Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-Dr. Leny Megawati Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-Dr Long Chin Wan,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:37
-dr. Lorensia Fitra Dwita Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-Dr. Luh Astriani Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-Dr. Luh Putu Happy Sandha Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-"Dr. Luh Witari Indrayani M.Biomed, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-"dr. M Budi Caecarian Lubis, M.Ked (ORL-HNS), Sp. THT-KL",Sp. THT,"Logo Penjual Praktek THT dr M Budi Caecarian Lubis, M.Ked (ORL-HNS), Sp. THT-KL","Bekasi Selatan, Bekasi",2025-05-23 11:33:39
-Dr. M Destrian Cossandra Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-dr. M. Budi C. Lubis Sp. THT-KL,Sp. THT,"Praktek THT dr M Budi Caecarian Lubis, M.Ked (ORL-HNS), Sp. THT-KL","Bekasi Selatan, Bekasi",2025-05-23 11:33:39
-Dr. M. Fachreza Saputra Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-dr. M. Gima Faizal Gani Sp.THT,Sp. THT,Apotik Idaman,"Taraju, Kabupaten Tasikmalaya",2025-05-23 11:33:39
-Dr. Made Prani Windasari Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:39
-Dr. Made Rara Rusmala Dewi M. Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-"dr. Maesyara Adinda Sari M.Ked(ORL-HNS), Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-"dr. Maranatha Lumban Batu, Sp.THT-KL",Sp. THT,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",2025-05-23 11:33:41
-Dr. Marisa Rizqiana Dewi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-Dr. Marisa Rizqiana Dewi Sp THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-Dr. Mariska Regina Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-dr. Mattheos Lucky Haurissa Sp.THT,Sp. THT,RS Putra Waspada Tulungagung,"Kedungwaru, Kabupaten Tulungagung",2025-05-23 11:33:41
-Dr. Maximiliano Agustian Mahardhika Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-dr. Mei Risanti Sirait Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:41
-dr. Meila Sutanti Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:41
-dr. Meilia Sutanti Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:33:43
-Dr. Merza M. Muzakkir Sp THT KL,Sp. THT,Apotek Zamzam,"Medan Kota, Kota Medan",2025-05-23 11:33:43
-Dr. Mila Habibasari Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-Dr. Mohammad Lukmanul Hakim Winugroho Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-Dr. Muhammad Anwar Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-dr. Muhammad Pringgo Arifianto Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-dr. Nies Endang Mangunkusumo Sp THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-"Dr. Nugroho Suharsono, SP.THT-KL",Sp. THT,"Dr. Nugroho Suharsono, SP.THT-KL","Mojosari, Kabupaten Mojokerto",2025-05-23 11:33:43
-Dr. Olvi Nancy Marimpan Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-dr. Ong Awarudin Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:43
-dr. Ong warudin Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-Dr. Orlena Dharmantary Kartika Sp.THT-KL,Sp. THT,0,"Bekasi Selatan, Bekasi",2025-05-23 11:33:45
-Dr. Pande Made Indra Premana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-Dr. Pande Nyoman Bayu Tirtayasa Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-dr. Pradhana F. Wicaksana Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-Prof Dr Teti Madiadipoera dr Sp THT-KL (K),Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-"Dr. Pudjo D. Laksono M.Kes, Sp.THT-KL, M.H",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-Dr. Putri Arihtalia Br Purba Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-dr. Putri Cita Sari Dewi Sp. THT- KL,Sp. THT,Praktek dr. Putri Citra Sari Sp.THT,"Bandongan, Kabupaten Magelang",2025-05-23 11:33:45
-Dr. Putri Citra Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:45
-dr. Putu Ayu Ines Sp.THT-KL,Sp. THT,Praktek dokter bersama-,"Ciawi, Kabupaten Bogor",2025-05-23 11:33:47
-Dr. Putu Ayu Ines Lassiyani Surya Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-Dr. Putu Kanjeng Ayu Pringgandani Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-Dr. Rahmat Faradilla Sp.THTBKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-dr. Rahmat Hidayat Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-Dr. Rahmi Surayya Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-Dr. Rano Digdayan Makerto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-"dr. Ratna Widyaningrum, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-Dr. Ratna Windyaningrum Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-Dr. Rika Caesaria Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:47
-"dr. Rimelda Aquinas, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-"dr. Rina Desdwi, Sp.THT-KL",Sp. THT,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",2025-05-23 11:33:50
-Dr. Rini Kartika Dewi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-"Dr. Riska Handriani Sp.THT-BKL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-dr. Risman Rais Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-"Dr. Rissa Ardika Nasution M.Ked(ORL-HNS), Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-Dr. Rizke Ayu Pujiati Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-"dr. Rodrigo Limmon Sp.THT-KL, MARS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-Dr. Ronald Yohanes Febrianto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-Dr. Ronny M. Simanjuntak Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:50
-Dr. Rositania Manyang Budihardjo Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-dr Roy David Sarumpaet Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-dr. Rully Satriawan Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-dr. Rully Satriawan Sp. THT-KL,Sp. THT,Graha Spesialis Metro,"Metro Pusat, Kota Metro",2025-05-23 11:33:52
-"dr. Rusina Hayati, Sp.THT-KL",Sp. THT,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",2025-05-23 11:33:52
-dr. SRI MELLA TALA Sp THT KL,Sp. THT,"dr. SRI MELLA TALA, Sp.THT-KL","Medan Amplas, Kota Medan",2025-05-23 11:33:52
-Dr. Sadri Yulius Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-Dr. Sari Soeleiman Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-dr Selvie Sire Sp. THT BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-"dr. Shandi Ari Susanti, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:52
-dr. Shierly Kurniawan Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-"dr. Sinta Sari, M.Kes. Sp.THT-KL",Sp. THT,Apotek Serumpun Bambu,"Cimahi Tengah, Kota Cimahi",2025-05-23 11:33:54
-Dr. Suryantoko Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-Dr. Syahnidel Fita Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-Dr. Sylvia Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-Dr. Tanto Sakti Hutama Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-dr. Tantri Kurniawati Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-dr. Tantri Kurniawati Sp. THT - KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-"dr. Trini Melinda M.Ked(ORL-HNS), Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:54
-dr. Ulfa Fitriyani Sp. THT,Sp. THT,RS SIAGA MEDIKA PEMALANG,"Pemalang, Kabupaten Pemalang",2025-05-23 11:33:54
-dr. Unggul Amartio Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-dr. Unggul Amriarto Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-Dr. Viika Miftakhul Umami Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-Dr. Vithari Anna Sarambu Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-Dr. Wahyudi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-Dr. Wahyudi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-dr. Wawan Siswadi Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-Dr. Widia Isa Aprillia Sujana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-dr Widyana Mulyamin Sp THT,Sp. THT,Apotek Pelita Farma,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:33:56
-"dr. Wiliani Risnawati, Sp.THTBKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:56
-dr. Winulang S N Sp. THT,Sp. THT,Dr. Winulang S N Sp. THT,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-dr Yan Wirayudha Sp. THT,Sp. THT,RS PKU Muhammadiyah Kartasura,"Kartasura, Kab Sukoharjo",2025-05-23 11:33:58
-Dr. Yerni Karnita Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-"dr. Yosa Meyla Puar, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-dr. Yudistira Pratama Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-"Dr. Yunaldi Altila S.Ked, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-Dr. Yurnita Arifin Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-de Emma Savitri SP.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-dr Eva Khristi Purbandini Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-dr Intan Kartika Nursyahbani Sp.THT -BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:33:58
-dr Muhammad Akbar spTHT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-dr Sugeng Santoso Sp.THT.KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-dr Sylvia THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-dr Wardhani Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-"dr. Agus Surono, SP.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-"dr. Bintari Nareswari, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-"dr. Diah Hayustiningsih, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-dr. Dini Novianti SpTHT,Sp. THT,dr. Dini Novianti SpTHT,"Makasar, Jakarta Timur",2025-05-23 11:34:00
-"dr. Dyah Astri Paramaramya, SP THT-BKL",Sp. THT,0,"Bekasi Selatan, Bekasi",2025-05-23 11:34:00
-"dr. Fari Ananda Daud, M.Kes,Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:00
-"dr. H. Gunawan D, SpTHT.MARS",Sp. THT,Klinik Pratama Al Masoem Putri Mandiri,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-"dr. dr. Hendradi,S, Sp.THT.BKL(K)",Sp. THT,apotek kimia farma -,"Cihara, Kabupaten Lebak",2025-05-23 11:34:02
-"dr. Indra Setiawan, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-"dr. Irfan, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-dr. Lisa Herminawaty S. Sp.T.H.T.B.K.L,Sp. THT,0,"Bekasi Selatan, Bekasi",2025-05-23 11:34:02
-"dr. Muhammad Yoserizal,SpTHT",Sp. THT,RSUD BALARAJA,"Balaraja, Kabupaten Tangerang",2025-05-23 11:34:02
-"dr. NUGROHO SUHARSONO, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-"dr. Nadhila Sharfina Pratiwi, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-"dr. Novi Padevi, Sp.THT.BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-"dr. Putu Ayu Ines Lassiyani Surya, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:02
-"dr. Rahmat Hidayat, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:04
-"dr. Regina Talitha Rosa, Sp.THT",Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",2025-05-23 11:34:04
-"dr. Ronaldi Tumbel, SpTHT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:04
-dr. Widyana Mulyamin Sp THT,Sp. THT,Apotek Pelita Farma,"Cempaka Putih, Jakarta Pusat",2025-05-23 11:34:04
-"dr. Yonlan, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",2025-05-23 11:34:04
-"dr.Aswaldi Ahmad,SpTHT",Sp. THT,"dr.Aswaldi Ahmad,SpTHT","Menteng, Jakarta Pusat",2025-05-23 11:34:04
-"dr.Aswaldi Ahmad,SpTHT",Sp. THT,"dr.Aswaldi Ahmad,SpTHT","Menteng, Jakarta Pusat",2025-05-23 11:34:04
-"dr.Roni Iskandar,SpTHT",Sp. THT,"dr.Roni Iskandar,SpTHT","Senen, Jakarta Pusat",2025-05-23 11:34:04
+name,speciality,hospital,city,img,slug,timestamp
+dr ALEXANDER NUR ILHAMI Sp.THT,Sp. THT,RS Bethsaida,"Kelapa Dua, Kabupaten Tangerang",,ear-nose-andthroat,2025-06-15 03:27:50
+"Prof. Dr. dr. Achmad Chusnu Romdhoni, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/337605_14-12-2022_14-2-16.jpeg,ear-nose-andthroat,2025-06-15 03:27:50
+Dr. Adi Januar Akbar Sp. THT-KL,Sp. THT,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:27:50
+dr Adi Januar Akbar Sp. THT,Sp. THT,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:27:50
+"dr. Adisti Mega Rinindra, Sp.THT-KL",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/63877_4-4-2022_14-29-8.png,ear-nose-andthroat,2025-06-15 03:27:50
+dr Aditya Arifianto Sp. THT-KL,Sp. THT,RSU Fikri Medika,"Klari, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:27:50
+Dr. Aditya Arifjanto Sp. THT,Sp. THT,RS Permata Keluarga Karawang,"Telukjambe Timur, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:27:50
+dr. Afriyanto Ridhwan Sp.THT-KL,Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",https://d1ojs48v3n42tp.cloudfront.net/personnels/547379_14-12-2022_16-7-14.png,ear-nose-andthroat,2025-06-15 03:27:50
+"dr. Agus Multazar, M.Ked (ORL-HNS)., Sp.THT",Sp. THT,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",https://d1ojs48v3n42tp.cloudfront.net/personnels/328105_14-6-2022_17-34-57.jpeg,ear-nose-andthroat,2025-06-15 03:27:50
+"dr. Agus Santosa, Sp.THT-KL",Sp. THT,Siloam Hospitals Denpasar,"Kuta, Kabupaten Badung",https://d1ojs48v3n42tp.cloudfront.net/personnels/895163_13-12-2022_15-23-11.png,ear-nose-andthroat,2025-06-15 03:27:50
+"dr. Ahmad Effendi , Sp.THT-KL",Sp. THT,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/219465_10-3-2025_11-21-39.jpeg,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Aldityas Eko Wibawanto, Sp. THT-KL",Sp. THT,RS Mitra Keluarga Pratama Jatiasih,"Jatiasih, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/468206_11-1-2023_15-22-18.png,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Alexander Nur Ilhami, Sp.THT-KL, M.Kes",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/276335_13-12-2022_10-38-7.png,ear-nose-andthroat,2025-06-15 03:27:53
+Dr. Alvin Renaldo Sp. THT-KL,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Anantha Sena, Sp.THT-KL",Sp. THT,Mayapada Hospital Bogor,"Bogor Timur, Bogor",https://d1ojs48v3n42tp.cloudfront.net/personnels/113516_13-12-2022_12-56-14.png,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Andi Darwin, Sp.THT-KL",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",https://d1ojs48v3n42tp.cloudfront.net/personnels/420747_30-12-2022_10-48-41.png,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Anne Indrawati, Sp.THT-KL",Sp. THT,Siloam Hospitals Purwakarta,"Bungursari, Kabupaten Purwakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/623743_4-9-2020_14-49-56.png,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Antonius Harijanto Widjaja, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/794706_2-7-2021_9-11-48.png,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Arfan Noer, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/100692_4-4-2022_13-53-33.jpeg,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Armeilia A. Rachim, Sp.THT",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/326336_14-12-2022_13-20-21.jpeg,ear-nose-andthroat,2025-06-15 03:27:53
+"dr. Asbudi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/158522_22-6-2022_15-7-22.jpeg,ear-nose-andthroat,2025-06-15 03:27:56
+"dr. Asih Yuliati, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/169688_4-4-2022_13-54-3.jpeg,ear-nose-andthroat,2025-06-15 03:27:56
+"dr. Asih Yuliati, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cibubur,"Jatisampurna, Bekasi",,ear-nose-andthroat,2025-06-15 03:27:56
+"dr. Ayu Astria Sriyana, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/562147_4-4-2023_23-22-19.jpeg,ear-nose-andthroat,2025-06-15 03:27:56
+dr. Bagas Wicaksono Sp.THT-KL,Sp. THT,RSIA Kemang Medical Care,"Pasar Minggu, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:27:56
+Dr. Bambang Agus Soeseno Sp. THT,Sp. THT,RS Panti Wilasa Dr. Cipto,"Semarang Timur, Kota Semarang",,ear-nose-andthroat,2025-06-15 03:27:56
+"dr. Bambang Hari Santosa, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/458067_23-6-2022_15-30-5.jpeg,ear-nose-andthroat,2025-06-15 03:27:56
+dr Bambang Purwanto Sp THTKL,Sp. THT,RSIA Al Islam Bandung,"Cibeunying Kidul, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:27:56
+"dr. Bambang Sukmadi, Sp.THT-KL (K)",Sp. THT,RS Khusus THT Ciranjang,"Kebayoran Baru, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:27:56
+"dr. Benhard B. J. Panjaitan, Sp. THT",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/58180_15-11-2022_16-1-44.jpeg,ear-nose-andthroat,2025-06-15 03:27:56
+dr Budiman Gumilang Koerniawan Sp.THT,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:28:02
+Dr. Bunga Aline Ditha Sp.THT-BKL,Sp. THT,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/627679_22-4-2025_13-28-53.jpeg,ear-nose-andthroat,2025-06-15 03:28:02
+dr. Bustanul Ardianto Sp.THT-KL,Sp. THT,RSU Syubbanul Wathon,"Pakis, Kabupaten Magelang",https://d1ojs48v3n42tp.cloudfront.net/personnels/849660_27-9-2022_16-49-1.png,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Cherie Rahaju Hutama, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/517870_24-5-2022_17-12-4.jpeg,ear-nose-andthroat,2025-06-15 03:28:02
+dr. Christian Harry Suswidianto Sp. THT,Sp. THT,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Christopher Warouw, Sp. THT-KL",Sp. THT,Siloam Hospitals Bekasi Timur,"Bekasi Timur, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/555006_7-9-2022_16-18-30.jpeg,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Dadang Chandra, Sp.THT-KL",Sp. THT,Mayapada Hospital Bogor,"Bogor Timur, Bogor",https://d1ojs48v3n42tp.cloudfront.net/personnels/266073_13-12-2022_10-49-30.png,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Daniel Widjaja, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/729256_11-4-2022_10-56-43.jpeg,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Deasi Anggaini, Sp. THT",Sp. THT,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Deasi Anggraeni, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",https://d1ojs48v3n42tp.cloudfront.net/personnels/612612_27-9-2022_17-18-54.png,ear-nose-andthroat,2025-06-15 03:28:02
+"dr. Deksa Muhammad Nurfitrian Widiastu, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",https://d1ojs48v3n42tp.cloudfront.net/personnels/103396_14-12-2022_16-44-17.png,ear-nose-andthroat,2025-06-15 03:28:04
+"dr. Dendyanto Hamdali, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/232300_23-12-2022_15-32-37.png,ear-nose-andthroat,2025-06-15 03:28:04
+"dr. Denny P. Machmud, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/845419_24-3-2022_16-4-37.png,ear-nose-andthroat,2025-06-15 03:28:04
+Dr. Deong Kee Kong (Jonathan),Sp. THT,Penang Adventist Hospital,"Mampang Prapatan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:04
+dr. Dessy Ekayusnita Sp.THT-KL,Sp. THT,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:04
+"dr. Dhini Vien Arista, Sp.THT-KL",Sp. THT,Siloam Hospitals Bogor,"Bogor Tengah, Bogor",https://d1ojs48v3n42tp.cloudfront.net/personnels/438704_29-11-2022_16-6-22.png,ear-nose-andthroat,2025-06-15 03:28:04
+Dr. Dicky Nursyafri Sp. THT,Sp. THT,RS Permata Bekasi,"Mustika Jaya, Bekasi",,ear-nose-andthroat,2025-06-15 03:28:04
+"dr. Dimas Adi Patria , Sp.THT-BKL",Sp. THT,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/422060_7-5-2025_14-45-53.png,ear-nose-andthroat,2025-06-15 03:28:04
+"dr. Djuanri Thioritz, Sp.THT-KL",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",https://d1ojs48v3n42tp.cloudfront.net/personnels/289859_15-6-2022_16-58-52.jpeg,ear-nose-andthroat,2025-06-15 03:28:04
+"dr. Donald Marpaung, Sp.THT-KL",Sp. THT,Mayapada Hospital Jakarta Selatan,"Cilandak, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:04
+Dr Jonathan Deong Kee Kong,Sp. THT,Penang Adventist Hospital,"Mampang Prapatan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:07
+"dr. Dyah Ayu Kartika Dewanti, Sp.THT-KL., M.Sc",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/219036_11-6-2021_16-46-12.png,ear-nose-andthroat,2025-06-15 03:28:07
+dr. Dyah Indrasworo Sp.THT,Sp. THT,RS Panti Nirmala,"Kedungkandang, Kota Malang",,ear-nose-andthroat,2025-06-15 03:28:07
+"dr. Edward Limantara, Sp.THT",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/302982_20-7-2022_17-9-12.png,ear-nose-andthroat,2025-06-15 03:28:07
+dr. Edward Syah Putra Sembiring Sp. THT-KL,Sp. THT,Siloam Hospitals Cinere ( RS Khusus Jantung Diagram Depok),"Cinere, Depok",,ear-nose-andthroat,2025-06-15 03:28:07
+"dr. Eka Dian Safitri, Sp.THT-KL",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/617845_31-10-2022_16-22-20.jpeg,ear-nose-andthroat,2025-06-15 03:28:07
+"dr. Eko Teguh Prianto, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/889374_24-3-2022_16-8-24.jpeg,ear-nose-andthroat,2025-06-15 03:28:07
+Dr. Ervin Amouzegar Sp. THT,Sp. THT,RS Islam Jakarta Sukapura,"Cilincing, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:28:07
+"dr. Ervin Yamani Amouzegar, Sp.THTBKL,Subsp.Onk(K)",Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:28:07
+Dr. Eva Miranda Fitri Sp. THT,Sp. THT,RS Awal Bros Batam,"Lubuk Baja, Kota Batam",,ear-nose-andthroat,2025-06-15 03:28:07
+dr. Eveline Sabrina Ranti Sp THT,Sp. THT,RS Mulia Pajajaran,"Bogor Utara, Bogor",,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Fachri Hadjat, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/547910_22-6-2022_15-6-59.jpeg,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Fahmi Novel, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Tegal,"Tegal Barat, Kota Tegal",https://d1ojs48v3n42tp.cloudfront.net/personnels/84380_13-12-2022_15-52-7.png,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Fahmi Zaglulsyah, Sp.THT-KL",Sp. THT,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/560728_24-6-2022_17-58-20.jpeg,ear-nose-andthroat,2025-06-15 03:28:10
+Dr. Farid Wajdi Sp. THT,Sp. THT,RS Jasa Kartini,"Tawang, Kota Tasikmalaya",,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Farryanto Kusulistyo, SpTHT-KL",Sp. THT,RS Mitra Keluarga Pamulang,"Pamulang, Tangerang Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/368007_15-11-2022_15-56-15.jpeg,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Ferdinand, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Gading Serpong,"Pagedangan, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/244703_2-1-2023_13-54-27.png,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Ferdy Azman, Sp.THT-KL",Sp. THT,Siloam Hospitals Bekasi Sepanjang Jaya,"Rawalumbu, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/195431_1-10-2022_15-24-47.png,ear-nose-andthroat,2025-06-15 03:28:10
+"dr. Feri Danil , Sp.THT",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/718920_10-7-2024_15-4-34.jpeg,ear-nose-andthroat,2025-06-15 03:28:10
+Dr. Ferryan Sofyan Sp. THT BKL,Sp. THT,RSIA Stella Maris,"Medan Maimun, Kota Medan",,ear-nose-andthroat,2025-06-15 03:28:10
+dr. Fransiskus Harf Poluan SpTHT-KL,Sp. THT,Siloam Hospitals Mampang,"Pancoran, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Gerry Raymond Joviolo, Sp.THT-KL",Sp. THT,Siloam Hospitals Palangka Raya,"Pahandut, Kota Palangka Raya",https://d1ojs48v3n42tp.cloudfront.net/personnels/825949_14-12-2022_13-46-24.png,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Goesti Yudistira, Sp.THT-KL",Sp. THT,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Gunawan Effendi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/419166_21-12-2022_15-36-54.png,ear-nose-andthroat,2025-06-15 03:28:13
+dr. H. Yuswardi Affandi Sp. THT,Sp. THT,RS Dewi Sri,"Karawang Barat, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Hamida Hayati Faisal, Sp.THT-KL",Sp. THT,Siloam Hospitals ASRI,"Pancoran, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/680975_31-10-2022_14-28-48.jpeg,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Handoko Nugroho Yossarsongko, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/307322_28-12-2022_14-54-1.jpeg,ear-nose-andthroat,2025-06-15 03:28:13
+Prof. dr. Helmi Sp.THT (K),Sp. THT,RS Khusus Bedah SS Medika,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Hengki Wijaya Harto, Sp.THT-KL",Sp. THT,Siloam Hospitals Jember,"Kaliwates, Kabupaten Jember",https://d1ojs48v3n42tp.cloudfront.net/personnels/3506_28-3-2023_20-43-24.jpeg,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Heribertus Diwyacitra Aribawa, Sp.THT-BKL",Sp. THT,RS Azra,"Bogor Utara, Bogor",,ear-nose-andthroat,2025-06-15 03:28:13
+"dr. Herly Permadi Agoeng, Sp.THT-KL",Sp. THT,RS Bina Husada,"Cibinong, Kabupaten Bogor",https://d1ojs48v3n42tp.cloudfront.net/personnels/189131_13-12-2022_17-15-48.png,ear-nose-andthroat,2025-06-15 03:28:16
+"dr. Hermawan Surya Dharma, Sp.THT-KL",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/523067_29-11-2022_18-4-40.jpeg,ear-nose-andthroat,2025-06-15 03:28:16
+"dr. Heru Agus Santoso, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/330241_2-7-2021_9-20-49.png,ear-nose-andthroat,2025-06-15 03:28:16
+"dr. Hiro Salomo Mangape, Sp.THT-KL (KHUSUS PRAKTEK SORE",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",https://d1ojs48v3n42tp.cloudfront.net/personnels/539511_7-7-2022_11-46-47.png,ear-nose-andthroat,2025-06-15 03:28:16
+"dr. I Gede Endha Narendra, Sp.THT-KL",Sp. THT,Siloam Hospitals Denpasar,"Kuta, Kabupaten Badung",https://d1ojs48v3n42tp.cloudfront.net/personnels/273805_22-12-2022_2-50-32.png,ear-nose-andthroat,2025-06-15 03:28:16
+dr. I Gusti Ayu Trisna Dewi Sp.THT,Sp. THT,Kasih Ibu Hospital Saba,"Blahbatuh, Kabupaten Gianyar",,ear-nose-andthroat,2025-06-15 03:28:16
+"dr. I Wayan Lolik Lesmana, Sp.THT-KL, M.Biomed",Sp. THT,Siloam Hospitals Denpasar,"Kuta, Kabupaten Badung",https://d1ojs48v3n42tp.cloudfront.net/personnels/598634_31-10-2022_11-50-52.jpeg,ear-nose-andthroat,2025-06-15 03:28:16
+"dr. Ida Bagus Surya Putra Manuaba, Sp.THT-KL",Sp. THT,BIMC Hospitals Nusa Dua,"Kuta Selatan, Kabupaten Badung",https://d1ojs48v3n42tp.cloudfront.net/personnels/715797_31-10-2022_12-7-2.jpeg,ear-nose-andthroat,2025-06-15 03:28:16
+dr. Igler Togar Hubarat Sp.THT,Sp. THT,RS Santo Borromeus,"Coblong, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:28:16
+dr. Iman Pradana Maryadi Sp.THT-KL,Sp. THT,RS Khusus THT Ciranjang,"Kebayoran Baru, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:16
+dr. Johan J. Bernardus Sp THT,Sp. THT,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Johan Johannes Bernardus, Sp.THT",Sp. THT,RS Mitra Keluarga Depok,"Pancoran Mas, Depok",https://d1ojs48v3n42tp.cloudfront.net/personnels/393769_11-4-2022_12-48-4.jpeg,ear-nose-andthroat,2025-06-15 03:28:21
+dr. Juli Suryani Sp. THT,Sp. THT,RS Mitra Medika Amplas,"Medan Amplas, Kota Medan",,ear-nose-andthroat,2025-06-15 03:28:21
+dr. Kartika Maharani Sp.THT-BKL,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Khoirul Anam, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/32424_4-4-2023_23-24-24.jpeg,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Kholid Yusuf, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/76537_13-12-2022_17-10-2.png,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Kosasih Yusuf, Sp.THT",Sp. THT,RS Mitra Keluarga Bekasi,"Bekasi Selatan, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/863827_13-12-2022_16-21-52.png,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Kristiawan Abri Roosadi, Sp.THT",Sp. THT,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/675309_14-12-2022_16-19-5.png,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Kusmoro Yudho, Sp.THT-KL",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/252005_8-12-2022_13-17-22.png,ear-nose-andthroat,2025-06-15 03:28:21
+dr. Laksmi Kusuma Wardhani Sp.THT-KL.,Sp. THT,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",https://d1ojs48v3n42tp.cloudfront.net/personnels/567522_16-4-2025_13-49-10.png,ear-nose-andthroat,2025-06-15 03:28:21
+"dr. Leny Megahwati, Sp.THT",Sp. THT,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",https://d1ojs48v3n42tp.cloudfront.net/personnels/642886_14-12-2022_13-23-1.jpeg,ear-nose-andthroat,2025-06-15 03:28:24
+"dr. Lola Yucola, Sp.THT M.Kes",Sp. THT,RS Pondok Indah - Pondok Indah,"Kebayoran Lama, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:24
+"dr. Luh Putu Lusy Indrawati, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/75285_22-12-2022_17-30-39.png,ear-nose-andthroat,2025-06-15 03:28:24
+dr. Lusiana Herawati Yammin Sp. THT,Sp. THT,Siloam Hospitals Jambi,"Jambi Selatan, Kota Jambi",,ear-nose-andthroat,2025-06-15 03:28:24
+"dr. Lussie Rakhmawati, Sp.THT",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",https://d1ojs48v3n42tp.cloudfront.net/personnels/530251_2-7-2021_9-25-13.png,ear-nose-andthroat,2025-06-15 03:28:24
+dr. M AGUNG NUGROHO Sp.THT.KL,Sp. THT,RS Citra Sari Husada,"Klari, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:24
+dr. M AGUNG NUGROHO Sp. THT,Sp. THT,RS Citra Sari Husada,"Klari, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:24
+"dr. M AGUNG NUGROHO, SpTHT",Sp. THT,RS Citra Sari Husada,"Klari, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:24
+dr M GIMA FAIZAL GANI Sp.THT,Sp. THT,RS TMC,"Cihideung, Kota Tasikmalaya",,ear-nose-andthroat,2025-06-15 03:28:24
+dr. M. Fadil Rasad Sp.THT,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:28:24
+dr. Moh. Ibnu Malik Sp THT-KL,Sp. THT,RSI Siti Hajar Sidoarjo,"Sidoarjo, Kabupaten Sidoarjo",,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Mohamad Indra Sapta, Sp.THT-KL",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",https://d1ojs48v3n42tp.cloudfront.net/personnels/675256_19-5-2021_12-47-49.jpeg,ear-nose-andthroat,2025-06-15 03:28:29
+Dr. Mohammad Lukmanul Hakim Sp THT,Sp. THT,RS PMI Bogor,"Bogor Utara, Bogor",,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Mohammad Rizki Tri, Sp.THT-KL",Sp. THT,RS Bina Husada,"Cibinong, Kabupaten Bogor",https://d1ojs48v3n42tp.cloudfront.net/personnels/745844_19-1-2022_18-2-27.jpeg,ear-nose-andthroat,2025-06-15 03:28:29
+"Dr. dr. Muh. Fadjar Perkasa, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",https://d1ojs48v3n42tp.cloudfront.net/personnels/747442_15-6-2022_16-59-8.jpeg,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Muhammad Setiadi, Sp.THT-KL., M.Si.Med",Sp. THT,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",https://d1ojs48v3n42tp.cloudfront.net/personnels/829483_14-12-2022_13-16-27.png,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Nani Iriani Djufri, Sp.THT-KL (K), FICS",Sp. THT,Siloam Hospitals Makassar,"Ujung Pandang, Kota Makassar",https://d1ojs48v3n42tp.cloudfront.net/personnels/225229_15-6-2022_17-0-27.jpeg,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Niken Ageng Rizki, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/508933_24-3-2022_16-26-32.jpeg,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Nora A. L Pieter, Sp.T.H.T.K.L (K), FICS",Sp. THT,Klinik Ratulangi Medical Center,"Ujung Pandang, Kota Makassar",,ear-nose-andthroat,2025-06-15 03:28:29
+"dr. Noval Aldino, Sp.THT-KL",Sp. THT,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/633897_23-6-2023_15-19-40.png,ear-nose-andthroat,2025-06-15 03:28:29
+dr. Nugroho Sumarsono Sp. THT,Sp. THT,RS Katolik St. Vincentius a Paulo (RKZ),"Wonokromo, Kota Surabaya",,ear-nose-andthroat,2025-06-15 03:28:32
+"dr. Nunun Chatra Kristinae, Sp.THT-KL",Sp. THT,Siloam Hospitals Palangka Raya,"Pahandut, Kota Palangka Raya",https://d1ojs48v3n42tp.cloudfront.net/personnels/591359_30-6-2022_18-8-52.jpeg,ear-nose-andthroat,2025-06-15 03:28:32
+"dr. Nurul Endah Ardianti, Sp.THT-KL",Sp. THT,Siloam Hospitals Mataram,"Mataram, Kota Mataram",https://d1ojs48v3n42tp.cloudfront.net/personnels/763127_24-3-2023_15-25-25.jpeg,ear-nose-andthroat,2025-06-15 03:28:32
+"dr. Nuzwar Noer, Sp.THT",Sp. THT,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/648183_11-1-2023_16-1-37.png,ear-nose-andthroat,2025-06-15 03:28:32
+"Prof. dr. Nyilo Purnami, Sp.THT, Subsp.N.O(K)., FICS., FICM",Sp. THT,RS Darmo,"Tegalsari, Kota Surabaya",,ear-nose-andthroat,2025-06-15 03:28:32
+Nyoman Dian Permatasari M.Biomed.,Sp. THT,Bali Royal Hospital,"Denpasar Timur, Kota Denpasar",,ear-nose-andthroat,2025-06-15 03:28:32
+dr. Odhi Anggani Sp.THT-KL,Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/70865_29-11-2022_16-10-10.png,ear-nose-andthroat,2025-06-15 03:28:32
+"dr. Okti Trihandani, Sp.THT-KL",Sp. THT,Siloam Hospitals Dhirga Surya Medan,"Medan Petisah, Kota Medan",https://d1ojs48v3n42tp.cloudfront.net/personnels/128558_23-5-2022_12-57-54.jpeg,ear-nose-andthroat,2025-06-15 03:28:32
+"dr. Olivia Claudia Pingkan Pelealu, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Manado,"Wenang, Kota Manado",https://d1ojs48v3n42tp.cloudfront.net/personnels/56553_22-12-2022_3-16-49.png,ear-nose-andthroat,2025-06-15 03:28:32
+dr Olivia Desiana Santoso Sp THT,Sp. THT,Ciputra Medical Center,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:32
+"dr. Ong Awarudin, Sp.THT-KL",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/155737_13-12-2022_10-54-17.png,ear-nose-andthroat,2025-06-15 03:28:35
+"dr. Pahmi Budiman Saputra Basyir, Sp.THT-KL",Sp. THT,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",https://d1ojs48v3n42tp.cloudfront.net/personnels/237874_20-9-2022_11-1-39.png,ear-nose-andthroat,2025-06-15 03:28:35
+dr. Paulus Pramudianto Sp.THT-KL,Sp. THT,Siloam Hospitals Labuan Bajo,"Komodo, Kabupaten Manggarai Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/579475_22-12-2022_17-3-15.png,ear-nose-andthroat,2025-06-15 03:28:35
+"dr. Pramusinto Adhy, Sp.THT-KL",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",https://d1ojs48v3n42tp.cloudfront.net/personnels/316429_18-5-2021_13-19-33.png,ear-nose-andthroat,2025-06-15 03:28:35
+"Prof. Dr. dr. Achmad Chusnu Romdhoni, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",,ear-nose-andthroat,2025-06-15 03:28:35
+"Prof. Dr. dr. Widodo Ario Kentjono,SpTHT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",,ear-nose-andthroat,2025-06-15 03:28:35
+dr Puji Kurniawan Sp. THT-KL,Sp. THT,RS Delta Surya,"Sidoarjo, Kabupaten Sidoarjo",,ear-nose-andthroat,2025-06-15 03:28:35
+"dr. Pulo Raja Soaloon Banjarnahor, Sp.THT",Sp. THT,RS Mitra Keluarga Kalideres,"Kalideres, Jakarta Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/678474_14-12-2022_14-22-57.jpeg,ear-nose-andthroat,2025-06-15 03:28:35
+"dr. Putri Anugrah Rizki, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Bintaro,"Pondok Aren, Tangerang Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/493042_4-4-2022_14-41-26.png,ear-nose-andthroat,2025-06-15 03:28:35
+dr Putri Mulyati Sp. THT -BKL,Sp. THT,RS Mitra Keluarga Kelapa Gading,"Kelapa Gading, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:28:35
+"dr. Putu Dewi Pramusita, Sp.THT-KL",Sp. THT,BIMC Hospitals Kuta,"Kuta, Kabupaten Badung",https://d1ojs48v3n42tp.cloudfront.net/personnels/51778_31-10-2022_11-8-30.png,ear-nose-andthroat,2025-06-15 03:28:38
+Dr. dr. RM. Tedjo Oedono Sp.THT-KL (K),Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/380781_23-12-2022_12-11-20.jpeg,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Ratna Kurniasari, Sp.THT-KL",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",https://d1ojs48v3n42tp.cloudfront.net/personnels/206853_22-12-2022_17-53-51.jpeg,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Reno Hardoyo Kelan, Sp.THT",Sp. THT,Siloam Hospitals Lippo Village,"Kelapa Dua, Kabupaten Tangerang",https://d1ojs48v3n42tp.cloudfront.net/personnels/91136_25-3-2022_8-55-56.png,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Respati W. Ranakusuma, SP.THT-KL",Sp. THT,RS Antam Medika,"Pulo Gadung, Jakarta Timur",,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Retno Praptaningsih, Sp.THT-KL",Sp. THT,Siloam Hospitals Semarang,"Semarang Selatan, Kota Semarang",https://d1ojs48v3n42tp.cloudfront.net/personnels/644720_22-12-2022_16-56-1.png,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Reza Firmansah , Sp.THT-KL",Sp. THT,RS Mitra Keluarga Grand Wisata,"Tambun Selatan, Kabupaten Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/628541_10-3-2025_13-44-46.jpeg,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Rini Arniasa Rahayu, Sp.THT-KL",Sp. THT,RS Delta Surya,"Sidoarjo, Kabupaten Sidoarjo",,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Rizka Fathoni Perdana, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/150037_20-7-2022_16-47-20.png,ear-nose-andthroat,2025-06-15 03:28:38
+"dr Robert Mars, SpTHT-BKL",Sp. THT,RS Murni Teguh Sudirman Jakarta,"Tanah Abang, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:28:38
+"dr. Ronaldi Kurniawan Jusri, Sp.THT",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",https://d1ojs48v3n42tp.cloudfront.net/personnels/794390_22-12-2022_17-26-45.jpeg,ear-nose-andthroat,2025-06-15 03:28:41
+"dr. Roni Januardi, Sp.THT-KL",Sp. THT,Siloam Hospitals Bangka,"Pangkalan Baru,  Kabupaten Bangka Tengah",https://d1ojs48v3n42tp.cloudfront.net/personnels/823225_30-6-2022_15-1-8.jpeg,ear-nose-andthroat,2025-06-15 03:28:41
+"dr. Ropi Affandi, Sp.THT-KL",Sp. THT,Siloam Hospitals Sriwijaya Palembang,"Ilir Barat I, Kota Palembang",https://d1ojs48v3n42tp.cloudfront.net/personnels/32136_14-12-2022_13-22-51.png,ear-nose-andthroat,2025-06-15 03:28:41
+dr. Rosa Falerina Sp.THT-KL (K),Sp. THT,National Hospital,"Wiyung, Kota Surabaya",,ear-nose-andthroat,2025-06-15 03:28:41
+dr. Rosa Putrie Andriya Sp. THT.KL,Sp. THT,RS Telogorejo,"Semarang Tengah, Kota Semarang",,ear-nose-andthroat,2025-06-15 03:28:41
+dr. Rosa Putrie Anindya SP THT - KL,Sp. THT,RS Telogorejo,"Semarang Tengah, Kota Semarang",,ear-nose-andthroat,2025-06-15 03:28:41
+dr. Rosa Putrie Anindya Sp THT - KL,Sp. THT,RS Telogorejo,"Semarang Tengah, Kota Semarang",,ear-nose-andthroat,2025-06-15 03:28:41
+"dr. Rosydiah Rahmawati, Sp.THT-KL (K)",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/785574_20-7-2022_17-7-1.png,ear-nose-andthroat,2025-06-15 03:28:41
+"dr. Rudy Managuan Hutagaol, Sp.THT",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/727528_13-12-2022_14-18-5.png,ear-nose-andthroat,2025-06-15 03:28:41
+"dr. Sakina Umar, Sp.THT-KL",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/831971_30-6-2022_17-7-19.jpeg,ear-nose-andthroat,2025-06-15 03:28:41
+"dr. Selfiyanti Bimantara, Sp.THT-KL",Sp. THT,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/75623_24-6-2022_18-15-25.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Selvina Maryones Rossary, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Bekasi Timur,"Bekasi Timur, Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/851439_14-12-2022_13-52-58.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Sesanti Hayuning Tyas, Sp.THT-KL",Sp. THT,Siloam Hospitals TB Simatupang,"Cilandak, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/737475_24-6-2022_18-15-44.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Soeprijadi, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/421840_29-11-2022_17-11-21.png,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Sosialisman, Sp.THT-KL (K)",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/813345_22-6-2022_15-7-11.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Sri Winarti, Sp.THT-KL., M.Kes",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/609016_20-7-2022_17-21-30.png,ear-nose-andthroat,2025-06-15 03:28:45
+dr. Steffi Kurniawan Sp.THT-KL,Sp. THT,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/884745_29-11-2022_14-34-42.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Stephani Linggawan, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Kenjeran,"Mulyorejo, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/3270_21-12-2022_15-29-49.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Sulantari, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Surabaya,"Sukomanunggal, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/890634_17-7-2024_17-15-24.jpeg,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Suranto Gitowirjono, Sp.THT",Sp. THT,RS Mitra Keluarga Kemayoran,"Kemayoran, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/375388_14-12-2022_14-47-10.png,ear-nose-andthroat,2025-06-15 03:28:45
+"dr. Tadjukddin Alhadawy, Sp.THT",Sp. THT,RSK THT - Bedah KL Proklamasi BSD,"Serpong, Tangerang Selatan",,ear-nose-andthroat,2025-06-15 03:28:48
+dr. Tantri K Sp. THT KL,Sp. THT,RS Lira Medika,"Karawang Timur, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:48
+"dr. Tiara Destafia Sp,THT-KL",Sp. THT,RS Anugerah Bunda Khatulistiwa,"Pontianak Tenggara, Kota Pontianak",,ear-nose-andthroat,2025-06-15 03:28:48
+"dr. Tiara Melati, Sp.THT-KL",Sp. THT,Mayapada Hospital Kuningan,"Setiabudi, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/656914_13-6-2022_14-46-9.jpeg,ear-nose-andthroat,2025-06-15 03:28:48
+"dr. Tienneke Saboe, Sp.THT-KL",Sp. THT,Mayapada Hospital Bogor,"Bogor Timur, Bogor",https://d1ojs48v3n42tp.cloudfront.net/personnels/836530_13-12-2022_13-14-26.png,ear-nose-andthroat,2025-06-15 03:28:48
+"dr. Tri Hedianto, THT-BKL",Sp. THT,RS Mitra Keluarga Pondok Tjandra,"Waru, Kabupaten Sidoarjo",https://d1ojs48v3n42tp.cloudfront.net/personnels/424852_19-6-2024_13-39-10.jpeg,ear-nose-andthroat,2025-06-15 03:28:48
+dr Venny Tursani Sarumpaet Sp. THT,Sp. THT,RS Dera As-Syifa,"Banjarharjo, Kabupaten Brebes",,ear-nose-andthroat,2025-06-15 03:28:48
+dr. Venny Tursani Sarumpaet Sp. THT,Sp. THT,RS Dera As-Syifa,"Banjarharjo, Kabupaten Brebes",,ear-nose-andthroat,2025-06-15 03:28:48
+Dr. Vita kasnawijaya Sp. THT,Sp. THT,RS Taman Harapan Baru,"Medan Satria, Bekasi",,ear-nose-andthroat,2025-06-15 03:28:48
+dr. Vitta Kusmawijaya Sp. THT,Sp. THT,RS Taman Harapan Baru,"Medan Satria, Bekasi",,ear-nose-andthroat,2025-06-15 03:28:48
+"dr. Wiro Anton Sumilat, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Cikarang,"Cikarang Utara, Kabupaten Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/114355_21-2-2023_19-20-22.jpeg,ear-nose-andthroat,2025-06-15 03:28:55
+"dr. Wiyono Hadi, Sp.THT-KL",Sp. THT,RS Mitra Keluarga Waru,"Waru, Kabupaten Sidoarjo",https://d1ojs48v3n42tp.cloudfront.net/personnels/838113_14-12-2022_16-21-57.png,ear-nose-andthroat,2025-06-15 03:28:55
+"DR. YONANDA ADI PRATAMA, SP.THT",Sp. THT,RS AR Bunda Prabumulih,"Prabumulih Timur, Kota Prabumulih",,ear-nose-andthroat,2025-06-15 03:28:55
+"dr. Yadita Wira Pasra, Sp.THT-KL",Sp. THT,Siloam Hospitals Kebon Jeruk,"Kebon Jeruk, Jakarta Barat",https://d1ojs48v3n42tp.cloudfront.net/personnels/100278_22-6-2022_15-7-31.jpeg,ear-nose-andthroat,2025-06-15 03:28:55
+"dr. Yan Edwin Bunde, (KHUSUS PRAKTEK SORE) Sp.THT-KL, MH.Kes",Sp. THT,RS Immanuel,"Bojongloa Kidul, Kota Bandung",https://d1ojs48v3n42tp.cloudfront.net/personnels/303933_6-12-2022_16-58-11.png,ear-nose-andthroat,2025-06-15 03:28:55
+dr. Yaswandi Affandi Sp. THT - KL,Sp. THT,Mandaya Hospital Karawang,"Telukjambe Timur, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:55
+"dr. Yohanes Runtung, Sp.THT-KL",Sp. THT,Siloam Hospitals Lippo Cikarang,"Cikarang Selatan, Kabupaten Bekasi",https://d1ojs48v3n42tp.cloudfront.net/personnels/707869_1-4-2022_17-15-25.png,ear-nose-andthroat,2025-06-15 03:28:55
+dr. YohanesYan Runtung Sp. THT,Sp. THT,RS Pelabuhan Jakarta Utara,"Koja, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:28:55
+"dr. Yohanis Yan Runtung, Sp.THT-KL",Sp. THT,Siloam Hospitals Agora,"Cempaka Putih, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/570561_15-11-2022_15-50-7.jpeg,ear-nose-andthroat,2025-06-15 03:28:55
+dr Yohanis Yan Rutungan Sp. THT,Sp. THT,RS Pelabuhan Jakarta Utara,"Koja, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:28:55
+"dr. Yosa Meyla Puar, Sp.THT",Sp. THT,Eka Hospital Bekasi,"Tarumajaya, Kabupaten Bekasi",,ear-nose-andthroat,2025-06-15 03:28:59
+Dr. Yosi Oktarina Sp. THT,Sp. THT,Alia Hospital Depok,"Pancoran Mas, Depok",,ear-nose-andthroat,2025-06-15 03:28:59
+"dr. Yuan Ariawan Kusuma, Sp.THT-KL",Sp. THT,Siloam Hospitals Surabaya,"Gubeng, Kota Surabaya",https://d1ojs48v3n42tp.cloudfront.net/personnels/216721_14-12-2022_15-41-54.png,ear-nose-andthroat,2025-06-15 03:28:59
+"Dr. Yulialdi Bimanto Heriyanto Putra, SpTHT",Sp. THT,RS Mitra Plumbon Cibitung,"Cibitung, Kabupaten Bekasi",,ear-nose-andthroat,2025-06-15 03:28:59
+dr. Yunandi Alfandi Sp. THT-KL,Sp. THT,Mandaya Hospital Karawang,"Telukjambe Timur, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:28:59
+"dr. Yurni, Sp.THT-KL",Sp. THT,Siloam Hospitals Silampari (Lubuk Linggau),"Lubuk Linggau Timur I, Kota Lubuk Linggau",https://d1ojs48v3n42tp.cloudfront.net/personnels/26538_2-7-2022_19-33-50.jpeg,ear-nose-andthroat,2025-06-15 03:28:59
+"DR. Dr. Yussy Afriani Dewi, M.Kes, Sp.THT-KL(K), FICS",Sp. THT,Mayapada Hospital Bandung,"Bandung Kidul, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:28:59
+dr. Zainal Adhim Sp. THT,Sp. THT,RS Pondok Indah - Pondok Indah,"Kebayoran Lama, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:59
+"dr. Zanil Musa, Sp. THT - KL (K)",Sp. THT,RS Khusus THT Ciranjang,"Kebayoran Baru, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:28:59
+dr. Zulkarnain Hidayat Sp.THT-KL,Sp. THT,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",,ear-nose-andthroat,2025-06-15 03:28:59
+"dr. Zulkarnain Hidayat, Sp.THT-KL",Sp. THT,Siloam Hospitals Putera Bahagia Cirebon,"Harjamukti, Kota Cirebon",https://d1ojs48v3n42tp.cloudfront.net/personnels/214231_22-12-2022_3-20-8.png,ear-nose-andthroat,2025-06-15 03:29:03
+"dr Zulrafli, Sp.THT-KL",Sp. THT,RS Bayukarta,"Karawang Barat, Kabupaten Karawang",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Abdul Rahman, Sp.THT",Sp. THT,RS Bella,"Bekasi Timur, Bekasi",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Aji Kusuma, SpTHT-BKL",Sp. THT,RS. Hamori,"Pagaden, Kabupaten Subang",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Asti Kristiani, Sp.THT",Sp. THT,Klinik Jaya Abadi,"Lengkong, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Bambang Sudiratama, Sp.THT",Sp. THT,RS Allam Medica,"Bumiayu, Kabupaten Brebes",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Bondn Herwindo, SpTHT-KL",Sp. THT,RSIA Kemang Medical Care,"Pasar Minggu, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Budi Santoso, Sp.THT-KL",Sp. THT,RSIA Tumbuh Kembang,"Cimanggis, Depok",,ear-nose-andthroat,2025-06-15 03:29:03
+dr. Dewi Pratiwi Sp. THT,Sp. THT,RS dr. OEN Kandang Sapi Solo,"Jebres, Kota Surakarta",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Didin Komarudin Hidayat, SpTHTKL, Mkes",Sp. THT,RSPKT Prima Sangatta,"Sangatta Utara, Kabupaten Kutai Timur",,ear-nose-andthroat,2025-06-15 03:29:03
+"dr. Endang Puspitowati, Sp.THT",Sp. THT,RS Petrokimia Gresik,"Gresik, Kabupaten Gresik",,ear-nose-andthroat,2025-06-15 03:29:06
+Dr. dr. Fikri Mirza Putraito Sp.THT,Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. Ines Camilla Putri, Sp.THT-BKL",Sp. THT,RS Syarif Hidayatullah,"Ciputat Timur, Tangerang Selatan",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. Khaeruddin, Sp.THT",Sp. THT,RS Otak & Jantung Pertamina Royal Biringkanaya,"Biringkanaya, Kota Makassar",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. Krisna Dini S, Sp.THT-KL",Sp. THT,RSIA Cahaya Bunda,"Kesambi, Kota Cirebon",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. Lely Mariana Wdjaya, SpTHT-KL",Sp. THT,RSK THT - Bedah KL Proklamasi BSD,"Serpong, Tangerang Selatan",,ear-nose-andthroat,2025-06-15 03:29:06
+dr. Lia Natalia Sp. THT,Sp. THT,Tzu Chi Hospital,"Penjaringan, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. M. Tauhid, SpTHT",Sp. THT,RS Permata Jonggol,"Jonggol, Kabupaten Bogor",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. M. Tri. Andhika, SpTHT",Sp. THT,RS Khusus Bedah SS Medika,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:06
+"dr. Mochamad Iqbal, Sp.THT, BKL",Sp. THT,RSK THT - Bedah Proklamasi,"Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:06
+Dr. dr. Nova Pleter Sp THT,Sp. THT,Klinik Ratulangi Medical Center,"Ujung Pandang, Kota Makassar",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Odhi Anggani, SpTHT-KL",Sp. THT,Siloam Hospitals Yogyakarta,"Gondokusuman, Kota Yogyakarta",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Ratna Sari, Sp.THT",Sp. THT,RSU St. Elisabeth Purwokerto,"Purwokerto Timur, Kabupaten Banyumas",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Ricky Yue, Sp.THT",Sp. THT,RS Pondok Indah - Puri Indah,"Kembangan, Jakarta Barat",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Shally Adhina Putri, Sp.THT-KL",Sp. THT,RS Khusus Bedah SS Medika,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Sita Asri, Sp.THT",Sp. THT,RS Puri Cinere,"Cinere, Depok",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Sri Susilawati, Sp.THT-KL",Sp. THT,Mayapada Hospital Tangerang,"Tangerang, Tangerang",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Stephani Linggawan, Sp.THT-KL",Sp. THT,RS Adi Husada Undaan Wetan,"Genteng, Kota Surabaya",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Trisa Gustania,Sp.THT",Sp. THT,RS Bhakti Yudha,"Pancoran Mas, Depok",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Victor Kristanto, Sp.THT- BKL",Sp. THT,RS Mitra Sehat Medika,"Pandaan, Kabupaten Pasuruan",,ear-nose-andthroat,2025-06-15 03:29:09
+"dr. Yuwan Pradana, Sp.THT-KL",Sp. THT,RS Restu Ibu Balikpapan,"Balikpapan Tengah, Kota Balikpapan",,ear-nose-andthroat,2025-06-15 03:29:12
+"dr. Zainal Adhim, Sp.THT-KL",Sp. THT,RS Pondok Indah - Pondok Indah,"Kebayoran Lama, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+"dr.Alfian, Sp.THT-KL",Sp. THT,RS PIK,"Penjaringan, Jakarta Utara",,ear-nose-andthroat,2025-06-15 03:29:12
+"dr.Sofia Tiarini, Sp.THT",Sp. THT,RS Semen Gresik,"Gresik, Kabupaten Gresik",,ear-nose-andthroat,2025-06-15 03:29:12
+"(dr. Stivina Azrial, 05/05/2025 KL1 Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+dr. Abdul Rachman Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+Dr. Aditiya Yuda Perkasa Alam Simbolon Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+"Dr. Aditya Leonard Tandio MPH, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+Dr. Adya Arradikha Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+dr. Adya arradhika Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:12
+Dr. Agriyana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+Dr. Agustinus Betha Devito Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+"dr. Agustinus Sony Yudianto, Sp.THT-KL",Sp. THT,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",https://d1ojs48v3n42tp.cloudfront.net/personnels/675522_22-12-2022_17-50-19.png,ear-nose-andthroat,2025-06-15 03:29:15
+Dr. Aksimitayani Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+"Dr. Alfira Ulfa Sp.THT-BKL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+dr. Amanda A. T Siagian . SpTHT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+"dr. Amelia Dian Utami, SpTHT",Sp. THT,KLINIK SYAMSINAR MAROS,"Bontoa, Kabupaten Maros",,ear-nose-andthroat,2025-06-15 03:29:15
+"Dr. Amrollah Latupono Sp.THT-BKL, MARS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+Dr. Andil Mulya Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:15
+"dr. Andil Mulya, SpTHT",Sp. THT,RUMAH SAKIT UMUM CEMPAKA LIMA,"Kuta Alam, Kota Banda Aceh",,ear-nose-andthroat,2025-06-15 03:29:15
+Dr. Anggie Mutmainnah Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+"dr. Angie Renatha, SpTHT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+Dr. Anton Hilman Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+Dr. Arif Surgana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+Dr. Aryo Mandraguna W Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+dr. Asnomi Nanda SP. THT,Sp. THT,RSAU Dr. Esnawan Antariksa,"Makasar, Jakarta Timur",,ear-nose-andthroat,2025-06-15 03:29:18
+dr. Ayunita Tri Wirattami Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+dr. Aziza Viquisa Berliana Putri Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+"Dr. Azmeilia Syafitri Lubis Sp.THT-BKL,M.Ked(ORL-HNS)",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+dr Bagus Harning Efrianto Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:18
+"Prof. dr. Bambang Hermani, Sp.THT-KL(K)",Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/620124_20-6-2023_14-40-36.png,ear-nose-andthroat,2025-06-15 03:29:21
+"dr. Bastu Edo Sp.THT-KL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+"dr. Carlo Maulana Akbar M.Ked(ORL-HNS), Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+"Dr. Cut Elvira Novita M.Ked(ORL-HNS),Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+DATUK DR KULJIT SINGH,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+dr. Daniel Abdi Wicaksana Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+Dr. Darmayanti Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+"dr. Deden Wahnadian Sobarna M.Kes, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",https://d1ojs48v3n42tp.cloudfront.net/personnels/93956_6-12-2022_16-28-52.png,ear-nose-andthroat,2025-06-15 03:29:21
+Dr. Delva Swanda Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+Dr. Deni Harapan Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:21
+Dr. Denis Anugrah O Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:23
+Dr. Dewi Gemala Wahab Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:23
+Dr. Dewi Susilowati Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:23
+Dr. Dewi Yulianti Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:23
+Dr. Dewi Yulianti Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:23
+Dr. Dhini Vien Arista Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:23
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:23
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:23
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:23
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:23
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:26
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:26
+dr. Dina Putri Nasution Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:26
+"dr. Dina Putri, Sp.THT-KL",Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/414331_20-6-2023_14-36-17.png,ear-nose-andthroat,2025-06-15 03:29:26
+dr. Dini Anggreini Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:26
+Dr. Dini Novianti Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:26
+Dr. H. Donny Hendriyanto Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:26
+Dr Didin Komarudin Hdayat Sp.THT,Sp. THT,RS Pupuk Kaltim Prima Sangatta,"Sangatta Utara, Kabupaten Kutai Timur",,ear-nose-andthroat,2025-06-15 03:29:26
+Dr. Zuraidah Nasution Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:26
+DR. EE YUIN SU,Sp. THT,Praktek dokter.,"Bukit Raya, Kota Pekanbaru",,ear-nose-andthroat,2025-06-15 03:29:26
+Dr. Edward S. P. Sembiring Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+dr. Eka Putra Setiawan Sp. THT,Sp. THT,"Praktek Dr.DG.Arta Eka Putra Sp, THT","Denpasar Selatan, Kota Denpasar",,ear-nose-andthroat,2025-06-15 03:29:28
+Dr. Eka Utami Makmur Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+"Dr. Emil Kardani Murdiyanto Sp.THT-BKL, M.Biomed",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+Dr. Endah Setiani Triastuti Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+dr Endang Suherlan Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+"dr. Erica Lukman, Sp.THT-KL",Sp. THT,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",https://d1ojs48v3n42tp.cloudfront.net/personnels/776890_8-12-2022_14-33-33.png,ear-nose-andthroat,2025-06-15 03:29:28
+Dr. Erlina Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+Dr. Erna M. Marbun Sp.THT,Sp. THT,Klinik dr Erna S,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:28
+"dr. Erwinantyo B, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:28
+Dr. Eunike Lay Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:31
+Dr. Eva Susanti Sp. THT,Sp. THT,dr. Eva Susanti SpTHT,"Cempaka Putih, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:31
+Dr. Eva Susanti Sp. THT,Sp. THT,APOTEK KIMIA FARMA JUANDA,"Samarinda Ulu, Kota Samarinda",,ear-nose-andthroat,2025-06-15 03:29:31
+dr. Fahmi Attaufany Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:31
+dr. Fahmi Attaufany Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:31
+dr. Fahmi Novel,Sp. THT,Klinik Utama Dipta,"Cempaka Putih, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:31
+Dr. Fairuz Balfas Sp. THT,Sp. THT,Apotek K24,"Banjarbaru Selatan, Kota Banjarbaru",,ear-nose-andthroat,2025-06-15 03:29:31
+"dr. Fairuz, SP.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:31
+"dr. Fajar Ramadhan Irsyal, Sp.THT",Sp. THT,Apotek Aji Waras Cipete,"Cilandak, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:31
+Dr. Fany Dyah Rahmawati Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:31
+dr. Febri Arianto Bayu Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+Dr. Ferawati Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+Dr. Feri Trihandoko Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+"Dr. Fezzan Athama Fuadi Sp.THT-BKL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+dr. Fikri Mirza Putranto Sp. THT-KL (K),Sp. THT,RSIJ Cempaka Putih,"Cempaka Putih, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:34
+dr. Fikry Hamdan Yasin Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+dr. Fikry Hamdan Yasin Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+Dr. Finna Christianty Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+Dr. Fiqih Fakhriana Kartini Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+Dr. Fira Sofia Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:34
+Dr. Foppi Puspitasari Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:36
+dr. Friska Meutia Lubis Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:36
+dr. Genggam Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:36
+"dr. Gunawan Kurnaedi, Sp.THT-KL",Sp. THT,"dr. Gunawan Effendi, Sp.THT-KL","Tarogong Kidul, Kabupaten Garut",,ear-nose-andthroat,2025-06-15 03:29:36
+"dr. Guntur Bayu Bima Pratama, SpTHT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:36
+"dr. H. Bogi Seoseno, Sp.THT-KL",Sp. THT,Apotek Bona Farma,"Cidadap, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:29:36
+"Prof. Dr. Dr. H. Iwin Sumarman, Sp THT-KL",Sp. THT,"Praktek Dokter Prof. Dr. Dr. H. Iwin Sumarman, Sp THT-KL","Bandung Wetan, Kota Bandung",,ear-nose-andthroat,2025-06-15 03:29:36
+Dr. Hana Listyani Koentjoro Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:36
+dr. Hana Listyani Koentjoro Sp.THT-KL,Sp. THT,APOTIK SUMBER REZEKI FARMA,"Kebayoran Lama, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:36
+Dr. Hanski R.P Legranssp Sp. THT,Sp. THT,KLINIK KIMIA FARMA KOTAMOBAGU,"Kotamobagu Barat, Kota Kotamobagu",,ear-nose-andthroat,2025-06-15 03:29:36
+Dr. Hari Pranoto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+Dr. Harry Munggaran K. Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+dr. Hartati Kusumawardani Sp.THT,Sp. THT,dr Hartati Kusumawardhani SpTHT,"Cempaka Putih, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:39
+dr Hartati Kusumawardani Sp.THT,Sp. THT,APOTEK JAYA,"Banjarmasin Barat, Kota Banjarmasin",,ear-nose-andthroat,2025-06-15 03:29:39
+Dr. Hasnan Habib Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+Prof. dr. Helmi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+Dr. Helta Tandi Sarira Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+Dr. Herdiansyah Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+Dr. Hj Arina Ikasari Muhtadi Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:39
+"dr. Hj. Selvie Sira, Sp.THT",Sp. THT,Apotek Kimia Farma Antasari,"Samarinda Ulu, Kota Samarinda",,ear-nose-andthroat,2025-06-15 03:29:39
+Dr. Hj. Sri Sophia Wahyuni Sp.THT,Sp. THT,Klinik Medika Farma,"Plumbon, Kabupaten Cirebon",,ear-nose-andthroat,2025-06-15 03:29:41
+dr. I Dewa Made Sudiatmika Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+Dr. I Gede Wahyu Adi Raditya Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+Dr. I Made Rai Wiryadi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+Dr. I Nyoman Swardyana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+dr. I. Radian Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+Dr. I.B. Yudi Madiawan Sp. THT,Sp. THT,APOTEK INA FARMA,"Denpasar Barat, Kota Denpasar",,ear-nose-andthroat,2025-06-15 03:29:41
+"dr. Ichsan Juliansyah Juanda, Sp.THT-KL",Sp. THT,RSUD AL IHSAN,"Baleendah, Kabupaten Bandung",,ear-nose-andthroat,2025-06-15 03:29:41
+Dr. Ida Ayu Citra Pratiwi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+Dr. Idola Pratiwi Harianja Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:41
+dr. Indah Saraswati Sp. THT,Sp. THT,RS Simulasi Halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:43
+dr. Indra Irawan Sp.THT,Sp. THT,RSUD dr. soetijono Blora,"Kota Blora, Kabupaten Blora",,ear-nose-andthroat,2025-06-15 03:29:43
+Dr. Indra Setiawan Sp.THT-KL(K),Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:43
+dr. Ira Agustine Mutiara Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:43
+dr Iskandar Z Sp. THT,Sp. THT,RS Islam PKU Muhammadiyah Pekajangan Pekalongan,"Kedungwuni, Kabupaten Pekalongan",,ear-nose-andthroat,2025-06-15 03:29:43
+Dr. Ivana Supit Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:43
+Dr. Jarod Wahyu Kristiyanto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:43
+"dr. Jerry Tobing , MKED (ORL-HNS), Sp THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:43
+dr. Johnny Harijanto Sp.THT,Sp. THT,Dr. Johnny Harjanto Sp THT KL,"Papar, Kabupaten Kediri",,ear-nose-andthroat,2025-06-15 03:29:43
+dr. Johnny Harijanto Sp. THT,Sp. THT,Dr. Johnny Harjanto Sp THT KL,"Papar, Kabupaten Kediri",,ear-nose-andthroat,2025-06-15 03:29:43
+dr. Johnny Harjanto Sp THT KL,Sp. THT,Dr. Johnny Harjanto Sp THT KL,"Papar, Kabupaten Kediri",,ear-nose-andthroat,2025-06-15 03:29:46
+"dr. Johnny Harjanto, Sp. THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+Dr. Julian Hartawan Wijaya Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+"dr. Junicko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+"dr. Junicko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+"dr. Junicko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+dr. Junico Stefanus Anargya Sp.THT,Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+"dr. Juriko Sacrifian Anoraga, Sp.THT-KL",Sp. THT,RS Dr Suyoto,"Pesanggrahan, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+Dr. Kadek Agustina Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+"Dr. Karina Witary Ayu Siagian Sp.THT-KL, M.Kes",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:46
+Dr. Ketut Tadeus Pinatih Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+Dr. Khoirul A. Iriantoro Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+Dr. Kurniawaty Hesli Pratiwi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+"Dr. Laksito Wening Sp.THT-KL, M.Kes",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+dr. Legawati Sihingo-Ringo Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+Dr. Leny Megawati Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+Dr Long Chin Wan,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+dr. Lorensia Fitra Dwita Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+Dr. Luh Astriani Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+Dr. Luh Putu Happy Sandha Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:48
+"Dr. Luh Witari Indrayani M.Biomed, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:51
+"dr. M Budi Caecarian Lubis, M.Ked (ORL-HNS), Sp. THT-KL",Sp. THT,"Logo Penjual Praktek THT dr M Budi Caecarian Lubis, M.Ked (ORL-HNS), Sp. THT-KL","Bekasi Selatan, Bekasi",,ear-nose-andthroat,2025-06-15 03:29:51
+Dr. M Destrian Cossandra Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:51
+dr. M. Budi C. Lubis Sp. THT-KL,Sp. THT,"Praktek THT dr M Budi Caecarian Lubis, M.Ked (ORL-HNS), Sp. THT-KL","Bekasi Selatan, Bekasi",,ear-nose-andthroat,2025-06-15 03:29:51
+Dr. M. Fachreza Saputra Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:51
+dr. M. Gima Faizal Gani Sp.THT,Sp. THT,Apotik Idaman,"Taraju, Kabupaten Tasikmalaya",,ear-nose-andthroat,2025-06-15 03:29:51
+Dr. Made Prani Windasari Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:51
+Dr. Made Rara Rusmala Dewi M. Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:51
+"dr. Maesyara Adinda Sari M.Ked(ORL-HNS), Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:51
+"dr. Maranatha Lumban Batu, Sp.THT-KL",Sp. THT,Siloam Hospitals Balikpapan,"Balikpapan Selatan, Kota Balikpapan",https://d1ojs48v3n42tp.cloudfront.net/personnels/419264_26-12-2022_14-49-25.png,ear-nose-andthroat,2025-06-15 03:29:51
+Dr. Marisa Rizqiana Dewi Sp THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:53
+Dr. Marisa Rizqiana Dewi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:53
+Dr. Mariska Regina Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:53
+dr. Mattheos Lucky Haurissa Sp.THT,Sp. THT,RS Putra Waspada Tulungagung,"Kedungwaru, Kabupaten Tulungagung",,ear-nose-andthroat,2025-06-15 03:29:53
+Dr. Maximiliano Agustian Mahardhika Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:53
+dr. Mei Risanti Sirait Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:53
+dr. Meila Sutanti Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",https://d1ojs48v3n42tp.cloudfront.net/personnels/719322_20-6-2023_14-36-55.png,ear-nose-andthroat,2025-06-15 03:29:53
+dr. Meilia Sutanti Sp.THT-KL,Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:29:53
+Dr. Merza M. Muzakkir Sp THT KL,Sp. THT,Apotek Zamzam,"Medan Kota, Kota Medan",,ear-nose-andthroat,2025-06-15 03:29:53
+Dr. Mila Habibasari Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:53
+Dr. Mohammad Lukmanul Hakim Winugroho Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+Dr. Muhammad Anwar Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+dr. Muhammad Pringgo Arifianto Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+dr. Nies Endang Mangunkusumo Sp THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+"Dr. Nugroho Suharsono, SP.THT-KL",Sp. THT,"Dr. Nugroho Suharsono, SP.THT-KL","Mojosari, Kabupaten Mojokerto",,ear-nose-andthroat,2025-06-15 03:29:56
+Dr. Olvi Nancy Marimpan Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+dr. Ong Awarudin Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+dr. Ong warudin Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:56
+"dr. Oppy Surya Atmaja, SpTHT",Sp. THT,Apotek Medikita,"Kalideres, Jakarta Barat",,ear-nose-andthroat,2025-06-15 03:29:56
+Dr. Orlena Dharmantary Kartika Sp.THT-KL,Sp. THT,0,"Bekasi Selatan, Bekasi",,ear-nose-andthroat,2025-06-15 03:29:56
+Dr. Pande Made Indra Premana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+Dr. Pande Nyoman Bayu Tirtayasa Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+dr. Pradhana F. Wicaksana Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+Prof Dr Teti Madiadipoera dr Sp THT-KL (K),Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+"Dr. Pudjo D. Laksono M.Kes, Sp.THT-KL, M.H",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+Dr. Putri Arihtalia Br Purba Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+dr. Putri Cita Sari Dewi Sp. THT- KL,Sp. THT,Praktek dr. Putri Citra Sari Sp.THT,"Bandongan, Kabupaten Magelang",,ear-nose-andthroat,2025-06-15 03:29:59
+Dr. Putri Citra Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+dr. Putu Ayu Ines Sp.THT-KL,Sp. THT,Praktek dokter bersama-,"Ciawi, Kabupaten Bogor",,ear-nose-andthroat,2025-06-15 03:29:59
+Dr. Putu Ayu Ines Lassiyani Surya Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:29:59
+Dr. Putu Kanjeng Ayu Pringgandani Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+Dr. Rahmat Faradilla Sp.THTBKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+dr. Rahmat Hidayat Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+Dr. Rahmi Surayya Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+Dr. Rano Digdayan Makerto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+"dr. Ratna Widyaningrum, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+Dr. Ratna Windyaningrum Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+Dr. Rika Caesaria Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+"dr. Rimelda Aquinas, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:01
+"dr. Rina Desdwi, Sp.THT-KL",Sp. THT,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",https://d1ojs48v3n42tp.cloudfront.net/personnels/515587_8-12-2022_15-46-41.png,ear-nose-andthroat,2025-06-15 03:30:01
+Dr. Rini Kartika Dewi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+"Dr. Riska Handriani Sp.THT-BKL, FICS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+dr. Risman Rais Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+"Dr. Rissa Ardika Nasution M.Ked(ORL-HNS), Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+Dr. Rizke Ayu Pujiati Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+"dr. Rodrigo Limmon Sp.THT-KL, MARS",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+Dr. Ronald Yohanes Febrianto Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+Dr. Ronny M. Simanjuntak Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+Dr. Rositania Manyang Budihardjo Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+dr Roy David Sarumpaet Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:04
+dr. Rully Satriawan Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:06
+dr. Rully Satriawan Sp. THT-KL,Sp. THT,Graha Spesialis Metro,"Metro Pusat, Kota Metro",,ear-nose-andthroat,2025-06-15 03:30:06
+"dr. Rusina Hayati, Sp.THT-KL",Sp. THT,Siloam Hospitals Banjarmasin,"Banjarmasin Tengah, Kota Banjarmasin",https://d1ojs48v3n42tp.cloudfront.net/personnels/666280_27-9-2022_13-54-5.png,ear-nose-andthroat,2025-06-15 03:30:06
+dr. SRI MELLA TALA Sp THT KL,Sp. THT,"dr. SRI MELLA TALA, Sp.THT-KL","Medan Amplas, Kota Medan",,ear-nose-andthroat,2025-06-15 03:30:06
+Dr. Sadri Yulius Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:06
+Dr. Sari Soeleiman Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:06
+dr Selvie Sire Sp. THT BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:06
+"dr. Shandi Ari Susanti, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:06
+dr. Shierly Kurniawan Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:06
+"dr. Sinta Sari, M.Kes. Sp.THT-KL",Sp. THT,Apotek Serumpun Bambu,"Cimahi Tengah, Kota Cimahi",,ear-nose-andthroat,2025-06-15 03:30:06
+Dr. Suryantoko Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+Dr. Syahnidel Fita Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+Dr. Sylvia Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+Dr. Tanto Sakti Hutama Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+dr. Tantri Kurniawati Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+dr. Tantri Kurniawati Sp. THT - KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+"dr. Trini Melinda M.Ked(ORL-HNS), Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+dr. Ulfa Fitriyani Sp. THT,Sp. THT,RS SIAGA MEDIKA PEMALANG,"Pemalang, Kabupaten Pemalang",,ear-nose-andthroat,2025-06-15 03:30:09
+dr. Unggul Amartio Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+dr. Unggul Amriarto Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:09
+Dr. Viika Miftakhul Umami Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+Dr. Vithari Anna Sarambu Sp. THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+Dr. Wahyudi Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+Dr. Wahyudi Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+dr. Wawan Siswadi Sp. THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+Dr. Widia Isa Aprillia Sujana Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+dr Widyana Mulyamin Sp THT,Sp. THT,Apotek Pelita Farma,"Cempaka Putih, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:30:11
+"dr. Wiliani Risnawati, Sp.THTBKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+dr. Winulang S N Sp. THT,Sp. THT,Dr. Winulang S N Sp. THT,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:11
+dr Yan Wirayudha Sp. THT,Sp. THT,RS PKU Muhammadiyah Kartasura,"Kartasura, Kab Sukoharjo",,ear-nose-andthroat,2025-06-15 03:30:11
+Dr. Yerni Karnita Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+"dr. Yosa Meyla Puar, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+dr. Yudistira Pratama Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+"Dr. Yunaldi Altila S.Ked, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+Dr. Yurnita Arifin Sp.THT-BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+de Emma Savitri SP.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+dr Eva Khristi Purbandini Sp.THT-KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+dr Intan Kartika Nursyahbani Sp.THT -BKL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+dr Muhammad Akbar spTHT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+dr Sugeng Santoso Sp.THT.KL,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:14
+dr Sylvia THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+dr Wardhani Sp.THT,Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. Agus Surono, SP.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. Bintari Nareswari, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. Diah Hayustiningsih, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+dr. Dini Novianti SpTHT,Sp. THT,dr. Dini Novianti SpTHT,"Makasar, Jakarta Timur",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. Dyah Astri Paramaramya, SP THT-BKL",Sp. THT,0,"Bekasi Selatan, Bekasi",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. Fari Ananda Daud, M.Kes,Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. H. Gunawan D, SpTHT.MARS",Sp. THT,Klinik Pratama Al Masoem Putri Mandiri,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. dr. Hendradi,S, Sp.THT.BKL(K)",Sp. THT,apotek kimia farma -,"Cihara, Kabupaten Lebak",,ear-nose-andthroat,2025-06-15 03:30:16
+"dr. Indra Setiawan, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Irfan, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+dr. Lisa Herminawaty S. Sp.T.H.T.B.K.L,Sp. THT,0,"Bekasi Selatan, Bekasi",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Muhammad Yoserizal,SpTHT",Sp. THT,RSUD BALARAJA,"Balaraja, Kabupaten Tangerang",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. NUGROHO SUHARSONO, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Nadhila Sharfina Pratiwi, Sp.THT-BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Novi Padevi, Sp.THT.BKL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Putu Ayu Ines Lassiyani Surya, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Rahmat Hidayat, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Regina Talitha Rosa, Sp.THT",Sp. THT,RS St. Carolus Salemba,"Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:30:19
+"dr. Ronaldi Tumbel, SpTHT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:21
+"dr. Stivina Azrial, Sp.THT-KL",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:21
+dr. Widyana Mulyamin Sp THT,Sp. THT,Apotek Pelita Farma,"Cempaka Putih, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:30:21
+"dr. Yonlan, Sp.THT",Sp. THT,halodoc,"Setiabudi, Jakarta Selatan",,ear-nose-andthroat,2025-06-15 03:30:21
+"dr.Aswaldi Ahmad,SpTHT",Sp. THT,"dr.Aswaldi Ahmad,SpTHT","Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:30:21
+"dr.Aswaldi Ahmad,SpTHT",Sp. THT,"dr.Aswaldi Ahmad,SpTHT","Menteng, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:30:21
+"dr.Roni Iskandar,SpTHT",Sp. THT,"dr.Roni Iskandar,SpTHT","Senen, Jakarta Pusat",,ear-nose-andthroat,2025-06-15 03:30:21

@@ -36,8 +36,8 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import Appointment from '@/services/Appointment.js'
-import { getDoctorById } from '@/services/Doctor.js'
+import Appointment from './services/Appointment.js'
+import { getDoctorById } from './services/Doctor.js'
 import Flatpickr from 'vue-flatpickr-component'
 import 'flatpickr/dist/flatpickr.css'
 

@@ -7,7 +7,7 @@
       :key="doctor.id"
       class="doc-card w-64 p-4 bg-white rounded-x1 shadow-md flex flex-col items-center text-center hover:shadow-lg transition-shadow">
         <img
-        :src="doctor.image"
+        :src="doctor.image ? doctor.image : defaultDoctorImage"
         alt="Doctor Image"
         class="w-24 h-24 object-cover rounded-full mb-2"
         @error="handleImageError" />
@@ -18,12 +18,6 @@
         <button
         class="doclist-appoint"
         @click="bookAppointment(doctor.id)">Buat Janji</button>
-      </div>
-
-      <div class="flex justify-center gap-4 mt-8">
-        <button @click="prevPage" :disabled="page === 1">Sebelumnya</button>
-        <span class="self-center font-semibold">Halaman {{ page }}</span>
-        <button @click="nextPage" :disabled="!hasMore">Berikutnya</button>
       </div>
     </div>
 
@@ -42,7 +36,8 @@
 <script setup>
 import { ref, onMounted, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import { getDoctorsByCategory } from '@/services/Doctor.js'
+import { getDoctorsByCategory } from './services/Doctor.js'
+import defaultDoctorImage from '../assets/profile-default-svgrepo-com.svg'
 
 const route = useRoute()
 const router = useRouter()
@@ -55,11 +50,7 @@ const slug = ref(route.params.slug)
 async function fetchDoctors(){
     loading.value = true
     const res = await getDoctorsByCategory(slug.value, page.value)
-    if(page.value === 1){
-        doctors.value = res.doctors || []
-    } else {
-        doctors.value = [...doctors.value, ...(res.doctors || [])]
-    }
+    doctors.value = res.doctors || []
     hasMore.value = res.hasMore
     loading.value = false
 }
@@ -98,7 +89,7 @@ onMounted(fetchDoctors)
 
 <style scoped>
 .doclist-appoint{
-    width: 18rem;
+    width: 10rem;
     margin-left: auto;
     margin-right: auto;
     background: #800000;
@@ -111,7 +102,7 @@ onMounted(fetchDoctors)
     transition: background 0.2s;
 }
 
-.doclist-appint:hover{
+.doclist-appoint:hover{
     background: #a83232;
 }
 
